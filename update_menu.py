@@ -65,21 +65,29 @@ def date_key(s):
     return (int(m.group(1)), int(m.group(2))) if m else None
 
 
-def all_meta(item):
-    meta = item.get("meta") or {}
-    vals = meta.values() if isinstance(meta, dict) else meta
-    out = []
-    for v in vals:
-        out.extend(v if isinstance(v, list) else [v])
-    return [str(x) for x in out if x]
+def _strings(x):
+    """Every string inside a nested structure (dicts, lists)."""
+    if isinstance(x, str):
+        yield x
+    elif isinstance(x, dict):
+        for v in x.values():
+            yield from _strings(v)
+    elif isinstance(x, (list, tuple)):
+        for v in x:
+            yield from _strings(v)
 
 
 def vegan_status(item):
-    tags = [t.lower() for t in all_meta(item)]
-    if "ve" in tags:
-        return "yes"
-    if any("pyydä ve" in t or "pyydettäessä vegaan" in t or "on request" in t for t in tags):
+    texts = [t.lower() for t in _strings({k: v for k, v in item.items() if k not in ("name", "price")})]
+    texts.append(str((item.get("price") or {}).get("name") or "").lower())  # e.g. "Vegaani" line
+    if any(p in t for t in texts for p in ("pyydä ve", "pyydettäessä vegaan", "on request", "ask for ve")):
         return "request"
+    tokens = {w for t in texts for w in re.findall(r"[a-zäöå*]+", t)}
+    if tokens & {"ve", "vegan", "vegaani", "vegaaninen", "vegansk"}:
+        return "yes"
+    name = str(item.get("name", "")).lower()
+    if re.search(r"\bvegan|\bvegaani", name):
+        return "yes"
     return "no"
 
 
@@ -185,6 +193,14 @@ def main():
         else:
             text = "\n\n".join([header] + blocks + [footer])
         (OUT / fname).write_text(text + "\n", encoding="utf-8")
+    sample = []
+    for r in centre:
+        m = menu_for(r, (today.day, today.month))
+        if m and m.get("data"):
+            sample.append({"title": r.get("title"), "items": m["data"][:4]})
+        if len(sample) == 2:
+            break
+    (OUT / "debug-sample.json").write_text(json.dumps(sample, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"Wrote {len(variants)} files for {day_label(today)} ({len(centre)} Keskusta restaurants in feed)")
 
 
