@@ -5,6 +5,7 @@ Output (in ./menu/):
   today.txt        every Keskusta Unicafe serving lunch today
   today-vegan.txt  same, vegan dishes only (incl. vegan on request)
   favourites.txt   only the restaurants listed in FAVOURITES below
+  favourites-vegan.txt  favourites, vegan dishes only (best size for a widget)
 """
 import json
 import os
@@ -21,7 +22,7 @@ LANG = "en"            # "en" or "fi" (dish names)
 SHOW_PRICES = False    # student price after each dish
 SHOW_HOURS = True      # lunch hours after each restaurant name
 # Restaurants for favourites.txt, matched by (part of) the name, e.g. ["Kaivopiha", "Porthania"].
-FAVOURITES = []
+FAVOURITES = ["Metsätalo", "Kaivopiha", "Kaisa-talo", "Soc&Kom"]
 # -------------------------------------------------------------------------
 
 ENDPOINT = "https://unicafe.fi/wp-json/swiss/v1/restaurants"
@@ -78,15 +79,17 @@ def _strings(x):
 
 
 def vegan_status(item):
-    texts = [t.lower() for t in _strings({k: v for k, v in item.items() if k not in ("name", "price")})]
-    texts.append(str((item.get("price") or {}).get("name") or "").lower())  # e.g. "Vegaani" line
-    if any(p in t for t in texts for p in ("pyydä ve", "pyydettäessä vegaan", "on request", "ask for ve")):
+    # Unicafe's diet labels live in meta["0"], e.g. ["G", "KELA", "Veg", "Ilmastovalinta"].
+    # "Veg" marks vegan dishes; ingredients are ignored on purpose (they can mention "vegan cheese" etc.).
+    meta = item.get("meta") or {}
+    labels = meta.get("0", []) if isinstance(meta, dict) else (meta[0] if meta else [])
+    labels = [str(x).strip().lower() for x in (labels if isinstance(labels, list) else [labels]) if x]
+    if any("pyydä" in l or "request" in l or "pyydettäessä" in l for l in labels):
         return "request"
-    tokens = {w for t in texts for w in re.findall(r"[a-zäöå*]+", t)}
-    if tokens & {"ve", "vegan", "vegaani", "vegaaninen", "vegansk"}:
+    if any(l in {"ve", "veg", "vegan", "vegaani"} for l in labels):
         return "yes"
-    name = str(item.get("name", "")).lower()
-    if re.search(r"\bvegan|\bvegaani", name):
+    if (str((item.get("price") or {}).get("name") or "").lower() in {"vegaani", "vegan"}
+            or re.search(r"\bvegan|\bvegaani", str(item.get("name", "")).lower())):
         return "yes"
     return "no"
 
@@ -129,6 +132,8 @@ def block(r, menu, vegan_only):
         if vegan_only and vs == "no":
             continue
         mark = " 🌱" if vs == "yes" else (" (🌱)" if vs == "request" else "")
+        if vegan_only and vs == "yes":
+            mark = ""  # every dish in a vegan-only list is vegan; keep lines short
         price = f"  {student_price(item)}" if SHOW_PRICES and student_price(item) else ""
         lines.append(f"• {item.get('name', '').strip()}{mark}{price}")
     if menu.get("message"):
@@ -176,6 +181,7 @@ def main():
         "today.txt": dict(),
         "today-vegan.txt": dict(vegan_only=True),
         "favourites.txt": dict(only=FAVOURITES or None),
+        "favourites-vegan.txt": dict(vegan_only=True, only=FAVOURITES or None),
     }
     OUT.mkdir(exist_ok=True)
     for fname, kw in variants.items():
