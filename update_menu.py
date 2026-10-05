@@ -23,6 +23,9 @@ SHOW_PRICES = False    # student price after each dish
 SHOW_HOURS = True      # lunch hours after each restaurant name
 # Restaurants for favourites.txt, matched by (part of) the name, e.g. ["Kaivopiha", "Porthania"].
 FAVOURITES = ["Metsätalo", "Kaivopiha", "Kaisa-talo", "Soc&Kom"]
+# Side dishes left out of every list (matched against the start of the dish name).
+SKIP = ["oat groats", "steamed rice", "boiled potato", "roasted root vegetables",
+        "baguette bar", "salladsbar", "salad bar", "keitetty", "kaurasuurimo"]
 # -------------------------------------------------------------------------
 
 ENDPOINT = "https://unicafe.fi/wp-json/swiss/v1/restaurants"
@@ -128,6 +131,8 @@ def block(r, menu, vegan_only):
         if is_notice(item):
             lines.append(f"  ! {item.get('name', '').strip()}")
             continue
+        if str(item.get("name", "")).strip().lower().startswith(tuple(SKIP)):
+            continue
         vs = vegan_status(item)
         if vegan_only and vs == "no":
             continue
@@ -157,6 +162,18 @@ def build(restaurants, day, vegan_only=False, only=None):
             if b:
                 blocks.append(b)
     return blocks
+
+
+def split_columns(blocks):
+    sizes = [b.count("\n") + 2 for b in blocks]
+    half, run, cut = sum(sizes) / 2, 0, len(blocks)
+    for i, n in enumerate(sizes):
+        if run + n / 2 > half:
+            cut = i
+            break
+        run += n
+    cut = max(1, min(cut, len(blocks) - 1)) if len(blocks) > 1 else len(blocks)
+    return blocks[:cut], blocks[cut:]
 
 
 def day_label(d):
@@ -199,6 +216,12 @@ def main():
         else:
             text = "\n\n".join([header] + blocks + [footer])
         (OUT / fname).write_text(text + "\n", encoding="utf-8")
+        # Two-column versions for a wide widget: name-1.txt (left), name-2.txt (right),
+        # restaurant blocks only, split so both columns have about the same number of lines.
+        stem = fname[:-4]
+        left, right = split_columns(blocks) if blocks else ([body[0] if not blocks else ""], [])
+        (OUT / f"{stem}-1.txt").write_text("\n\n".join(left) + "\n", encoding="utf-8")
+        (OUT / f"{stem}-2.txt").write_text("\n\n".join(right) + "\n", encoding="utf-8")
     sample = []
     for r in centre:
         m = menu_for(r, (today.day, today.month))
