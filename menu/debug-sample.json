@@ -4,13 +4,12 @@
   "items": [
    {
     "name": "Plant-based tikka masala",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), vegan chunks (Water, WHEAT PROTEIN (24%), pea protein (10%), rapeseed oil, grape sugar, apple cider vinegar, natural flavors, salt, yeast extract, onion powder, thickener (guar gum). May contain SOY.), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), onion (onion (Poland)), leek (leek (100%)), zucchini (zucchini), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil (seed: eu)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), garam masala seasoning (Cumin, cardamom, coriander, black pepper, cloves, cinnamon, cayenne), sweet pepper (yellow bell pepper (34%), red bell pepper (33%), green pepper (33%)), white balsamic vinegar (rapeseed oil (EU), white balsamic vinegar (19%)(Finland)(white wine vinegar, grape juice concentrate, natural flavouring, antioxidant E220 SULPHUR DIOXIDE), water, sugar, olive oil, salt, colour (E160a), preservatives (E211, E202), thickener (E415)), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), coriander (Coriander 100%), chili seasoning, ground fennel (Fennel (non-EU).), dill seed (Dill seeds (non-EU).). Hiilijalanjälki: 0.32 kg CO2e / annos",
+    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), vegan chunks (Water, WHEAT PROTEIN (24%), pea protein (10%), rapeseed oil, grape sugar, apple cider vinegar, natural flavors, salt, yeast extract, onion powder, thickener (guar gum). May contain SOY.), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), onion (onion (Poland)), leek (leek (100%)), zucchini (zucchini), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil (seed: eu)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), garam masala seasoning (Cumin, cardamom, coriander, black pepper, cloves, cinnamon, cayenne), sweet pepper (yellow bell pepper (34%), red bell pepper (33%), green pepper (33%)), white balsamic vinegar (rapeseed oil (EU), white balsamic vinegar (19%)(Finland)(white wine vinegar, grape juice concentrate, natural flavouring, antioxidant E220 SULPHUR DIOXIDE), water, sugar, olive oil, salt, colour (E160a), preservatives (E211, E202), thickener (E415)), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), coriander (Coriander 100%), chili seasoning, ground fennel (Fennel (non-EU).), dill seed (Dill seeds (non-EU).). Hiilijalanjälki: 0.51 kg CO2e / annos",
     "nutrition": "Energy 542kJ, energy 130kcal, fat 7.1g, of which saturated fat 0.6g, carbohydrate 6.6g, of which sugars 4.9g, protein 9.1g, salt 0.62g, fibre 2.3g, lactose 0g.",
     "meta": {
      "0": [
       "KELA",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [
       "cereals containing gluten",
@@ -19,9 +18,7 @@
       "sulfur dioxide and sulfits",
       "wheat"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
@@ -30,14 +27,13 @@
    },
    {
     "name": "Breaded Alaska pollock pieces with miso-lime sour cream sauce",
-    "ingredients": "Breaded ALASKAN SAITHE (ALASKAN POLLOCK (Gadus chalcogrammus) (60%), bread crumbs (rice flour, chickpea flour, corn starch,salt, dextrose), water, rape seed oil, potato starch, batter mix (rice flour, potato starch, modified potato starch (E1422), salt, onion, spice extract), salt, onion, white pepper.), SOURCREAM (pasteurized CREAM(Finland), starter culture.), miso paste (water, SOYBEAN, rice, salt), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), chives (chives (EU)), sugar (sugar (Netherlands)). Hiilijalanjälki: 0.35 kg CO2e / annos",
-    "nutrition": "Energy 765kJ, energy 183kcal, fat 9.4g, of which saturated fat 1.9g, carbohydrate 14g, of which sugars 1.5g, protein 11g, salt 0.73g, fibre <0.1g, lactose <0.01g.",
+    "ingredients": "Breaded ALASKAN SAITHE (ALASKAN POLLOCK (Gadus chalcogrammus) (60%), bread crumbs (rice flour, chickpea flour, corn starch,salt, dextrose), water, rape seed oil, potato starch, batter mix (rice flour, potato starch, modified potato starch (E1422), salt, onion, spice extract), salt, onion, white pepper.), SOURCREAM (pasteurized CREAM(Finland), starter culture.), miso paste (water, SOYBEANS 35 %, rice, salt.), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), chives (chives (EU)), sugar (sugar (Netherlands)), Turkish YOGHURT (Pasteurised MILK and CREAM (origin: Finland), MILK protein, starter). Hiilijalanjälki: 0.54 kg CO2e / annos",
+    "nutrition": "Energy 763kJ, energy 183kcal, fat 9.4g, of which saturated fat 1.9g, carbohydrate 14g, of which sugars 1.5g, protein 11g, salt 0.72g, fibre <0.1g, lactose <0.01g.",
     "meta": {
      "0": [
       "G",
       "KELA",
-      "L",
-      "Ilmastovalinta"
+      "L"
      ],
      "1": [
       "fish",
@@ -45,9 +41,7 @@
       "soybens",
       "sulfur dioxide and sulfits"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
@@ -56,7 +50,7 @@
    },
    {
     "name": "Huli huli chicken with Gochujang mayonnaise",
-    "ingredients": "Chicken roast cutlett (chicken thigh (85 %), water, rapeseed oil, iodised salt, preservative E 262. Origin of chicken Finland), undefined [vegetable mix (Carrot, parsnip, yellow carrot, romano bean, red pepper.), canola oil (rapeseed oil (seed: eu)), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)], undefined [mayonnaise (water, canola oil (EU), modified potato starch, EGG, sugar, MUSTARD (water, MUSTARD SEED, sugar, vinegar, salt, spices), salt, vinegar, stabiliser (E412), preservative (E202), acidity regulators (E270, E330), colouring (E160a)), YOGHURT (Pasteurized MILK (Finland) and starter culture (asidofilus-bifido)), chili paste (Fermented rice paste (rice, water, salt, koji (aspergillus oryzae)), fermented rice syrup (water, rice, alcohol, koji (aspergillus oryzae), salt), water, red pepper powder (10%), salt, alcohol, yeast extract, SOYBEAN ESSENCE, rice powder, onion powder, carrot powderm garlic concentrate.)], pineapple juice (Pineapple juice made with pineapple juice concentrate.), chili paste (Fermented rice paste (rice, water, salt, koji (aspergillus oryzae)), fermented rice syrup (water, rice, alcohol, koji (aspergillus oryzae), salt), water, red pepper powder (10%), salt, alcohol, yeast extract, SOYBEAN ESSENCE, rice powder, onion powder, carrot powderm garlic concentrate.), tomato ketchup (tomato puree, sugar, modified starch, salt, vinegar, acidity regulator (E330), flavourings, preservatives (E202, E211).), SOY sauce (Water, SOYBEAN PROTEIN HYDROLYZATE, salt.), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), soft brown sugar (Sugar and cane sugar syrup). Hiilijalanjälki: 0.66 kg CO2e / annos",
+    "ingredients": "Chicken roast cutlett (chicken thigh (85 %), water, rapeseed oil, iodised salt, preservative E 262. Origin of chicken Finland), undefined [vegetable mix (Carrot, parsnip, yellow carrot, romano bean, red pepper.), canola oil (rapeseed oil (seed: eu)), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)], undefined [mayonnaise (water, canola oil (EU), modified potato starch, EGG, sugar, MUSTARD (water, MUSTARD SEED, sugar, vinegar, salt, spices), salt, vinegar, stabiliser (E412), preservative (E202), acidity regulators (E270, E330), colouring (E160a)), YOGHURT (Pasteurized MILK (Finland) and starter culture (asidofilus-bifido)), chili paste (Fermented rice paste (rice, water, salt, koji (aspergillus oryzae)), fermented rice syrup (water, rice, alcohol, koji (aspergillus oryzae), salt), water, red pepper powder (10%), salt, alcohol, yeast extract, SOYBEAN ESSENCE, rice powder, onion powder, carrot powderm garlic concentrate.)], pineapple juice (Pineapple juice made with pineapple juice concentrate.), chili paste (Fermented rice paste (rice, water, salt, koji (aspergillus oryzae)), fermented rice syrup (water, rice, alcohol, koji (aspergillus oryzae), salt), water, red pepper powder (10%), salt, alcohol, yeast extract, SOYBEAN ESSENCE, rice powder, onion powder, carrot powderm garlic concentrate.), tomato ketchup (tomato puree, sugar, modified starch, salt, vinegar, acidity regulator (E330), flavourings, preservatives (E202, E211).), SOY sauce (Water, SOYBEAN PROTEIN HYDROLYZATE, salt.), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), soft brown sugar (Sugar and cane sugar syrup). Hiilijalanjälki: 0.85 kg CO2e / annos",
     "nutrition": "Energy 586kJ, energy 137kcal, fat 7.2g, of which saturated fat 1.0g, carbohydrate 8.8g, of which sugars 5.4g, protein 9.2g, salt 1.9g, fibre 0.5g, lactose <0.01g.",
     "meta": {
      "0": [
@@ -79,18 +73,15 @@
    },
    {
     "name": "Steamed basmati rice",
-    "ingredients": "Water, basmati rice (basmati rice), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), flat-leaf parsley (flatparsley). Hiilijalanjälki: 0.14 kg CO2e / annos",
+    "ingredients": "Water, basmati rice (basmati rice), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), flat-leaf parsley (flatparsley)",
     "nutrition": "Energy 503kJ, energy 119kcal, fat <0.5g, of which saturated fat <0.1g, carbohydrate 26g, of which sugars <0.5g, protein 2.8g, salt 0.04g, fibre 0.6g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
