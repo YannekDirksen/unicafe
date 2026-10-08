@@ -3,20 +3,17 @@
   "title": "Olivia staff restaurant",
   "items": [
    {
-    "name": "Macaroni casserole",
-    "ingredients": "Water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), macaroni (WHEAT, DURUM WHEAT FLOUR, water.), vegan mince (Water, pea protein, rapeseed powder, salt, flavorings and spices (black and white pepper), beetroot juice concentrate, caramelized sugar, carrageenan. Partially defatted rapeseed powder may cause an allergic reaction in consumers who are allergic to mustard and mustard products.), onion (onion (Poland)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), paprika powder (Paprika), black pepper. Hiilijalanjälki: 0.35 kg CO2e / annos",
-    "nutrition": "Energy 464kJ, energy 111kcal, fat 4.1g, of which saturated fat 0.4g, carbohydrate 14g, of which sugars 1.0g, protein 4.3g, salt 0.48g, fibre 0.8g, lactose 0g.",
+    "name": "Cabbage rolls & lingonberry",
+    "ingredients": "Cabbageroll with vegetarian filling (White cabbage (61%), rice, water, carrot, swede, onion, syrup, vegetable oil (rapeseed, canola), salt, vegetable stock powder (iodised salt, spices (onion, carrot, leek, lovage, black pepper), maltodextrin (maize), dextrose, flavourings (umami, parsley, paprika extract), vegetable oil (rapeseed)), coriander. Vegetables 83%), lingonberry (Lingonberry.), lingonberry jam (Lingonberry (EU), sugar, water, thickener (pectin), acidity regulator (citric acid), preservative (potassium sorbate). 100 g of product contains 38 g of lingonberries.), pickle base (Water, invert sugar syrup, distilled vinegar, salt), syrup (Sugar syrup), rosemary. Hiilijalanjälki: 0.48 kg CO2e / annos",
+    "nutrition": "Energy 478kJ, energy 113kcal, fat 2.7g, of which saturated fat 0.3g, carbohydrate 20g, of which sugars 7.9g, protein 1.9g, salt 0.76g, fibre 2.3g.",
     "meta": {
      "0": [
+      "G",
       "KELA",
       "Veg",
       "Ilmastovalinta"
      ],
-     "1": [
-      "cereals containing gluten",
-      "oat",
-      "wheat"
-     ],
+     "1": [],
      "2": [
       "Ilmastovalinta"
      ]
@@ -27,9 +24,9 @@
     }
    },
    {
-    "name": "Baked potato with smoked salmon and horseradish filling",
-    "ingredients": "Baked potato (potato), SOURCREAM (pasteurized CREAM(Finland), starter culture.), cold smoked SALMON fillet (SALMON (Salmo salar, farmed in Norway), salt, acidity regulator (E326 Potassium lactate, E262 Sodium diacetate).), hot smoked RAINBOW TROUT fillet (RAINBOW TROUT (Oncorhynchus mykiss, cultured Finland), salt), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), zucchini strip (Zucchini), red onion (red onion (100%)), pickled cucumber dices (Cherkins (EU), water, vinegar, salt, sugar, preservatives (E211,E202), stabilizer (E509), aromas (MUSTARD SEED), sweetener (saccharin).), horseradish paste (Grated horseradish 56 %, rapeseed oil, water, horseradish flavor, iodized salt, potato fiber, thickener (xanthan gum), antioxidant (SODIUM DISULPHITE, ascorbic acid).  May contain traces of MUSTARD.), dill (dill (origin: India or EU)), pickle base (Water, invert sugar syrup, distilled vinegar, salt). Hiilijalanjälki: 0.54 kg CO2e / annos",
-    "nutrition": "Energy 436kJ, energy 104kcal, fat 4.1g, of which saturated fat 0.9g, carbohydrate 13g, of which sugars 1.1g, protein 3.9g, salt 0.33g, fibre 0.8g, lactose <0.01g.",
+    "name": "Rainbow trout steaks and dill sauce",
+    "ingredients": "SALMON mince patty (RAINBOW TROUT (Oncorhynchus mykiss, Finland, 58%), SALMON (Salmo salar, Norway, 19%), CREAM, water, chives, potato flakes, EGG WHITE powder, SOY protein, potato fiber, salt, black pepper, FISH STOCK, (salt, yeast extract, dextrose, onion, flavor (black pepper), rapeseed oil, stabilizer (E407), dill, seasoned salt (salt, garlic, onion, coriander, turmeric, ginger, chili, pepper, sugar, corn maltodextrine, yeast extract.), SOURCREAM (pasteurised CREAM, starter culture), lemon juice (lemon juice made from concentrate (non EU).), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), black pepper (Black pepper cracked), sugar (sugar), dill (dill). Hiilijalanjälki: 0.76 kg CO2e / annos",
+    "nutrition": "Energy 743kJ, energy 179kcal, fat 14g, of which saturated fat 4.6g, carbohydrate 3.6g, of which sugars 1.8g, protein 8.7g, salt 0.80g, fibre 0g, lactose <1g.",
     "meta": {
      "0": [
       "G",
@@ -37,7 +34,28 @@
       "L"
      ],
      "1": [
+      "eggs",
       "fish",
+      "milk",
+      "soybens"
+     ],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Buffet"
+    }
+   },
+   {
+    "name": "Pork cheeks in mustard sauce",
+    "ingredients": "Pork cheek (Pork meat (origin Finland), iodized salt, stabilizers (E450, E451), antioxidant (E301), color (E150d).), undefined [water, MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), onion (onion (Poland)), BUTTER (pasteurised CREAM, salt), MUSTARD (water, MUSTARD SEED (EU and non-EU), spirit vinegar, salt, antioxidant (potassium disulfite), acidity regulator (E330)), rotisseur mustard (water, spirit vinegar, MUSTARD SEED, MUSTARD SEED SHELL, salt, acidity regulator (E330), flavors, antioxidant (potassium disulfite), turmeric), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), cornstarch, browning sauce (Colour (caramel E150c), water, salt (10 %).), black pepper], parsley. Hiilijalanjälki: 0.96 kg CO2e / annos",
+    "nutrition": "Energy 545kJ, energy 130kcal, fat 8.6g, of which saturated fat 3.7g, carbohydrate 1.6g, of which sugars 0.7g, protein 11g, salt 1.0g, fibre 0.1g, lactose <0.01g.",
+    "meta": {
+     "0": [
+      "G",
+      "L"
+     ],
+     "1": [
       "milk",
       "mustard",
       "sulfur dioxide and sulfits"
@@ -50,29 +68,9 @@
     }
    },
    {
-    "name": "Chicken fillet with goat cheese sauce",
-    "ingredients": "Chicken fillet (chicken fillet (91 %), water, iodised seasalt. Origin of chicken Finland), tomato juice (Tomato juice from concentrate, sugar, salt), MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified maize and tapioca starch, emulsifier(E472e), flavouring, colour(beta-carotene)), BUTTER (pasteurised CREAM, salt), onion (onion (100%)), goat CHEESE (Pasteurised goat's MILK, salt, lactic and fungic ferments, coagulant. Heavily salted.), non alcoholic white wine (Grapes, concentrated grape juice, acidity regulator: tartaric acid, carbon dioxide, preservatives: SULPHITES and dimethyl dicarbonate.), marinated cherry tomato (semi-dried cherry tomatoes (90%), sunflower oil, salt, garlic, oregano), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), cornstarch, canola oil (rapeseed oil (seed: eu)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), sugar (sugar (Netherlands)), parsley (parsley (100%, EU)), rosemary. Hiilijalanjälki: 0.88 kg CO2e / annos",
-    "nutrition": "Energy 520kJ, energy 124kcal, fat 6.6g, of which saturated fat 2.8g, carbohydrate 3.3g, of which sugars 1.5g, protein 13g, salt 1.4g, fibre 0.2g, lactose <0.01g.",
-    "meta": {
-     "0": [
-      "G",
-      "VL"
-     ],
-     "1": [
-      "milk",
-      "sulfur dioxide and sulfits"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": [],
-     "name": "Buffet"
-    }
-   },
-   {
-    "name": "Steamed rice",
-    "ingredients": "Water, rice (parboiled long-grain rice), flat-leaf parsley (flatparsley), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), canola oil (rapeseed oil (seed: eu))",
-    "nutrition": "Energy 497kJ, energy 117kcal, fat 0.6g, of which saturated fat 0.2g, carbohydrate 25g, of which sugars <0.5g, protein 2.5g, salt <0.01g, fibre 0.5g, lactose 0g.",
+    "name": "Steamed vegetables",
+    "ingredients": "Broccoli (Broccoli (EU) (100%)), baby carrot (baby carrot), cauliflower (Cauliflower (origin: FI/ES/NL/FR). May contain traces of other vegetables)",
+    "nutrition": "Energy 130kJ, energy 31kcal, fat 0.5g, of which saturated fat 0.1g, carbohydrate 2.9g, of which sugars 2.6g, protein 2.3g, salt 0.03g, fibre 2.8g, lactose 0g.",
     "meta": {
      "0": [
       "G",
@@ -92,18 +90,16 @@
   "title": "Myöhä Café & Bar",
   "items": [
    {
-    "name": "Burger with Beyond patty and fries",
-    "ingredients": "French fries (Potatoes (89,5%), coating (5%) [modified starch, rice flour, dextrin, thickener: xanthan gum], sunflower oil, salt), vegetable patty (Water, Pea Protein 16%, Rapeseed Oil, Coconut Oil, Rice Protein, Flavouring, Stabiliser (Methyl Cellulose), Potato Starch, Apple Extract, Colour (Beetroot Red), Maltodextrin, Pomegranate Extract, Salt, Potassium Chloride, Concentrated Lemon Juice, Maize Vinegar, Carrot Powder, Emulsifier (Sunflower Lecithin).), hamburger bun (WHEAT FLOUR (WHEAT: EU), water, potato (potato flour, fermented potato flour, flake, potato starch), sugar, vegetable oil (rapeseed), yeast, WHEAT GLUTEN, iodized salt, emulsifiers (E472e, E322, E471, E481), butter flavor, preservative (E282, E200), turmeric, flour treatment agent (E300), dried WHEAT sourdough, dried yeast. May contain small amounts of sesame seeds.), undefined [mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), BBQ sauce (Water, SOY (water, SOY protein hydrolysate, salt), chili paste (chili, salt, preservatives E260 and E202), ginger paste (ginger, spirit vinager, SOY bean oil, sugar, salt, acidity regulators E330 and E300), rice vinegar, garlic, apple vinegar, rapeseed oil, modified corn starch, applepure, spices (onion, black pepper, gochugaru chili flakes), salt, flavours, colour (E150c).)], pickled cucumber with garlic (Cucumber, water, salt (3,5%), dill, garlic, horseradish, wine berry leaf, preservative (sodium benzoate).), salad mix (Romaine lettuce (35 %), frisée lettuce (35 %), radicchio (20 %) and mâche (10 %)), roasted onion (onion (EU), palm oil, WHEAT flour, salt.)",
-    "nutrition": "Energy 899kJ, energy 216kcal, fat 12g, of which saturated fat 2.3g, carbohydrate 19g, of which sugars 1.8g, protein 6.9g, salt 0.76g, fibre 2.3g, lactose 0g.",
+    "name": "Vegan chicken cutlet & fries",
+    "ingredients": "Vegetable based breaded patties (Water, fermented fava bean (EU), corn flakes, pea protein, rapeseed oil, thickener (methylcellulose, cellulose), spices (e.g. garlic, paprika, black pepper), dextrose, onion, salt, rice, flavourings, maltodextrin.), french fries (Potatoes (89,5%), coating (5%) [modified starch, rice flour, dextrin, thickener: xanthan gum], sunflower oil, salt), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), lemon, capers (caperberries, water, vinegar, salt)",
+    "nutrition": "Energy 864kJ, energy 207kcal, fat 12g, of which saturated fat 1.0g, carbohydrate 17g, of which sugars 1.7g, protein 6.2g, salt 0.97g, fibre 4.0g, lactose 0g.",
     "meta": {
      "0": [
+      "G",
       "Veg"
      ],
      "1": [
-      "cereals containing gluten",
-      "mustard",
-      "soybens",
-      "wheat"
+      "mustard"
      ],
      "2": []
     },
@@ -120,9 +116,9 @@
     }
    },
    {
-    "name": "Mexican tomato soup",
-    "ingredients": "Water, crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), black bean (rehydrated dried black beans (non-EU), water, salt), onion (onion (Poland)), sweet corn kernels (corn grain (Hungary)), tomato puree (tomato (100 %, Portugal)), nacho chips (corn flour (79%) (EU), sunflower oil, salt. May contain traces of soy.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), canola oil (rapeseed oil (seed: eu)), coriander, sugar (Sugar), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), cumin (Cumin.), smoked paprika powder, paprika powder (Paprika ground), cajun seasoning (Garlic, salt, onion, oregano, white pepper, paprika, glucose, cayenne, libstick, rapeseed oil, aroma (paprika).), cayenne pepper (Cayenne pepper (non-EU).), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535))",
-    "nutrition": "Energy 259kJ, energy 62kcal, fat 1.7g, of which saturated fat 0.1g, carbohydrate 8.6g, of which sugars 3.0g, protein 2.5g, salt 0.49g, fibre 2.1g, lactose 0g.",
+    "name": "Chickpea purée soup",
+    "ingredients": "Vegetable mix (carrot 40% (EU), zucchini 25% (EU), swede 25% (EU), leek 10% (EU)), water, chick pea (rehydrated dried chickpeas (EU and non-EU), water, antioxidant (E223 sodium DISULPHITE)), onion (onion (Poland)), potato (potato,antioxidant (SODIUM DISULFITE)), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), canola oil (rapeseed oil (seed: eu)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), parsley (parsley (100%, EU)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper, rosemary (Rosemary.)",
+    "nutrition": "Energy 238kJ, energy 56kcal, fat 2.1g, of which saturated fat 0.2g, carbohydrate 6.4g, of which sugars 1.4g, protein 1.8g, salt 0.31g, fibre 2.2g, lactose 0g.",
     "meta": {
      "0": [
       "G",
@@ -130,6 +126,7 @@
       "Veg"
      ],
      "1": [
+      "oat",
       "sulfur dioxide and sulfits"
      ],
      "2": []
@@ -147,17 +144,18 @@
     }
    },
    {
-    "name": "Unlimited bolognese pasta casserole",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, spaghetti (DURUM WHEAT FLOUR, water. May contain traces of SOYA AND MUSTARD.), root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), vegan mince (Water, pea protein, rapeseed powder, salt, flavorings and spices (black and white pepper), beetroot juice concentrate, caramelized sugar, carrageenan. Partially defatted rapeseed powder may cause an allergic reaction in consumers who are allergic to mustard and mustard products.), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil (seed: eu)), vegan alternative for cheese (water, palm oil* (24%, non-eu), modified potato starch, potato starch, modified tapioca starch, salt, flavourings, coloring (E160a), acidity regulators (E330, E270). Vegan. *responsibly produced and certified palm oil), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), soft brown sugar (Sugar and cane sugar syrup), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), basil, thyme, chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), paprika powder (Paprika)",
-    "nutrition": "Energy 511kJ, energy 121kcal, fat 3.4g, of which saturated fat 0.5g, carbohydrate 17g, of which sugars 3.7g, protein 5.3g, salt 0.48g, fibre 1.7g, lactose 0g.",
+    "name": "Smoked tofu & horseradish bake with traditional pickled cucumbers",
+    "ingredients": "Potato strips (potato), undefined [cucumber (Cucumber), water, vinegar (Distilled vinegar. Acetic acid content 10%.), sugar (sugar (Netherlands)), dill, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)], OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), cold smoked TOFU (SOYBEAN (61%), water, SOY SAUCE (SOYBEAN, WHEAT, sea salt), smoke flavor.), onion (onion (Poland)), horseradish paste (Grated horseradish 56 %, rapeseed oil, water, horseradish flavor, iodized salt, potato fiber, thickener (xanthan gum), antioxidant (SODIUM DISULPHITE, ascorbic acid).  May contain traces of MUSTARD.), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), dill (dill (origin: India or EU)), black pepper",
+    "nutrition": "Energy 445kJ, energy 106kcal, fat 4.3g, of which saturated fat 0.5g, carbohydrate 13g, of which sugars 2.8g, protein 3.4g, salt 0.66g, fibre 0.8g, lactose <0.01g.",
     "meta": {
      "0": [
+      "G",
       "KELA",
       "Veg"
      ],
      "1": [
-      "celery",
-      "cereals containing gluten",
+      "oat",
+      "soybens",
       "sulfur dioxide and sulfits",
       "wheat"
      ],
@@ -176,19 +174,19 @@
     }
    },
    {
-    "name": "Vebab & Sweet Chili bowl",
-    "ingredients": "Undefined [water, OAT groat (gluten free OAT.)], iceberg salad (Iceberg lettuce), vege slice (Water, WHEAT protein (origin EU), rapeseed oil, modified potato starch, pea protein, onion, coconut fat, spices (i.a garlic, coriander, chili), rice, flavourings (i.a smoke), salt, emulsifier (sunflower lecithin), corn maltodextrine, dextrose, apple extract, food colouring (paprika extract).), pickled red cabbage (red cabbage (EU), water, vinegar, sugar, salt), mango (mango 100% (Vietnam)), beetroot hummus (Chickpea (Canada), water, beetroot, SESAME SEED PASTE, rapeseed oil, lemon juice, lingonberry syrup, onion, seasalt, sugar, cumin, black pepper, preservative (citric acid potassium sorbate)), pea groats (Pea), sprout salad (Organic sprouts of green peas), sweet chili sauce (water, sugar, red chili (23 %, Thailand), garlic, salt, modified corn starch, acidity regulator (E260)), undefined [sunflower seed (sunflower seeds (EU)), pumpkin seed (pumpkin seeds (non-EU))], sprout salad (organic daikon radish (50), red clover (25%) and alfalfa (25%) sprouts)",
-    "nutrition": "Energy 566kJ, energy 135kcal, fat 4.8g, of which saturated fat 0.8g, carbohydrate 14g, of which sugars 6.0g, protein 7.0g, salt 0.45g, fibre 2.5g, lactose 0g.",
+    "name": "Vegan bites & fresh tomato salsa bowl",
+    "ingredients": "Undefined [water, OAT groat (gluten free OAT.)], vegetable balls (Broad beans, chickpeas, cornstarch, rapeseed oil, rice flour, onion, jalapeno, sugar, coriander, salt, spices (cumin, oregano, black pepper, cumin, paprika, nutmeg, cinnamon), garlic, lime leaves, chili, ginger puree. Vegetable content 89%.), iceberg salad (Iceberg lettuce), pickled red cabbage (red cabbage (EU), water, vinegar, sugar, salt), mango (mango 100% (Vietnam)), beetroot hummus (Chickpea (Canada), water, beetroot, SESAME SEED PASTE, rapeseed oil, lemon juice, lingonberry syrup, onion, seasalt, sugar, cumin, black pepper, preservative (citric acid potassium sorbate)), sprout salad (Organic sprouts of green peas), pea groats (Pea), tomato salsa (Tomato 83%, red onion, jalapeno 4%, sugar, coriander, iodized salt. Packed in modified atmosphere.), undefined [sunflower seed (sunflower seeds (EU)), pumpkin seed (pumpkin seeds (non-EU))], sprout salad (organic daikon radish (50), red clover (25%) and alfalfa (25%) sprouts)",
+    "nutrition": "Energy 526kJ, energy 126kcal, fat 4.4g, of which saturated fat 0.5g, carbohydrate 15g, of which sugars 4.5g, protein 4.6g, salt 0.33g, fibre 3.2g, lactose 0g.",
     "meta": {
      "0": [
+      "G",
       "KELA",
       "Veg"
      ],
      "1": [
-      "cereals containing gluten",
+      "mustard",
       "oat",
-      "sesame seeds",
-      "wheat"
+      "sesame seeds"
      ],
      "2": []
     },
