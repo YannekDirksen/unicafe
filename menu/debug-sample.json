@@ -93,35 +93,6 @@
   "title": "Myöhä Café & Bar",
   "items": [
    {
-    "name": "Peas of heaven spicy hot dogs",
-    "ingredients": "Vegetarian sausage (Water, rapeseed oil, pea protein (10,6%), starch pea- and potato starch), thickener (methylcellulose, processed euchema seaweed, konjac gum), black pepper, chili, garlic, paprika, white pepper, cayenne pepper, oregano, cumin, allspice, citrus fiber, salt, acidity regulator (tartaric acid), dextrose, aroma, stabilizer (E450), sugar.), french fries (Potatoes (89,5%), coating (5%) [modified starch, rice flour, dextrin, thickener: xanthan gum], sunflower oil, salt), hot dog bun (WHEAT flour, water, durum WHEAT flour (12,1%) (WHEAT: EU), invert sugar, WHEAT GLUTEN, rapeseed oil, potato starch, potato flakes, yeast, semolina (WHEAT) (1,4%), salt, psyllium seed, vegetable emulsifier (E471, E481), flavouring, sourdough powder of WHEAT, BARLEY malt flour, flour treatment agent (E300). May contain traces of sesame seeds. Extra salted.), gherkin salad (Cubed cucumbers (52%, EU and non EU), water, sugar, acetic acid, onion, red sweet pepper,CELERY, salt, emulsifiers (E412, E410, E406), preservative (E211), aromas, acid (E330), sweetener (E954). Might contain small amounts mustard seeds.), roasted onion (onion (EU), palm oil, WHEAT flour, salt.), MUSTARD (spirit vinegar, water, mustard seed, salt (2.5%), turmeric, paprika, spices, aromas, garlic powder.)",
-    "nutrition": "Energy 894kJ, energy 212kcal, fat 11g, of which saturated fat 1.7g, carbohydrate 22g, of which sugars 2.5g, protein 5.6g, salt 1.2g, fibre 3.4g, lactose <0.01g.",
-    "meta": {
-     "0": [
-      "Veg"
-     ],
-     "1": [
-      "barley",
-      "celery",
-      "cereals containing gluten",
-      "mustard",
-      "wheat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "5.30",
-      "graduate": "8.75",
-      "contract": "8.90",
-      "normal": "11.50",
-      "student_hyy": "5.30",
-      "graduate_hyy": "8.75"
-     },
-     "name": "Päivän erikoinen"
-    }
-   },
-   {
     "name": "Mushroom Soup",
     "ingredients": "OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), champignon (champion), onion (onion (100%)), margarine (Vegetable fat (palm oil, coconut fat), rapeseed oil, water, salt, emulsifiers (E471 plant based, E472c, E322 sunflower lecithin), acidity regulators (E330, E500), flavouring, vitamin A, vitamin D2, colour (E160a).), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), chives (chives (EU)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), white pepper (White pepper.), cornstarch",
     "nutrition": "Energy 597kJ, energy 143kcal, fat 12g, of which saturated fat 2.1g, carbohydrate 6.4g, of which sugars 3.2g, protein 1.9g, salt 0.52g, fibre 0.6g, lactose <0.01g.",
@@ -202,6 +173,26 @@
       "graduate_hyy": "6.35"
      },
      "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Oat groats, gluten-free",
+    "ingredients": "Water, OAT (Gluten free OATS, heat treated)",
+    "nutrition": "Energy 522kJ, energy 125kcal, fat 2.4g, of which saturated fat 0.5g, carbohydrate 19g, of which sugars <0.5g, protein 4.8g, salt <0.01g, fibre 3.2g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg"
+     ],
+     "1": [
+      "oat"
+     ],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Lisäke"
     }
    }
   ]
