@@ -3,9 +3,9 @@
   "title": "Kaivopiha",
   "items": [
    {
-    "name": "Smoked tofu & horseradish bake ",
-    "ingredients": "Potato strips (potato), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), cold smoked TOFU (SOYBEAN (61%), water, SOY SAUCE (SOYBEAN, WHEAT, sea salt), smoke flavor.), onion (onion (Poland)), horseradish paste (Grated horseradish 56 %, rapeseed oil, water, horseradish flavor, iodized salt, potato fiber, thickener (xanthan gum), antioxidant (SODIUM DISULPHITE, ascorbic acid).  May contain traces of MUSTARD.), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), dill (dill (origin: India or EU)), black pepper. Hiilijalanjälki: 0.33 kg CO2e / annos",
-    "nutrition": "Energy 473kJ, energy 113kcal, fat 4.9g, of which saturated fat 0.6g, carbohydrate 13g, of which sugars 1.4g, protein 3.8g, salt 0.74g, fibre 0.8g, lactose <0.01g.",
+    "name": "Vegan Rendang",
+    "ingredients": "Chick pea (rehydrated dried chickpeas (EU and non-EU), water, antioxidant (E223 sodium DISULPHITE)), undefined [onion (onion (Poland)), chopped chili (100% chopped red chilli), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), lemongrass paste (Lemongrass 47 %, water, vinegar, sugar, salt, thickener, (xanthan gum), acidity regulator (citric acid).), canola oil (rapeseed oil (seed: eu)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), turmeric (Turmeric), black pepper], coconut milk (coconut extract (75%), water, emulsifier (E471), stabiliser (E466).), bean mix (beans in varifying portions (borlotti beans, cannellini beans, chickpeas, red kidney beans), water, salt, antioxidant: ascorbin acid), water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), soft brown sugar (Sugar and cane sugar syrup), SOY sauce (Water, SOYBEAN PROTEIN HYDROLYZATE, salt.), cornstarch, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), kaffir lime leaf. Hiilijalanjälki: 0.39 kg CO2e / annos",
+    "nutrition": "Energy 519kJ, energy 124kcal, fat 7.4g, of which saturated fat 3.5g, carbohydrate 10g, of which sugars 3.4g, protein 2.8g, salt 0.53g, fibre 2.6g, lactose 0g.",
     "meta": {
      "0": [
       "G",
@@ -16,8 +16,7 @@
      "1": [
       "oat",
       "soybens",
-      "sulfur dioxide and sulfits",
-      "wheat"
+      "sulfur dioxide and sulfits"
      ],
      "2": [
       "Ilmastovalinta"
@@ -55,20 +54,19 @@
     }
    },
    {
-    "name": "Limonello organic tofu sauce",
-    "ingredients": "OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), tofu dices (Tofu* (SOYbeans* and water), gluten free SOY sauce* (SOYbeans*, WHEAT* and salt), water, flavor extract mixture (garlic*, lemon*, coriander*, ginger* and chili*), rapeseed oil*, paprika powder* and turmeric powder*. *organic ingredient), water, onion (onion (100%)), plantbased cream cheese (water, coconut oil (29%), starch, bamboo fiber, modified starch, lentil protein, sea salt, dextrose, thickener: locust bean gum, acidity regulator: lactic acid, flavorings, color: beta-carotene, olive extract, vitamin B12.), lemon juice, white syrup (Sugar syrup, starch syrup), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), sugar (Sugar), lemon peels (lemon peel 100%), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), canola oil (rapeseed oil (seed: eu)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), cornstarch, turmeric (Turmeric), chili, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper. Hiilijalanjälki: 0.14 kg CO2e / annos",
-    "nutrition": "Energy 601kJ, energy 144kcal, fat 9.4g, of which saturated fat 2.1g, carbohydrate 9.8g, of which sugars 6.2g, protein 4.7g, salt 0.48g, fibre 0.6g, lactose 0g.",
+    "name": "Perch fish balls with tartar sauce",
+    "ingredients": "Lake FISH ball (PERCH (Perca fluviatilis) caught from Finnish sea area 29 % FAO 27.3.d Baltic Sea, caught MSC certified SHAITHE (Pollachius virens FAO 27 Northeast Atlantic), parsnip, rapeseed oil, potato flakes, lactose free CREAM, lactose free BUTTER, onion, citrus fiber, thickeners (E461, E407a), dill, iodised salt, black pepper.), SOURCREAM (pasteurized CREAM(Finland), starter culture.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), tartar-relish (Carrot 25 %, cucumber 20 %, sugar, water, cauliflower 10 %, vinegar, onion 7 %, iodized salt, preservative (potassium sorbate), flavorings (cloves, white pepper).), water. Hiilijalanjälki: 0.32 kg CO2e / annos",
+    "nutrition": "Energy 782kJ, energy 187kcal, fat 13g, of which saturated fat 2.9g, carbohydrate 6.2g, of which sugars 1.4g, protein 11g, salt 0.90g, fibre 3.5g, lactose 0g.",
     "meta": {
      "0": [
-      "G",
       "KELA",
-      "Veg",
+      "L",
       "Ilmastovalinta"
      ],
      "1": [
-      "oat",
-      "soybens",
-      "wheat"
+      "fish",
+      "milk",
+      "mustard"
      ],
      "2": [
       "Ilmastovalinta"
@@ -76,21 +74,27 @@
     },
     "price": {
      "value": [],
-     "name": "Vegaanilounas"
+     "name": "Lounas"
     }
    },
    {
-    "name": "Baguette bar",
-    "ingredients": "",
-    "nutrition": "",
+    "name": "Oat groats, gluten-free",
+    "ingredients": "Water, OAT (Gluten free OATS, heat treated)",
+    "nutrition": "Energy 522kJ, energy 125kcal, fat 2.4g, of which saturated fat 0.5g, carbohydrate 19g, of which sugars <0.5g, protein 4.8g, salt <0.01g, fibre 3.2g, lactose 0g.",
     "meta": {
-     "0": [],
-     "1": [],
+     "0": [
+      "G",
+      "KELA",
+      "Veg"
+     ],
+     "1": [
+      "oat"
+     ],
      "2": []
     },
     "price": {
      "value": [],
-     "name": "Lounas"
+     "name": "Lisäke"
     }
    }
   ]
