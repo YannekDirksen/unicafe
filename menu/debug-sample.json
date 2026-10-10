@@ -1,198 +1,96 @@
 [
  {
-  "title": "Olivia staff restaurant",
+  "title": "Kaivopiha",
   "items": [
    {
-    "name": "Spicy tacos",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), vegan mince (Water, pea protein, rapeseed powder, salt, flavorings and spices (black and white pepper), beetroot juice concentrate, caramelized sugar, carrageenan. Partially defatted rapeseed powder may cause an allergic reaction in consumers who are allergic to mustard and mustard products.), taco shell (Corn flour (77%), sunflower oil, salt. May contain traces of soya.), tomato cubes (Tomato 100%.), SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), black bean (rehydrated dried black beans (non-EU), water, salt), sweet corn kernels (corn grain (Hungary)), onion (onion (100%)), jalapeno slices (jalapeño (Mexico), water, vinegar, salt, firming agent (E509), garlic), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil (seed: eu)), sugar (sugar (Netherlands)), coriander (Coriander 100%), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), apple cider vinegar (Apple cider vinegar. Acetic acid content 6%. Contains sulphites.), cumin (Cumin.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), chili paste (Red chilli 84 %, rice vinegar, sugar, salt.), paprika powder (Paprika), chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), black pepper, tacosauce (tomato puree (water, concentrated tomato), tomato, onion, jalapeno chili, wine vinegar, salt, sugar, thickeners (guar gum, xanthane gum). May contain traces of mustard.), syrup (Sugar syrup), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)). Hiilijalanjälki: 0.61 kg CO2e / annos",
-    "nutrition": "Energy 518kJ, energy 124kcal, fat 4.6g, of which saturated fat 0.4g, carbohydrate 14g, of which sugars 4.3g, protein 5.2g, salt 0.86g, fibre 2.2g, lactose 0g.",
+    "name": "Smoked tofu & horseradish bake ",
+    "ingredients": "Potato strips (potato), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), cold smoked TOFU (SOYBEAN (61%), water, SOY SAUCE (SOYBEAN, WHEAT, sea salt), smoke flavor.), onion (onion (Poland)), horseradish paste (Grated horseradish 56 %, rapeseed oil, water, horseradish flavor, iodized salt, potato fiber, thickener (xanthan gum), antioxidant (SODIUM DISULPHITE, ascorbic acid).  May contain traces of MUSTARD.), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), dill (dill (origin: India or EU)), black pepper. Hiilijalanjälki: 0.33 kg CO2e / annos",
+    "nutrition": "Energy 473kJ, energy 113kcal, fat 4.9g, of which saturated fat 0.6g, carbohydrate 13g, of which sugars 1.4g, protein 3.8g, salt 0.74g, fibre 0.8g, lactose <0.01g.",
     "meta": {
      "0": [
       "G",
       "KELA",
-      "Veg"
+      "Veg",
+      "Ilmastovalinta"
      ],
      "1": [
-      "soybens",
-      "sulfur dioxide and sulfits"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": [],
-     "name": "Buffet"
-    }
-   },
-   {
-    "name": "Whole grain fish fillet &  remoulade",
-    "ingredients": "Undefined [capers (capers, water, vinegar, salt), onion (onion (Poland)), SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), pickled cucumber dices (Cherkins (EU), water, vinegar, salt, sugar, preservatives (E211,E202), stabilizer (E509), aromas (MUSTARD SEED), sweetener (saccharin).), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), chives (chives (EU)), dill (dill (origin: India or EU)), MUSTARD (water, MUSTARD SEED (EU and non-EU), spirit vinegar, salt, antioxidant (potassium disulfite), acidity regulator (E330)), turmeric (Turmeric), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper], FISH fillet (Alaska Pollock (FISH) 63% (Gadus chalcogrammus). Whole WHEAT Flour, Rapeseed Oil, Water, Salt, Yeast, Malted WHEAT Flour, WHEATStarch, Raising Agents (Sodium carbonates, Diphosphates).), FISH fillet. Hiilijalanjälki: 0.69 kg CO2e / annos",
-    "nutrition": "Energy 760kJ, energy 182kcal, fat 9.9g, of which saturated fat 0.8g, carbohydrate 13g, of which sugars 1.1g, protein 9.0g, salt 1.3g, fibre 1.8g, lactose 0g.",
-    "meta": {
-     "0": [
-      "L"
-     ],
-     "1": [
-      "barley",
-      "cereals containing gluten",
-      "fish",
-      "mustard",
       "oat",
-      "rye",
       "soybens",
       "sulfur dioxide and sulfits",
       "wheat"
      ],
-     "2": []
+     "2": [
+      "Ilmastovalinta"
+     ]
     },
     "price": {
      "value": [],
-     "name": "Buffet"
+     "name": "Vegaanilounas"
     }
    },
    {
-    "name": "Pork schnitzel and forest mushroom sauce",
-    "ingredients": "Schnitzel (pork sirloin (61 %), bread crumbs (WHEAT, water, salt, spices (paprika, turmeric), yeast, rapedees oil), water, rapeseed oil, modified corn starch, iodised salt, stabilizer E 451, dextrose, thickening agent xanthan gum. High salt content. Origin of pork Finland), MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), forest mushroom cubes (mushrooms (mickle Milk-cap, Rufous Milk-cap, Saffron Milk-cap (EU and non EU), Oyster mushroom (non EU), water, salt, acidity regulator ( E330).), onion (onion (100%)), BUTTER (pasteurised CREAM, salt), white wine vinegar (white wine vinegar, antioxidant (potassium hydrogen SULPHITE)), non alcoholic white wine (De-alcoholised Chardonnay wine, rectified concentrated grape must, flavouring, carbon dioxide, preservatives, SULPHUR DIOXIDE, E242.), mushroom fond (Concentrated bouillon mushroom 61% (water, mushroom juice concentrate 4.7%, Boletus Luteus powder 4.0%), salt, sugar, onion juice concentrate, maltodextrin, flavourings, modified corn starch, thickener (xanthan gum), spices, bay leaf.), vegetable bouillon powder, black pepper (Black pepper cracked), lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), thyme (Finnish thyme), cornstarch (Corn starch.). Hiilijalanjälki: 1.03 kg CO2e / annos",
-    "nutrition": "Energy 803kJ, energy 191kcal, fat 11g, of which saturated fat 4.2g, carbohydrate 12g, of which sugars 1.3g, protein 11g, salt 1.1g, fibre 0.7g, lactose <0.01g.",
-    "meta": {
-     "0": [
-      "L"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "milk",
-      "sulfur dioxide and sulfits",
-      "wheat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": [],
-     "name": "Buffet"
-    }
-   },
-   {
-    "name": "Roasted beetroot",
-    "ingredients": "Beetroot wedge (beetroot), black salsify (Black salsify 100%.), carrot piece (carrot (100%)), canola oil (rapeseed oil (seed: eu)), salt (Sea salt, anti-caking agent (E535 EU)), kale (Kale), syrup, rosemary (Rosemary), thyme (Thyme)",
-    "nutrition": "Energy 277kJ, energy 66kcal, fat 1.9g, of which saturated fat 0.2g, carbohydrate 8.8g, of which sugars 6.9g, protein 0.9g, salt 0.40g, fibre 1.3g, lactose 0g.",
+    "name": "Vegan bites & mango salsa bowl",
+    "ingredients": "Undefined [water, OAT groat (gluten free OAT.)], vegetable balls (Broad beans, chickpeas, cornstarch, rapeseed oil, rice flour, onion, jalapeno, sugar, coriander, salt, spices (cumin, oregano, black pepper, cumin, paprika, nutmeg, cinnamon), garlic, lime leaves, chili, ginger puree. Vegetable content 89%.), mango (Mango. Variety Kaew.), iceberg salad (Iceberg lettuce), pickled red cabbage (red cabbage (EU), water, vinegar, sugar, salt), mango (mango 100% (Vietnam)), beetroot hummus (Chickpea (Canada), water, beetroot, SESAME SEED PASTE, rapeseed oil, lemon juice, lingonberry syrup, onion, seasalt, sugar, cumin, black pepper, preservative (citric acid potassium sorbate)), sprout salad (Organic sprouts of green peas), pea groats (Pea), red onion (red onion (100%)), undefined [sunflower seed (sunflower seeds (EU)), pumpkin seed (pumpkin seeds (non-EU))], chilli sauce, chopped chili (100% chopped red chilli), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), agave syrup, coriander, sprout salad (organic daikon radish (50), red clover (25%) and alfalfa (25%) sprouts). Hiilijalanjälki: 0.34 kg CO2e / annos",
+    "nutrition": "Energy 497kJ, energy 119kcal, fat 3.9g, of which saturated fat 0.4g, carbohydrate 15g, of which sugars 5.3g, protein 4.1g, salt 0.32g, fibre 2.8g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "Veg"
+      "KELA",
+      "Veg",
+      "Ilmastovalinta"
      ],
+     "1": [
+      "mustard",
+      "oat",
+      "sesame seeds",
+      "sulfur dioxide and sulfits"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Limonello organic tofu sauce",
+    "ingredients": "OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), tofu dices (Tofu* (SOYbeans* and water), gluten free SOY sauce* (SOYbeans*, WHEAT* and salt), water, flavor extract mixture (garlic*, lemon*, coriander*, ginger* and chili*), rapeseed oil*, paprika powder* and turmeric powder*. *organic ingredient), water, onion (onion (100%)), plantbased cream cheese (water, coconut oil (29%), starch, bamboo fiber, modified starch, lentil protein, sea salt, dextrose, thickener: locust bean gum, acidity regulator: lactic acid, flavorings, color: beta-carotene, olive extract, vitamin B12.), lemon juice, white syrup (Sugar syrup, starch syrup), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), sugar (Sugar), lemon peels (lemon peel 100%), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), canola oil (rapeseed oil (seed: eu)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), cornstarch, turmeric (Turmeric), chili, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper. Hiilijalanjälki: 0.14 kg CO2e / annos",
+    "nutrition": "Energy 601kJ, energy 144kcal, fat 9.4g, of which saturated fat 2.1g, carbohydrate 9.8g, of which sugars 6.2g, protein 4.7g, salt 0.48g, fibre 0.6g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "oat",
+      "soybens",
+      "wheat"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Baguette bar",
+    "ingredients": "",
+    "nutrition": "",
+    "meta": {
+     "0": [],
      "1": [],
      "2": []
     },
     "price": {
      "value": [],
-     "name": "Buffet"
-    }
-   }
-  ]
- },
- {
-  "title": "Myöhä Café & Bar",
-  "items": [
-   {
-    "name": "Mushroom Soup",
-    "ingredients": "OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), champignon (champion), onion (onion (100%)), margarine (Vegetable fat (palm oil, coconut fat), rapeseed oil, water, salt, emulsifiers (E471 plant based, E472c, E322 sunflower lecithin), acidity regulators (E330, E500), flavouring, vitamin A, vitamin D2, colour (E160a).), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), chives (chives (EU)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), white pepper (White pepper.), cornstarch",
-    "nutrition": "Energy 597kJ, energy 143kcal, fat 12g, of which saturated fat 2.1g, carbohydrate 6.4g, of which sugars 3.2g, protein 1.9g, salt 0.52g, fibre 0.6g, lactose <0.01g.",
-    "meta": {
-     "0": [
-      "G",
-      "Veg"
-     ],
-     "1": [
-      "oat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Vegaanilounas"
-    }
-   },
-   {
-    "name": "Breaded chipotle patties with spicy mango salsa",
-    "ingredients": "Vegetable patty (Water, pea protein, rapeseed oil, roasted onion [onion, vegetable oil (rapeseed and/or sunflower)], carrot, paprika, thickener (E461), onion powder, black pepper, smoked paprika, iodized salt, citrus fiber, umami [salt, maltodextrin, yeast extract, palm fat, onion powder, spices and herbs (e.g. garlic, bay leaf), butter, spice extract], chipotle chili pepper. Breading [water, corn flakes (corn, sugar, salt), modified corn starch, potato flour]), mango (mango 100% (Vietnam)), mango mash (mango (100 %, non-EU)), red onion (red onion (100%)), chilli sauce, chopped chili (100% chopped red chilli), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), agave syrup, coriander (Coriander 100%)",
-    "nutrition": "Energy 622kJ, energy 148kcal, fat 4.9g, of which saturated fat 0.4g, carbohydrate 19g, of which sugars 6.2g, protein 6.2g, salt 0.89g, fibre 2.1g, lactose 0g.",
-    "meta": {
-     "0": [
-      "G",
-      "KELA",
-      "Veg"
-     ],
-     "1": [
-      "sulfur dioxide and sulfits"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Vegaanilounas"
-    }
-   },
-   {
-    "name": "Crispy garlic-sesame pulled oats bowl",
-    "ingredients": "Undefined [water, OAT groat (gluten free OAT.)], pulled OATS (water, OAT 20 % (gluten free whole grain OAT flour, gluten free OAT bran), pea protein, faba bean protein, rapeseed oil.), iceberg salad (Iceberg lettuce), pickled red cabbage (red cabbage (EU), water, vinegar, sugar, salt), mango (mango 100% (Vietnam)), beetroot hummus (Chickpea (Canada), water, beetroot, SESAME SEED PASTE, rapeseed oil, lemon juice, lingonberry syrup, onion, seasalt, sugar, cumin, black pepper, preservative (citric acid potassium sorbate)), sprout salad (Organic sprouts of green peas), pea groats (Pea), roasted garlic and chili (SOYBEAN oil, garlic (17%, non-EU), SESAME oil, onion (8.0%, non-EU), sugar, salt, chili, soy sauce (water, SOYBEANS, WHEAT, salt, ethanol), yeast extract, acidity regulator ( E330), paprika extract), undefined [sunflower seed (sunflower seeds (EU)), pumpkin seed (pumpkin seeds (non-EU))], sprout salad (organic daikon radish (50), red clover (25%) and alfalfa (25%) sprouts)",
-    "nutrition": "Energy 579kJ, energy 138kcal, fat 5.0g, of which saturated fat 0.6g, carbohydrate 13g, of which sugars 4.2g, protein 7.3g, salt 0.31g, fibre 3.1g, lactose 0g.",
-    "meta": {
-     "0": [
-      "KELA",
-      "Veg"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "oat",
-      "sesame seeds",
-      "soybens",
-      "wheat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Vegaanilounas"
-    }
-   },
-   {
-    "name": "Oat groats, gluten-free",
-    "ingredients": "Water, OAT (Gluten free OATS, heat treated)",
-    "nutrition": "Energy 522kJ, energy 125kcal, fat 2.4g, of which saturated fat 0.5g, carbohydrate 19g, of which sugars <0.5g, protein 4.8g, salt <0.01g, fibre 3.2g, lactose 0g.",
-    "meta": {
-     "0": [
-      "G",
-      "KELA",
-      "Veg"
-     ],
-     "1": [
-      "oat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": [],
-     "name": "Lisäke"
+     "name": "Lounas"
     }
    }
   ]
