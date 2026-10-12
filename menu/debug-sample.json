@@ -99,17 +99,30 @@
   "title": "Myöhä Café & Bar",
   "items": [
    {
-    "name": "Vegenuggets & french fries, korean bbq mayonnaise",
-    "ingredients": "French fries (Potatoes (89,5%), coating (5%) [modified starch, rice flour, dextrin, thickener: xanthan gum], sunflower oil, salt), vegetable nugget, undefined [mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), BBQ sauce (Water, SOY (water, SOY protein hydrolysate, salt), chili paste (chili, salt, preservatives E260 and E202), ginger paste (ginger, spirit vinager, SOY bean oil, sugar, salt, acidity regulators E330 and E300), rice vinegar, garlic, apple vinegar, rapeseed oil, modified corn starch, applepure, spices (onion, black pepper, gochugaru chili flakes), salt, flavours, colour (E150c).)], orange",
-    "nutrition": "Energy 807kJ, energy 193kcal, fat 10.0g, of which saturated fat 0.8g, carbohydrate 18g, of which sugars 1.8g, protein 5.7g, salt 0.66g, fibre 3.9g, lactose 0g.",
+    "name": "Our operations will end on October 16, 2026. Thank you all for an amazing adventure!",
+    "ingredients": "",
+    "nutrition": "",
+    "meta": {
+     "0": [],
+     "1": [],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Tiedote"
+    }
+   },
+   {
+    "name": "Vegan chicken cutlet & fries",
+    "ingredients": "Vegetable based breaded patties (Water, fermented fava bean (EU), corn flakes, pea protein, rapeseed oil, thickener (methylcellulose, cellulose), spices (e.g. garlic, paprika, black pepper), dextrose, onion, salt, rice, flavourings, maltodextrin.), french fries (Potatoes (89,5%), coating (5%) [modified starch, rice flour, dextrin, thickener: xanthan gum], sunflower oil, salt), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), lemon, capers (caperberries, water, vinegar, salt)",
+    "nutrition": "Energy 864kJ, energy 207kcal, fat 12g, of which saturated fat 1.0g, carbohydrate 17g, of which sugars 1.7g, protein 6.2g, salt 0.97g, fibre 4.0g, lactose 0g.",
     "meta": {
      "0": [
+      "G",
       "Veg"
      ],
      "1": [
-      "cereals containing gluten",
-      "mustard",
-      "soybens"
+      "mustard"
      ],
      "2": []
     },
@@ -165,36 +178,6 @@
      "1": [
       "mustard",
       "oat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Vegaanilounas"
-    }
-   },
-   {
-    "name": "Seitan & Hoi sin bowl",
-    "ingredients": "Undefined [water, OAT groat (gluten free OAT.)], iceberg salad (Iceberg lettuce), seitan slices (WHEAT GLUTEN water, onion, potato, corn flour, rapeseed oil, paprika, mushroom, soy sauce (water, SOY PROTEIN hydrolyzate, salt), iodised salt, tomato puree, carrot, garlic, chili, cumin, oregano.), SOYA BEAN (SOY BEANS), pickled red cabbage (red cabbage (EU), water, vinegar, sugar, salt), orange wedges (Orange), hummus (Chickpea (Canada), water, SESAME SEED PASTE, rapeseed oil, green chili pepper, spinach, lemon juice, garlic, spices (i.a. black pepper), seasalt, sugar, preservative (citric acid, potassium sorbate)), hoisin sauce (water, SOYBEAN PASTE (water, SOYBEAN, WHEAT FLOUR, salt), sugar, SOY SAUCE (water, SOYBEAN, WHEAT FLOUR, salt), ginger, rice wine, salt, SESAME OIL, onion, syrup, corn starch, chili, garlic, vinegar, garlic aroma, preservatives (E202)), undefined [SOY mince (SOYbean, colour: E150d), canola oil (rapeseed oil (seed: eu)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]",
-    "nutrition": "Energy 481kJ, energy 115kcal, fat 4.0g, of which saturated fat 0.4g, carbohydrate 12g, of which sugars 3.8g, protein 8.2g, salt 0.64g, fibre 2.3g, lactose 0g.",
-    "meta": {
-     "0": [
-      "KELA",
-      "Veg"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "oat",
-      "sesame seeds",
-      "soybens",
-      "wheat"
      ],
      "2": []
     },
