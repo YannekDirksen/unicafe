@@ -113,16 +113,18 @@
     }
    },
    {
-    "name": "Vegan chicken cutlet & fries",
-    "ingredients": "Vegetable based breaded patties (Water, fermented fava bean (EU), corn flakes, pea protein, rapeseed oil, thickener (methylcellulose, cellulose), spices (e.g. garlic, paprika, black pepper), dextrose, onion, salt, rice, flavourings, maltodextrin.), french fries (Potatoes (89,5%), coating (5%) [modified starch, rice flour, dextrin, thickener: xanthan gum], sunflower oil, salt), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), lemon, capers (caperberries, water, vinegar, salt)",
-    "nutrition": "Energy 864kJ, energy 207kcal, fat 12g, of which saturated fat 1.0g, carbohydrate 17g, of which sugars 1.7g, protein 6.2g, salt 0.97g, fibre 4.0g, lactose 0g.",
+    "name": "Vegan sausage and fries",
+    "ingredients": "French fries (Potatoes (89,5%), coating (5%) [modified starch, rice flour, dextrin, thickener: xanthan gum], sunflower oil, salt), vegetarian sausage (Water, rapeseed oil, pea protein (10,6%), starch pea- and potato starch), thickener (methylcellulose, processed euchema seaweed, konjac gum), black pepper, chili, garlic, paprika, white pepper, cayenne pepper, oregano, cumin, allspice, citrus fiber, salt, acidity regulator (tartaric acid), dextrose, aroma, stabilizer (E450), sugar.), gherkin salad (Cubed cucumbers (52%, EU and non EU), water, sugar, acetic acid, onion, red sweet pepper,CELERY, salt, emulsifiers (E412, E410, E406), preservative (E211), aromas, acid (E330), sweetener (E954). Might contain small amounts mustard seeds.), roasted onion (onion (EU), palm oil, WHEAT flour, salt.), tomato ketchup (tomato puree, sugar, modified starch, salt, vinegar, acidity regulator (E330), flavourings, preservatives (E202, E211).), undefined [mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211))]",
+    "nutrition": "Energy 834kJ, energy 200kcal, fat 13g, of which saturated fat 1.9g, carbohydrate 17g, of which sugars 2.6g, protein 3.6g, salt 0.96g, fibre 3.3g, lactose <0.01g.",
     "meta": {
      "0": [
-      "G",
       "Veg"
      ],
      "1": [
-      "mustard"
+      "celery",
+      "cereals containing gluten",
+      "mustard",
+      "wheat"
      ],
      "2": []
     },
