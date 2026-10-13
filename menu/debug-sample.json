@@ -3,9 +3,9 @@
   "title": "Olivia staff restaurant",
   "items": [
    {
-    "name": "Mozambican nut and chickpea stew",
-    "ingredients": "Chick pea (rehydrated dried chickpeas (EU and non-EU), water, antioxidant (E223 sodium DISULPHITE)), coconut milk (coconut extract (75%), water, emulsifier (E471), stabiliser (E466).), spinach (Spinach 100%.), tomato cubes (Tomato 100%.), onion (onion (Poland)), water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), PEANUT butter (roasted PEANUT 100%. Contains naturally occuring sugars. May contain CASHEWNUTS, ALMONDS and HAZELNUTS.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), PEANUT (PEANUT (Argentina, China). May contain traces of nuts and sesame seeds.), canola oil (rapeseed oil (seed: eu)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), cornstarch, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.27 kg CO2e / annos",
-    "nutrition": "Energy 577kJ, energy 138kcal, fat 8.9g, of which saturated fat 3.8g, carbohydrate 8.6g, of which sugars 2.4g, protein 4.5g, salt 0.44g, fibre 2.3g, lactose 0g.",
+    "name": "Miso-Mushroom Ratatouille",
+    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), champignon, cherry tomato (cherry tomatoes, tomato juice, salt, acidity regulator: citric acid), water, fava bean mince (water, pea protein, rapeseed oil, fava bean flour 9 %. May contain traces of gluten-free oats.), onion (onion (Poland)), aubergine (aubergine), zucchini (Courgette), grilled sweet pepper mix (Grilled red pepper, Grilled yellow pepper), tomato puree (tomato (100 %, Portugal)), miso paste (water, SOYBEAN, rice, salt), canola oil (rapeseed oil (seed: eu)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), sugar (sugar (Netherlands)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), flat-leaf parsley (Leaf parsley 100%), thyme, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper, basil, apple cider vinegar (Apple cider vinegar. Acetic acid content 6%. Contains sulphites.). Hiilijalanjälki: 0.31 kg CO2e / annos",
+    "nutrition": "Energy 335kJ, energy 80kcal, fat 3.7g, of which saturated fat 0.4g, carbohydrate 6.0g, of which sugars 4.3g, protein 5.6g, salt 0.77g, fibre 1.6g, lactose 0g.",
     "meta": {
      "0": [
       "G",
@@ -14,8 +14,7 @@
       "Ilmastovalinta"
      ],
      "1": [
-      "oat",
-      "peanuts",
+      "soybens",
       "sulfur dioxide and sulfits"
      ],
      "2": [
@@ -28,20 +27,21 @@
     }
    },
    {
-    "name": "Perch fish balls & dill-lemon sour cream sauce",
-    "ingredients": "Lake FISH ball (PERCH (Perca fluviatilis) caught from Finnish sea area 29 % FAO 27.3.d Baltic Sea, caught MSC certified SHAITHE (Pollachius virens FAO 27 Northeast Atlantic), parsnip, rapeseed oil, potato flakes, lactose free CREAM, lactose free BUTTER, onion, citrus fiber, thickeners (E461, E407a), dill, iodised salt, black pepper.), SOURCREAM (pasteurized CREAM(Finland), starter culture.), lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), sugar (sugar (Netherlands)), dill (dill (origin: India or EU)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper. Hiilijalanjälki: 0.48 kg CO2e / annos",
-    "nutrition": "Energy 736kJ, energy 176kcal, fat 13g, of which saturated fat 3.7g, carbohydrate 6.1g, of which sugars 2.4g, protein 9.2g, salt 0.83g, fibre 2.7g, lactose <0.01g.",
+    "name": "Crispy pollock bites with beetroot remoulade",
+    "ingredients": "Crispy SAITHE (SAITHE (64%) (Pollachius virens, fished with trawl, nets, seine and hooks and lines in the Northeast Atlantic FAO areas 27.I-V), WHEAT flour, rapeseed oil, DURUM WHEAT, water, potato starch, corn starch, salt, WHEAT GLUTEN, yeast, raising agents (E450, E500), sugar, pepper extract), undefined [mayonnaise (water, canola oil (EU), modified potato starch, EGG, sugar, MUSTARD (water, MUSTARD SEED, sugar, vinegar, salt, spices), salt, vinegar, stabiliser (E412), preservative (E202), acidity regulators (E270, E330), colouring (E160a)), SOURCREAM (pasteurized CREAM(Finland), starter culture.), pickled cucumber dices (Cherkins (EU), water, vinegar, salt, sugar, preservatives (E211,E202), stabilizer (E509), aromas (MUSTARD SEED), sweetener (saccharin).), beetroot puree (Beetroot (eu, non-eu)), onion (onion (100%)), capers (capers, water, vinegar, salt), dill]. Hiilijalanjälki: 0.31 kg CO2e / annos",
+    "nutrition": "Energy 870kJ, energy 208kcal, fat 11g, of which saturated fat 1.4g, carbohydrate 15g, of which sugars 1.2g, protein 11g, salt 0.81g, fibre 0.7g, lactose <0.01g.",
     "meta": {
      "0": [
-      "G",
-      "KELA",
       "L",
       "Ilmastovalinta"
      ],
      "1": [
+      "cereals containing gluten",
+      "eggs",
       "fish",
       "milk",
-      "sulfur dioxide and sulfits"
+      "mustard",
+      "wheat"
      ],
      "2": [
       "Ilmastovalinta"
@@ -53,18 +53,17 @@
     }
    },
    {
-    "name": "Garlic stuffed chicken schnitzel with aioli",
-    "ingredients": "Chicken Kiev (Broiler meat 56%, herb BUTTER [18%, lactose-free BUTTER (CREAM, salt), crust flour (WHEAT flour, yeast), parsley, garlic, lemon juice [water, lemon juice concentrate, preservative (E224)]], water, crust flour (WHEAT flour, yeast), salt, rapeseed and canola oil.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), lemon juice (lemon juice made from concentrate (non EU).), sugar (sugar), flat-leaf parsley (flatparsley). Hiilijalanjälki: 0.60 kg CO2e / annos",
-    "nutrition": "Energy 1166kJ, energy 280kcal, fat 21g, of which saturated fat 6.8g, carbohydrate 5.3g, of which sugars 1.0g, protein 12g, salt 1.4g, fibre 0.5g, lactose <0.01g.",
+    "name": "Chicken in lemon–herb sauce",
+    "ingredients": "Chicken roast cutlett (chicken thigh (85 %), water, rapeseed oil, iodised salt, preservative E 262. Origin of chicken Finland), water, BUTTER (pasteurised CREAM, salt), MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), hollandaise sauce (canola oil (EU and non-EU), water, EGG YOLK, salt, lemon juice concentrate, wine vinegar, spirit vinegar, lemon oil, cayenne, flavouring, preservative (E202), colouring (E160a)), canola oil (rapeseed oil (seed: eu)), lemon, rosemary, chives (chives (EU)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper, bay leaf (Bay leaf), lemon juice (lemon juice made from concentrate (non EU).), spring onion, flat-leaf parsley (Leaf parsley 100%). Hiilijalanjälki: 0.69 kg CO2e / annos",
+    "nutrition": "Energy 851kJ, energy 204kcal, fat 18g, of which saturated fat 4.4g, carbohydrate 0.5g, of which sugars <0.5g, protein 11g, salt 0.90g, fibre <0.1g, lactose <0.01g.",
     "meta": {
      "0": [
+      "G",
       "L"
      ],
      "1": [
-      "cereals containing gluten",
-      "milk",
-      "mustard",
-      "wheat"
+      "eggs",
+      "milk"
      ],
      "2": []
     },
@@ -74,9 +73,9 @@
     }
    },
    {
-    "name": "Roasted root vegetables",
-    "ingredients": "Root vegatable mix (Carrot 45 % (EU), swede 40 % (EU), parsnip 15 % (EU), salt, rapeseed oil, thyme and basil.), kale (Kale), leek (Leek (origin: FI/NL/FR/ES). May contain traces of other vegetables.), canola oil (rapeseed oil (seed: eu)), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)). Hiilijalanjälki: 0.06 kg CO2e / annos",
-    "nutrition": "Energy 160kJ, energy 38kcal, fat 0.7g, of which saturated fat 0.1g, carbohydrate 6.1g, of which sugars 4.8g, protein 0.6g, salt 0.60g, fibre 2.5g, lactose 0g.",
+    "name": "15 Wok vihanneksia",
+    "ingredients": "Vegetable mix (Zucchini (30 %), carrot (20 %), broccoli (15 %), onion, red capsicum, yellow capsicum, green capsicum.), green beans (Belgian green bean), kale (Kale), canola oil (rapeseed oil (seed: eu)), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.04 kg CO2e / annos",
+    "nutrition": "Energy 166kJ, energy 40kcal, fat 1.7g, of which saturated fat 0.2g, carbohydrate 3.5g, of which sugars 3.1g, protein 1.4g, salt 0.81g, fibre 2.3g.",
     "meta": {
      "0": [
       "G",
@@ -141,17 +140,19 @@
     }
    },
    {
-    "name": "Plant-based mince soup",
-    "ingredients": "Water, potato (potato, NATRIUMDISULFIT), carrot piece (carrot (100%)), vegan mince (Water, pea protein, rapeseed powder, salt, flavorings and spices (black and white pepper), beetroot juice concentrate, caramelized sugar, carrageenan. Partially defatted rapeseed powder may cause an allergic reaction in consumers who are allergic to mustard and mustard products.), onion (onion (Poland)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), fond (\nWater, salt, flavouring, sugar, onion, stabiliser (xanthan gum), spices.), bay leaf (Bay leaf), pimento",
-    "nutrition": "Energy 193kJ, energy 46kcal, fat 0.5g, of which saturated fat <0.1g, carbohydrate 5.8g, of which sugars 1.4g, protein 4.0g, salt 0.43g, fibre 0.8g, lactose 0g.",
+    "name": "Marry Me” Chicken-Free Soup",
+    "ingredients": "Water, vegetable protein (Plant-based protein strips (pea protein, water, gluten-free whole grain OAT flour, gluten-free OAT groats), marinade (water, rapeseed oil, natural flavourings, sugar, herbs extract). Contains 23 % pea protein and 12 % OAT. May contain traces of soy.), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), whole WHEAT macaroni (Dark WHEAT flour, dark durum WHEAT flour, WHEAT gluten, WHEAT germ, OAT fiber. May contain traces of other cereals.), sundried tomato (Sundried tomato (non-eu), water, sugar, salt, wine vinegar, acidity regulator: ctric acid, antioxidant: ascorbic acid, preservative: POTASSIUM METABISULFITE.), spinach (Spinach, blanced, chopped), tomato puree (tomato (100 %, Portugal)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), vegetable bouillon powder, chicken seasoning (Glucose, paprika, chilli, onion, coriander, maltodecstrin (corn), acidity regulator (citric acid), black pepper, garlic, cumin.), thyme (Thyme), chili",
+    "nutrition": "Energy 293kJ, energy 70kcal, fat 3.0g, of which saturated fat 0.3g, carbohydrate 5.8g, of which sugars 1.3g, protein 4.2g, salt 0.48g, fibre 1.6g, lactose 0g.",
     "meta": {
      "0": [
-      "G",
       "KELA",
       "Veg"
      ],
      "1": [
-      "sulfur dioxide and sulfits"
+      "cereals containing gluten",
+      "oat",
+      "sulfur dioxide and sulfits",
+      "wheat"
      ],
      "2": []
     },
@@ -168,17 +169,15 @@
     }
    },
    {
-    "name": "Vegan frankfurter Stroganoff",
-    "ingredients": "Water, vegan sausage bite (Water, rapeseed oil, pea protein 12% (EU), potato starch, thickeners (karragen, metylcellulose, konjac, cellulose), salt, sea salt, sugar, spices (onion, garlic), flavouring (e.g. yeast extract, paprika, black pepper), maltodextrin, food colouring (iron oxide).), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), pickled cucumber dices (Cherkins (EU), water, vinegar, salt, sugar, preservatives (E211,E202), stabilizer (E509), aromas (MUSTARD SEED), sweetener (saccharin).), cornstarch, margarine (Vegetable fat (palm oil, coconut fat), rapeseed oil, water, salt, emulsifiers (E471 plant based, E472c, E322 sunflower lecithin), acidity regulators (E330, E500), flavouring, vitamin A, vitamin D2, colour (E160a).), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), black pepper, thyme, bay leaf (Bay leaf)",
-    "nutrition": "Energy 446kJ, energy 107kcal, fat 6.0g, of which saturated fat 1.3g, carbohydrate 8.6g, of which sugars 2.0g, protein 3.6g, salt 0.46g, fibre 1.7g, lactose <0.01g.",
+    "name": "Vegetable Lindström patty with browned onion sauce",
+    "ingredients": "Vegetable patty (Beetroot 54%, textured pea protein, potato, water, broad bean flour, dietary fibres (psyllium, pea fibre), potato starch, corn flour, rapeseed oil, onion, white pepper,carrot, chives, salt, garlic, black pepper, nutmeg.), water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), onion (onion (90%) (EU), sunflower oil), sugar (sugar (Netherlands)), canola oil (rapeseed oil (seed: eu)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), cornstarch, browning sauce (Colour (caramel E150c), water, salt (10 %).), black pepper",
+    "nutrition": "Energy 640kJ, energy 154kcal, fat 9.7g, of which saturated fat 0.8g, carbohydrate 13g, of which sugars 4.3g, protein 2.2g, salt 0.71g, fibre 2.5g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "KELA",
       "Veg"
      ],
      "1": [
-      "mustard",
       "oat"
      ],
      "2": []
