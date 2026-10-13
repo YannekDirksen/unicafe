@@ -136,19 +136,16 @@
     }
    },
    {
-    "name": "Marry Me” Chicken-Free Soup",
-    "ingredients": "Water, vegetable protein (Plant-based protein strips (pea protein, water, gluten-free whole grain OAT flour, gluten-free OAT groats), marinade (water, rapeseed oil, natural flavourings, sugar, herbs extract). Contains 23 % pea protein and 12 % OAT. May contain traces of soy.), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), whole WHEAT macaroni (Dark WHEAT flour, dark durum WHEAT flour, WHEAT gluten, WHEAT germ, OAT fiber. May contain traces of other cereals.), sundried tomato (Sundried tomato (non-eu), water, sugar, salt, wine vinegar, acidity regulator: ctric acid, antioxidant: ascorbic acid, preservative: POTASSIUM METABISULFITE.), spinach (Spinach, blanced, chopped), tomato puree (tomato (100 %, Portugal)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), vegetable bouillon powder, chicken seasoning (Glucose, paprika, chilli, onion, coriander, maltodecstrin (corn), acidity regulator (citric acid), black pepper, garlic, cumin.), thyme (Thyme), chili",
-    "nutrition": "Energy 293kJ, energy 70kcal, fat 3.0g, of which saturated fat 0.3g, carbohydrate 5.8g, of which sugars 1.3g, protein 4.2g, salt 0.48g, fibre 1.6g, lactose 0g.",
+    "name": "Vegetable Lindström patty with browned onion sauce",
+    "ingredients": "Vegetable patty (Beetroot 54%, textured pea protein, potato, water, broad bean flour, dietary fibres (psyllium, pea fibre), potato starch, corn flour, rapeseed oil, onion, white pepper,carrot, chives, salt, garlic, black pepper, nutmeg.), water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), onion (onion (90%) (EU), sunflower oil), sugar (sugar (Netherlands)), canola oil (rapeseed oil (seed: eu)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), cornstarch, browning sauce (Colour (caramel E150c), water, salt (10 %).), black pepper",
+    "nutrition": "Energy 640kJ, energy 154kcal, fat 9.7g, of which saturated fat 0.8g, carbohydrate 13g, of which sugars 4.3g, protein 2.2g, salt 0.71g, fibre 2.5g, lactose 0g.",
     "meta": {
      "0": [
-      "KELA",
+      "G",
       "Veg"
      ],
      "1": [
-      "cereals containing gluten",
-      "oat",
-      "sulfur dioxide and sulfits",
-      "wheat"
+      "oat"
      ],
      "2": []
     },
@@ -165,16 +162,20 @@
     }
    },
    {
-    "name": "Vegetable Lindström patty with browned onion sauce",
-    "ingredients": "Vegetable patty (Beetroot 54%, textured pea protein, potato, water, broad bean flour, dietary fibres (psyllium, pea fibre), potato starch, corn flour, rapeseed oil, onion, white pepper,carrot, chives, salt, garlic, black pepper, nutmeg.), water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), onion (onion (90%) (EU), sunflower oil), sugar (sugar (Netherlands)), canola oil (rapeseed oil (seed: eu)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), cornstarch, browning sauce (Colour (caramel E150c), water, salt (10 %).), black pepper",
-    "nutrition": "Energy 640kJ, energy 154kcal, fat 9.7g, of which saturated fat 0.8g, carbohydrate 13g, of which sugars 4.3g, protein 2.2g, salt 0.71g, fibre 2.5g, lactose 0g.",
+    "name": "Satay tofu bowl",
+    "ingredients": "Undefined [water, OAT groat (gluten free OAT.)], iceberg salad (Iceberg lettuce), tofu (Organic SOYBEANS (67%) (Austria), water.), SOYA BEAN (SOY BEANS), pickled red cabbage (red cabbage (EU), water, vinegar, sugar, salt), orange wedges (Orange), hummus (Chickpea (Canada), water, SESAME SEED PASTE, rapeseed oil, green chili pepper, spinach, lemon juice, garlic, spices (i.a. black pepper), seasalt, sugar, preservative (citric acid, potassium sorbate)), satay sauce (Water, PEANUT 21 %, coconut milk, sugar, soybean oil, lemongrass, garlic, red chilli, onion, salt, spices, galangal, acidity regulator (citric acid), Makrut lime, thickener (xanthan gum).), undefined [SOY mince (SOYbean, colour: E150d), canola oil (rapeseed oil (seed: eu)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]",
+    "nutrition": "Energy 511kJ, energy 122kcal, fat 5.0g, of which saturated fat 0.7g, carbohydrate 10g, of which sugars 3.5g, protein 7.4g, salt 0.20g, fibre 2.2g, lactose 0g.",
     "meta": {
      "0": [
       "G",
+      "KELA",
       "Veg"
      ],
      "1": [
-      "oat"
+      "oat",
+      "peanuts",
+      "sesame seeds",
+      "soybens"
      ],
      "2": []
     },
