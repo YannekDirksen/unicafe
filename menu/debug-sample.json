@@ -3,30 +3,6 @@
   "title": "Olivia staff restaurant",
   "items": [
    {
-    "name": "Miso-Mushroom Ratatouille",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), champignon, cherry tomato (cherry tomatoes, tomato juice, salt, acidity regulator: citric acid), water, fava bean mince (water, pea protein, rapeseed oil, fava bean flour 9 %. May contain traces of gluten-free oats.), onion (onion (Poland)), aubergine (aubergine), zucchini (Courgette), grilled sweet pepper mix (Grilled red pepper, Grilled yellow pepper), tomato puree (tomato (100 %, Portugal)), miso paste (water, SOYBEAN, rice, salt), canola oil (rapeseed oil (seed: eu)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), sugar (sugar (Netherlands)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), flat-leaf parsley (Leaf parsley 100%), thyme, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper, basil, apple cider vinegar (Apple cider vinegar. Acetic acid content 6%. Contains sulphites.). Hiilijalanjälki: 0.31 kg CO2e / annos",
-    "nutrition": "Energy 335kJ, energy 80kcal, fat 3.7g, of which saturated fat 0.4g, carbohydrate 6.0g, of which sugars 4.3g, protein 5.6g, salt 0.77g, fibre 1.6g, lactose 0g.",
-    "meta": {
-     "0": [
-      "G",
-      "KELA",
-      "Veg",
-      "Ilmastovalinta"
-     ],
-     "1": [
-      "soybens",
-      "sulfur dioxide and sulfits"
-     ],
-     "2": [
-      "Ilmastovalinta"
-     ]
-    },
-    "price": {
-     "value": [],
-     "name": "Buffet"
-    }
-   },
-   {
     "name": "Crispy pollock bites with beetroot remoulade",
     "ingredients": "Crispy SAITHE (SAITHE (64%) (Pollachius virens, fished with trawl, nets, seine and hooks and lines in the Northeast Atlantic FAO areas 27.I-V), WHEAT flour, rapeseed oil, DURUM WHEAT, water, potato starch, corn starch, salt, WHEAT GLUTEN, yeast, raising agents (E450, E500), sugar, pepper extract), undefined [mayonnaise (water, canola oil (EU), modified potato starch, EGG, sugar, MUSTARD (water, MUSTARD SEED, sugar, vinegar, salt, spices), salt, vinegar, stabiliser (E412), preservative (E202), acidity regulators (E270, E330), colouring (E160a)), SOURCREAM (pasteurized CREAM(Finland), starter culture.), pickled cucumber dices (Cherkins (EU), water, vinegar, salt, sugar, preservatives (E211,E202), stabilizer (E509), aromas (MUSTARD SEED), sweetener (saccharin).), beetroot puree (Beetroot (eu, non-eu)), onion (onion (100%)), capers (capers, water, vinegar, salt), dill]. Hiilijalanjälki: 0.31 kg CO2e / annos",
     "nutrition": "Energy 870kJ, energy 208kcal, fat 11g, of which saturated fat 1.4g, carbohydrate 15g, of which sugars 1.2g, protein 11g, salt 0.81g, fibre 0.7g, lactose <0.01g.",
@@ -76,6 +52,26 @@
     "name": "15 Wok vihanneksia",
     "ingredients": "Vegetable mix (Zucchini (30 %), carrot (20 %), broccoli (15 %), onion, red capsicum, yellow capsicum, green capsicum.), green beans (Belgian green bean), kale (Kale), canola oil (rapeseed oil (seed: eu)), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.04 kg CO2e / annos",
     "nutrition": "Energy 166kJ, energy 40kcal, fat 1.7g, of which saturated fat 0.2g, carbohydrate 3.5g, of which sugars 3.1g, protein 1.4g, salt 0.81g, fibre 2.3g.",
+    "meta": {
+     "0": [
+      "G",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Buffet"
+    }
+   },
+   {
+    "name": "Steamed rice",
+    "ingredients": "Water, rice (parboiled long-grain rice), flat-leaf parsley (flatparsley), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), canola oil (rapeseed oil (seed: eu)). Hiilijalanjälki: 0.27 kg CO2e / annos",
+    "nutrition": "Energy 497kJ, energy 117kcal, fat 0.6g, of which saturated fat 0.2g, carbohydrate 25g, of which sugars <0.5g, protein 2.5g, salt <0.01g, fibre 0.5g, lactose 0g.",
     "meta": {
      "0": [
       "G",
