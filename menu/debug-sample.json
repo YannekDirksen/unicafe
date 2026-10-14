@@ -3,55 +3,9 @@
   "title": "Olivia staff restaurant",
   "items": [
    {
-    "name": "Crispy pollock bites with beetroot remoulade",
-    "ingredients": "Crispy SAITHE (SAITHE (64%) (Pollachius virens, fished with trawl, nets, seine and hooks and lines in the Northeast Atlantic FAO areas 27.I-V), WHEAT flour, rapeseed oil, DURUM WHEAT, water, potato starch, corn starch, salt, WHEAT GLUTEN, yeast, raising agents (E450, E500), sugar, pepper extract), undefined [mayonnaise (water, canola oil (EU), modified potato starch, EGG, sugar, MUSTARD (water, MUSTARD SEED, sugar, vinegar, salt, spices), salt, vinegar, stabiliser (E412), preservative (E202), acidity regulators (E270, E330), colouring (E160a)), SOURCREAM (pasteurized CREAM(Finland), starter culture.), pickled cucumber dices (Cherkins (EU), water, vinegar, salt, sugar, preservatives (E211,E202), stabilizer (E509), aromas (MUSTARD SEED), sweetener (saccharin).), beetroot puree (Beetroot (eu, non-eu)), onion (onion (100%)), capers (capers, water, vinegar, salt), dill]. Hiilijalanjälki: 0.31 kg CO2e / annos",
-    "nutrition": "Energy 870kJ, energy 208kcal, fat 11g, of which saturated fat 1.4g, carbohydrate 15g, of which sugars 1.2g, protein 11g, salt 0.81g, fibre 0.7g, lactose <0.01g.",
-    "meta": {
-     "0": [
-      "L",
-      "Ilmastovalinta"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "eggs",
-      "fish",
-      "milk",
-      "mustard",
-      "wheat"
-     ],
-     "2": [
-      "Ilmastovalinta"
-     ]
-    },
-    "price": {
-     "value": [],
-     "name": "Buffet"
-    }
-   },
-   {
-    "name": "Chicken in lemon–herb sauce",
-    "ingredients": "Chicken roast cutlett (chicken thigh (85 %), water, rapeseed oil, iodised salt, preservative E 262. Origin of chicken Finland), water, BUTTER (pasteurised CREAM, salt), MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), hollandaise sauce (canola oil (EU and non-EU), water, EGG YOLK, salt, lemon juice concentrate, wine vinegar, spirit vinegar, lemon oil, cayenne, flavouring, preservative (E202), colouring (E160a)), canola oil (rapeseed oil (seed: eu)), lemon, rosemary, chives (chives (EU)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper, bay leaf (Bay leaf), lemon juice (lemon juice made from concentrate (non EU).), spring onion, flat-leaf parsley (Leaf parsley 100%). Hiilijalanjälki: 0.69 kg CO2e / annos",
-    "nutrition": "Energy 851kJ, energy 204kcal, fat 18g, of which saturated fat 4.4g, carbohydrate 0.5g, of which sugars <0.5g, protein 11g, salt 0.90g, fibre <0.1g, lactose <0.01g.",
-    "meta": {
-     "0": [
-      "G",
-      "L"
-     ],
-     "1": [
-      "eggs",
-      "milk"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": [],
-     "name": "Buffet"
-    }
-   },
-   {
-    "name": "15 Wok vihanneksia",
-    "ingredients": "Vegetable mix (Zucchini (30 %), carrot (20 %), broccoli (15 %), onion, red capsicum, yellow capsicum, green capsicum.), green beans (Belgian green bean), kale (Kale), canola oil (rapeseed oil (seed: eu)), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.04 kg CO2e / annos",
-    "nutrition": "Energy 166kJ, energy 40kcal, fat 1.7g, of which saturated fat 0.2g, carbohydrate 3.5g, of which sugars 3.1g, protein 1.4g, salt 0.81g, fibre 2.3g.",
+    "name": "Vegetable balls in pesto tomato sauce",
+    "ingredients": "Vegetable ball (Rehydrated pea protein (EU, Norway) 47 %, water, onion, rapeseed oil, fiber (pea), thickeners (E461, E407a), flavour, spices (garlic, coriander, black pepper), iodised salt, caramelized sugar, sunflower oil, potassium chloride), undefined [water, crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil (seed: eu)), basil (basil), sun-dried tomato (sun-dried tomato (non-EU), sunflower oil, salt, garlic, wine vinegar, acidity regulator (E270)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), soft brown sugar (Sugar and cane sugar syrup), paprika powder (Paprika), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), black pepper]. Hiilijalanjälki: 0.36 kg CO2e / annos",
+    "nutrition": "Energy 710kJ, energy 170kcal, fat 13g, of which saturated fat 1.1g, carbohydrate 4.4g, of which sugars 2.1g, protein 8.3g, salt 0.88g, fibre 2.5g, lactose <0.01g.",
     "meta": {
      "0": [
       "G",
@@ -69,9 +23,55 @@
     }
    },
    {
-    "name": "Steamed rice",
-    "ingredients": "Water, rice (parboiled long-grain rice), flat-leaf parsley (flatparsley), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), canola oil (rapeseed oil (seed: eu)). Hiilijalanjälki: 0.27 kg CO2e / annos",
-    "nutrition": "Energy 497kJ, energy 117kcal, fat 0.6g, of which saturated fat 0.2g, carbohydrate 25g, of which sugars <0.5g, protein 2.5g, salt <0.01g, fibre 0.5g, lactose 0g.",
+    "name": "Fried vendaces & remoulade sauce",
+    "ingredients": "VENDACE (VENDACE (Coregonus Albula, caught seine, trawl and trap fresh water lake Saimaa in Finland) 83 %, RYE flour, white peppar, salt, rapeseed oil, lactos free BUTTER), remoulade mayonnaise (water, rapeseed oil, pickled vegetables (18%) (cucumber, carrot, cauliflower, onion, sugar, acidity regulator E260, water, salt, preservative E202, flavourings), MUSTARD (water, MUSTARD SEEDS, sugar, acidity regulator E260, salt, preservative E202), sugar, EGG yolk, spirit vinegar, modified potato starch, iodized salt, thickener (E415), spices (garlic, cumin), preservatives (E202), acidity regulator (E575), flavour). Hiilijalanjälki: 0.37 kg CO2e / annos",
+    "nutrition": "Energy 1247kJ, energy 298kcal, fat 25g, of which saturated fat 2.8g, carbohydrate 6.1g, of which sugars 3.1g, protein 14g, salt 1.7g, fibre 0.8g, lactose 0g.",
+    "meta": {
+     "0": [
+      "L",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "cereals containing gluten",
+      "eggs",
+      "fish",
+      "milk",
+      "mustard",
+      "rye"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Buffet"
+    }
+   },
+   {
+    "name": "Baked sausage Mexican-style",
+    "ingredients": "Sausage (water, chicken, mechanically separated poultry meat (Finland), turkey, potato starch, poultry fat, salt (salt, iodine), potato fibre, potassium chloride, stabilizer E 450, dextrose, antioxidant E 301, flavour (incl. nutmeg, paprika), preservative sodium nitrite, smoked vinegar. Origin of chicken and turkey Finland), CREAM CHEESE (pasteurized CREAM (57%, Finland and Sweden), pasteurized skimmed MILK (38%, Sweden), skimmed MILK powder (Sweden), stabilizer (E412), salt, thickener (E440), lactase enzyme, preservative (E202), starter culture.), smetana (pasteurised CREAM, starter culture), onion (onion (Poland)), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), jalapeno slices (jalapeño (Mexico), water, vinegar, salt, firming agent (E509), garlic), chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), paprika powder (Paprika). Hiilijalanjälki: 0.98 kg CO2e / annos",
+    "nutrition": "Energy 889kJ, energy 214kcal, fat 17g, of which saturated fat 7.5g, carbohydrate 6.7g, of which sugars 1.4g, protein 8.4g, salt 1.4g, fibre 0.5g, lactose <0.01g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "L"
+     ],
+     "1": [
+      "milk"
+     ],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Buffet"
+    }
+   },
+   {
+    "name": "Steamed vegetables",
+    "ingredients": "Zucchini, pea (pea), cauliflower (cauliflower (100%)), carrot (carbo-peeled carrot (100%)). Hiilijalanjälki: 0.12 kg CO2e / annos",
+    "nutrition": "Energy 154kJ, energy 37kcal, fat <0.5g, of which saturated fat <0.1g, carbohydrate 4.9g, of which sugars 3.7g, protein 2.2g, salt 0.02g, fibre 2.1g, lactose 0g.",
     "meta": {
      "0": [
       "G",
@@ -108,17 +108,17 @@
     }
    },
    {
-    "name": "Vegan sausage and fries",
-    "ingredients": "French fries (Potatoes (89,5%), coating (5%) [modified starch, rice flour, dextrin, thickener: xanthan gum], sunflower oil, salt), vegetarian sausage (Water, rapeseed oil, pea protein (10,6%), starch pea- and potato starch), thickener (methylcellulose, processed euchema seaweed, konjac gum), black pepper, chili, garlic, paprika, white pepper, cayenne pepper, oregano, cumin, allspice, citrus fiber, salt, acidity regulator (tartaric acid), dextrose, aroma, stabilizer (E450), sugar.), gherkin salad (Cubed cucumbers (52%, EU and non EU), water, sugar, acetic acid, onion, red sweet pepper,CELERY, salt, emulsifiers (E412, E410, E406), preservative (E211), aromas, acid (E330), sweetener (E954). Might contain small amounts mustard seeds.), roasted onion (onion (EU), palm oil, WHEAT flour, salt.), tomato ketchup (tomato puree, sugar, modified starch, salt, vinegar, acidity regulator (E330), flavourings, preservatives (E202, E211).), undefined [mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211))]",
-    "nutrition": "Energy 834kJ, energy 200kcal, fat 13g, of which saturated fat 1.9g, carbohydrate 17g, of which sugars 2.6g, protein 3.6g, salt 0.96g, fibre 3.3g, lactose <0.01g.",
+    "name": "Burger with Beyond patty and fries",
+    "ingredients": "French fries (Potatoes (89,5%), coating (5%) [modified starch, rice flour, dextrin, thickener: xanthan gum], sunflower oil, salt), vegetable patty (Water, Pea Protein 16%, Rapeseed Oil, Coconut Oil, Rice Protein, Flavouring, Stabiliser (Methyl Cellulose), Potato Starch, Apple Extract, Colour (Beetroot Red), Maltodextrin, Pomegranate Extract, Salt, Potassium Chloride, Concentrated Lemon Juice, Maize Vinegar, Carrot Powder, Emulsifier (Sunflower Lecithin).), hamburger bun (WHEAT FLOUR (WHEAT: EU), water, potato (potato flour, fermented potato flour, flake, potato starch), sugar, vegetable oil (rapeseed), yeast, WHEAT GLUTEN, iodized salt, emulsifiers (E472e, E322, E471, E481), butter flavor, preservative (E282, E200), turmeric, flour treatment agent (E300), dried WHEAT sourdough, dried yeast. May contain small amounts of sesame seeds.), undefined [mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), BBQ sauce (Water, SOY (water, SOY protein hydrolysate, salt), chili paste (chili, salt, preservatives E260 and E202), ginger paste (ginger, spirit vinager, SOY bean oil, sugar, salt, acidity regulators E330 and E300), rice vinegar, garlic, apple vinegar, rapeseed oil, modified corn starch, applepure, spices (onion, black pepper, gochugaru chili flakes), salt, flavours, colour (E150c).)], pickled cucumber with garlic (Cucumber, water, salt (3,5%), dill, garlic, horseradish, wine berry leaf, preservative (sodium benzoate).), salad mix (Romaine lettuce (35 %), frisée lettuce (35 %), radicchio (20 %) and mâche (10 %)), roasted onion (onion (EU), palm oil, WHEAT flour, salt.)",
+    "nutrition": "Energy 899kJ, energy 216kcal, fat 12g, of which saturated fat 2.3g, carbohydrate 19g, of which sugars 1.8g, protein 6.9g, salt 0.76g, fibre 2.3g, lactose 0g.",
     "meta": {
      "0": [
       "Veg"
      ],
      "1": [
-      "celery",
       "cereals containing gluten",
       "mustard",
+      "soybens",
       "wheat"
      ],
      "2": []
@@ -136,16 +136,18 @@
     }
    },
    {
-    "name": "Vegetable Lindström patty with browned onion sauce",
-    "ingredients": "Vegetable patty (Beetroot 54%, textured pea protein, potato, water, broad bean flour, dietary fibres (psyllium, pea fibre), potato starch, corn flour, rapeseed oil, onion, white pepper,carrot, chives, salt, garlic, black pepper, nutmeg.), water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), onion (onion (90%) (EU), sunflower oil), sugar (sugar (Netherlands)), canola oil (rapeseed oil (seed: eu)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), cornstarch, browning sauce (Colour (caramel E150c), water, salt (10 %).), black pepper",
-    "nutrition": "Energy 640kJ, energy 154kcal, fat 9.7g, of which saturated fat 0.8g, carbohydrate 13g, of which sugars 4.3g, protein 2.2g, salt 0.71g, fibre 2.5g, lactose 0g.",
+    "name": "Vegan Chickpea soup with smoked bell pepper",
+    "ingredients": "Water, diced carrot (carrot), red sweet pepper cubes (Red capsicum), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), onion (onion (Poland)), potato (potato, NATRIUMDISULFIT), chick pea (Organic Chickpeas.), canola oil (rapeseed oil (seed: eu)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), parsley (parsley (100%, EU)), smoked paprika powder, black pepper",
+    "nutrition": "Energy 289kJ, energy 69kcal, fat 2.8g, of which saturated fat 0.2g, carbohydrate 8.1g, of which sugars 2.9g, protein 2.0g, salt 0.28g, fibre 2.1g, lactose 0g.",
     "meta": {
      "0": [
       "G",
+      "KELA",
       "Veg"
      ],
      "1": [
-      "oat"
+      "oat",
+      "sulfur dioxide and sulfits"
      ],
      "2": []
     },
@@ -162,20 +164,19 @@
     }
    },
    {
-    "name": "Satay tofu bowl",
-    "ingredients": "Undefined [water, OAT groat (gluten free OAT.)], iceberg salad (Iceberg lettuce), tofu (Organic SOYBEANS (67%) (Austria), water.), SOYA BEAN (SOY BEANS), pickled red cabbage (red cabbage (EU), water, vinegar, sugar, salt), orange wedges (Orange), hummus (Chickpea (Canada), water, SESAME SEED PASTE, rapeseed oil, green chili pepper, spinach, lemon juice, garlic, spices (i.a. black pepper), seasalt, sugar, preservative (citric acid, potassium sorbate)), satay sauce (Water, PEANUT 21 %, coconut milk, sugar, soybean oil, lemongrass, garlic, red chilli, onion, salt, spices, galangal, acidity regulator (citric acid), Makrut lime, thickener (xanthan gum).), undefined [SOY mince (SOYbean, colour: E150d), canola oil (rapeseed oil (seed: eu)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]",
-    "nutrition": "Energy 511kJ, energy 122kcal, fat 5.0g, of which saturated fat 0.7g, carbohydrate 10g, of which sugars 3.5g, protein 7.4g, salt 0.20g, fibre 2.2g, lactose 0g.",
+    "name": "Marry me vegetable pasta bake",
+    "ingredients": "Water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), pasta (Durum WHEAT semolina, water), vegetable protein (Plant-based protein strips (pea protein, water, gluten-free whole grain OAT flour, gluten-free OAT groats), marinade (water, rapeseed oil, natural flavourings, sugar, herbs extract). Contains 23 % pea protein and 12 % OAT. May contain traces of soy.), cherry tomato (cherry tomatoes, tomato juice, salt, acidity regulator: citric acid), tomato cubes (Tomato 100%.), red pepper cube (red pepper (100%, Poland)), spinach (Spinach, blanced, chopped), onion (onion (100%)), sundried tomato (Sundried tomato (non-eu), water, sugar, salt, wine vinegar, acidity regulator: ctric acid, antioxidant: ascorbic acid, preservative: POTASSIUM METABISULFITE.), canola oil (rapeseed oil (seed: eu)), tomato puree (tomato (100 %, Portugal)), vegan alternative for cheese (water, palm oil* (24%, non-eu), modified potato starch, potato starch, modified tapioca starch, salt, flavourings, coloring (E160a), acidity regulators (E330, E270). Vegan. *responsibly produced and certified palm oil), cornstarch, plantbased cream cheese (water, coconut oil (29%), starch, bamboo fiber, modified starch, lentil protein, sea salt, dextrose, thickener: locust bean gum, acidity regulator: lactic acid, flavorings, color: beta-carotene, olive extract, vitamin B12.), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), sugar (Sugar), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), chicken seasoning (Glucose, paprika, chilli, onion, coriander, maltodecstrin (corn), acidity regulator (citric acid), black pepper, garlic, cumin.), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), white wine vinegar (white wine vinegar, antioxidant (potassium hydrogen SULPHITE)), soft brown sugar (Sugar and cane sugar syrup), chili seasoning",
+    "nutrition": "Energy 691kJ, energy 165kcal, fat 7.6g, of which saturated fat 1.3g, carbohydrate 18g, of which sugars 3.9g, protein 5.0g, salt 0.78g, fibre 1.1g, lactose 0g.",
     "meta": {
      "0": [
-      "G",
-      "KELA",
       "Veg"
      ],
      "1": [
+      "cereals containing gluten",
+      "mustard",
       "oat",
-      "peanuts",
-      "sesame seeds",
-      "soybens"
+      "sulfur dioxide and sulfits",
+      "wheat"
      ],
      "2": []
     },
