@@ -4,18 +4,15 @@
   "items": [
    {
     "name": "Vegetable balls in pesto tomato sauce",
-    "ingredients": "Vegetable ball (Rehydrated pea protein (EU, Norway) 47 %, water, onion, rapeseed oil, fiber (pea), thickeners (E461, E407a), flavour, spices (garlic, coriander, black pepper), iodised salt, caramelized sugar, sunflower oil, potassium chloride), undefined [water, crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil (seed: eu)), basil (basil), sun-dried tomato (sun-dried tomato (non-EU), sunflower oil, salt, garlic, wine vinegar, acidity regulator (E270)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), soft brown sugar (Sugar and cane sugar syrup), paprika powder (Paprika), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), black pepper]. Hiilijalanjälki: 0.36 kg CO2e / annos",
+    "ingredients": "Vegetable ball (Rehydrated pea protein (EU, Norway) 47 %, water, onion, rapeseed oil, fiber (pea), thickeners (E461, E407a), flavour, spices (garlic, coriander, black pepper), iodised salt, caramelized sugar, sunflower oil, potassium chloride), undefined [water, crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil (seed: eu)), basil (basil), sun-dried tomato (sun-dried tomato (non-EU), sunflower oil, salt, garlic, wine vinegar, acidity regulator (E270)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), soft brown sugar (Sugar and cane sugar syrup), paprika powder (Paprika), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), black pepper]. Hiilijalanjälki: 0.55 kg CO2e / annos",
     "nutrition": "Energy 710kJ, energy 170kcal, fat 13g, of which saturated fat 1.1g, carbohydrate 4.4g, of which sugars 2.1g, protein 8.3g, salt 0.88g, fibre 2.5g, lactose <0.01g.",
     "meta": {
      "0": [
       "G",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
@@ -24,12 +21,11 @@
    },
    {
     "name": "Fried vendaces & remoulade sauce",
-    "ingredients": "VENDACE (VENDACE (Coregonus Albula, caught seine, trawl and trap fresh water lake Saimaa in Finland) 83 %, RYE flour, white peppar, salt, rapeseed oil, lactos free BUTTER), remoulade mayonnaise (water, rapeseed oil, pickled vegetables (18%) (cucumber, carrot, cauliflower, onion, sugar, acidity regulator E260, water, salt, preservative E202, flavourings), MUSTARD (water, MUSTARD SEEDS, sugar, acidity regulator E260, salt, preservative E202), sugar, EGG yolk, spirit vinegar, modified potato starch, iodized salt, thickener (E415), spices (garlic, cumin), preservatives (E202), acidity regulator (E575), flavour). Hiilijalanjälki: 0.37 kg CO2e / annos",
+    "ingredients": "VENDACE (VENDACE (Coregonus Albula, caught seine, trawl and trap fresh water lake Saimaa in Finland) 83 %, RYE flour, white peppar, salt, rapeseed oil, lactos free BUTTER), remoulade mayonnaise (water, rapeseed oil, pickled vegetables (18%) (cucumber, carrot, cauliflower, onion, sugar, acidity regulator E260, water, salt, preservative E202, flavourings), MUSTARD (water, MUSTARD SEEDS, sugar, acidity regulator E260, salt, preservative E202), sugar, EGG yolk, spirit vinegar, modified potato starch, iodized salt, thickener (E415), spices (garlic, cumin), preservatives (E202), acidity regulator (E575), flavour), flat-leaf parsley (flatparsley), lemon juice (Lemon Juice 99,9%, essential oil (extracted from lemon rind) Antioxidant: Potassium metabisulphite (E224)), dill (dill). Hiilijalanjälki: 0.56 kg CO2e / annos",
     "nutrition": "Energy 1247kJ, energy 298kcal, fat 25g, of which saturated fat 2.8g, carbohydrate 6.1g, of which sugars 3.1g, protein 14g, salt 1.7g, fibre 0.8g, lactose 0g.",
     "meta": {
      "0": [
-      "L",
-      "Ilmastovalinta"
+      "L"
      ],
      "1": [
       "cereals containing gluten",
@@ -37,11 +33,10 @@
       "fish",
       "milk",
       "mustard",
-      "rye"
+      "rye",
+      "sulfur dioxide and sulfits"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
@@ -50,7 +45,7 @@
    },
    {
     "name": "Baked sausage Mexican-style",
-    "ingredients": "Sausage (water, chicken, mechanically separated poultry meat (Finland), turkey, potato starch, poultry fat, salt (salt, iodine), potato fibre, potassium chloride, stabilizer E 450, dextrose, antioxidant E 301, flavour (incl. nutmeg, paprika), preservative sodium nitrite, smoked vinegar. Origin of chicken and turkey Finland), CREAM CHEESE (pasteurized CREAM (57%, Finland and Sweden), pasteurized skimmed MILK (38%, Sweden), skimmed MILK powder (Sweden), stabilizer (E412), salt, thickener (E440), lactase enzyme, preservative (E202), starter culture.), smetana (pasteurised CREAM, starter culture), onion (onion (Poland)), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), jalapeno slices (jalapeño (Mexico), water, vinegar, salt, firming agent (E509), garlic), chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), paprika powder (Paprika). Hiilijalanjälki: 0.98 kg CO2e / annos",
+    "ingredients": "Sausage (water, chicken, mechanically separated poultry meat (Finland), turkey, potato starch, poultry fat, salt (salt, iodine), potato fibre, potassium chloride, stabilizer E 450, dextrose, antioxidant E 301, flavour (incl. nutmeg, paprika), preservative sodium nitrite, smoked vinegar. Origin of chicken and turkey Finland), CREAM CHEESE (pasteurized CREAM (57%, Finland and Sweden), pasteurized skimmed MILK (38%, Sweden), skimmed MILK powder (Sweden), stabilizer (E412), salt, thickener (E440), lactase enzyme, preservative (E202), starter culture.), smetana (pasteurised CREAM, starter culture), onion (onion (Poland)), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), jalapeno slices (jalapeño (Mexico), water, vinegar, salt, firming agent (E509), garlic), chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), paprika powder (Paprika). Hiilijalanjälki: 1.17 kg CO2e / annos",
     "nutrition": "Energy 889kJ, energy 214kcal, fat 17g, of which saturated fat 7.5g, carbohydrate 6.7g, of which sugars 1.4g, protein 8.4g, salt 1.4g, fibre 0.5g, lactose <0.01g.",
     "meta": {
      "0": [
@@ -70,18 +65,15 @@
    },
    {
     "name": "Steamed vegetables",
-    "ingredients": "Zucchini, pea (pea), cauliflower (cauliflower (100%)), carrot (carbo-peeled carrot (100%)). Hiilijalanjälki: 0.12 kg CO2e / annos",
-    "nutrition": "Energy 154kJ, energy 37kcal, fat <0.5g, of which saturated fat <0.1g, carbohydrate 4.9g, of which sugars 3.7g, protein 2.2g, salt 0.02g, fibre 2.1g, lactose 0g.",
+    "ingredients": "Carrot (carbo-peeled carrot (100%)), broccoli (Broccoli (EU) (100%)), root cubes mix (Carrot, swede, yellow carrot (20x20x20 mm))",
+    "nutrition": "Energy 141kJ, energy 34kcal, fat <0.5g, of which saturated fat 0.1g, carbohydrate 4.7g, of which sugars 4.4g, protein 1.5g, salt 0.05g, fibre 2.6g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
