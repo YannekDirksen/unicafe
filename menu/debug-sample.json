@@ -100,34 +100,6 @@
     }
    },
    {
-    "name": "Burger with Beyond patty and fries",
-    "ingredients": "French fries (Potatoes (89,5%), coating (5%) [modified starch, rice flour, dextrin, thickener: xanthan gum], sunflower oil, salt), vegetable patty (Water, Pea Protein 16%, Rapeseed Oil, Coconut Oil, Rice Protein, Flavouring, Stabiliser (Methyl Cellulose), Potato Starch, Apple Extract, Colour (Beetroot Red), Maltodextrin, Pomegranate Extract, Salt, Potassium Chloride, Concentrated Lemon Juice, Maize Vinegar, Carrot Powder, Emulsifier (Sunflower Lecithin).), hamburger bun (WHEAT FLOUR (WHEAT: EU), water, potato (potato flour, fermented potato flour, flake, potato starch), sugar, vegetable oil (rapeseed), yeast, WHEAT GLUTEN, iodized salt, emulsifiers (E472e, E322, E471, E481), butter flavor, preservative (E282, E200), turmeric, flour treatment agent (E300), dried WHEAT sourdough, dried yeast. May contain small amounts of sesame seeds.), undefined [mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), BBQ sauce (Water, SOY (water, SOY protein hydrolysate, salt), chili paste (chili, salt, preservatives E260 and E202), ginger paste (ginger, spirit vinager, SOY bean oil, sugar, salt, acidity regulators E330 and E300), rice vinegar, garlic, apple vinegar, rapeseed oil, modified corn starch, applepure, spices (onion, black pepper, gochugaru chili flakes), salt, flavours, colour (E150c).)], pickled cucumber with garlic (Cucumber, water, salt (3,5%), dill, garlic, horseradish, wine berry leaf, preservative (sodium benzoate).), salad mix (Romaine lettuce (35 %), frisée lettuce (35 %), radicchio (20 %) and mâche (10 %)), roasted onion (onion (EU), palm oil, WHEAT flour, salt.)",
-    "nutrition": "Energy 899kJ, energy 216kcal, fat 12g, of which saturated fat 2.3g, carbohydrate 19g, of which sugars 1.8g, protein 6.9g, salt 0.76g, fibre 2.3g, lactose 0g.",
-    "meta": {
-     "0": [
-      "Veg"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "mustard",
-      "soybens",
-      "wheat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "5.30",
-      "graduate": "8.75",
-      "contract": "8.90",
-      "normal": "11.50",
-      "student_hyy": "5.30",
-      "graduate_hyy": "8.75"
-     },
-     "name": "Päivän erikoinen"
-    }
-   },
-   {
     "name": "Vegan Chickpea soup with smoked bell pepper",
     "ingredients": "Water, diced carrot (carrot), red sweet pepper cubes (Red capsicum), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), onion (onion (Poland)), potato (potato, NATRIUMDISULFIT), chick pea (Organic Chickpeas.), canola oil (rapeseed oil (seed: eu)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), parsley (parsley (100%, EU)), smoked paprika powder, black pepper",
     "nutrition": "Energy 289kJ, energy 69kcal, fat 2.8g, of which saturated fat 0.2g, carbohydrate 8.1g, of which sugars 2.9g, protein 2.0g, salt 0.28g, fibre 2.1g, lactose 0g.",
@@ -169,6 +141,37 @@
       "oat",
       "sulfur dioxide and sulfits",
       "wheat"
+     ],
+     "2": []
+    },
+    "price": {
+     "value": {
+      "student": "3.10",
+      "graduate": "6.35",
+      "contract": "7.30",
+      "normal": "9.80",
+      "student_hyy": "3.10",
+      "graduate_hyy": "6.35"
+     },
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Citrus-marinated pulled oat bowl",
+    "ingredients": "Undefined [water, OAT groat (gluten free OAT.)], pulled OATS (water, OAT 20 % (gluten free whole grain OAT flour, gluten free OAT bran), pea protein, faba bean protein, rapeseed oil.), iceberg salad (Iceberg lettuce), SOYA BEAN (SOY BEANS), pickled red cabbage (red cabbage (EU), water, vinegar, sugar, salt), orange wedges (Orange), hummus (Chickpea (Canada), water, SESAME SEED PASTE, rapeseed oil, green chili pepper, spinach, lemon juice, garlic, spices (i.a. black pepper), seasalt, sugar, preservative (citric acid, potassium sorbate)), citrus vinaigrette (Rapeseed oil, water, lemon juice concentrate 9% (EU), white wine vinegar, sugar, MUSTARD SEED, salt, lemon zest, vinegar, modified starch, white pepper, acidity regulator (E330), stabilizers (E412, E415), color (E160a), preservatives (E202, E211, Potassium METABISULFITE).), undefined [SOY mince (SOYbean, colour: E150d), canola oil (rapeseed oil (seed: eu)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]",
+    "nutrition": "Energy 559kJ, energy 134kcal, fat 4.9g, of which saturated fat 0.5g, carbohydrate 11g, of which sugars 3.3g, protein 8.6g, salt 0.26g, fibre 3.1g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg"
+     ],
+     "1": [
+      "mustard",
+      "oat",
+      "sesame seeds",
+      "soybens",
+      "sulfur dioxide and sulfits"
      ],
      "2": []
     },
