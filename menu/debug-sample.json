@@ -105,33 +105,6 @@
     }
    },
    {
-    "name": "Vegenuggets & french fries, korean bbq mayonnaise",
-    "ingredients": "French fries (Potatoes (89,5%), coating (5%) [modified starch, rice flour, dextrin, thickener: xanthan gum], sunflower oil, salt), vegetable nugget, undefined [mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), BBQ sauce (Water, SOY (water, SOY protein hydrolysate, salt), chili paste (chili, salt, preservatives E260 and E202), ginger paste (ginger, spirit vinager, SOY bean oil, sugar, salt, acidity regulators E330 and E300), rice vinegar, garlic, apple vinegar, rapeseed oil, modified corn starch, applepure, spices (onion, black pepper, gochugaru chili flakes), salt, flavours, colour (E150c).)], orange",
-    "nutrition": "Energy 807kJ, energy 193kcal, fat 10.0g, of which saturated fat 0.8g, carbohydrate 18g, of which sugars 1.8g, protein 5.7g, salt 0.66g, fibre 3.9g, lactose 0g.",
-    "meta": {
-     "0": [
-      "Veg"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "mustard",
-      "soybens"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "5.30",
-      "graduate": "8.75",
-      "contract": "8.90",
-      "normal": "11.50",
-      "student_hyy": "5.30",
-      "graduate_hyy": "8.75"
-     },
-     "name": "Päivän erikoinen"
-    }
-   },
-   {
     "name": "Plant-based frankfurter soup",
     "ingredients": "Water, potato (potato, NATRIUMDISULFIT), carrot piece (carrot (100%)), vegan sausage bite (Water, rapeseed oil, pea protein 12% (EU), potato starch, thickeners (karragen, metylcellulose, konjac, cellulose), salt, sea salt, sugar, spices (onion, garlic), flavouring (e.g. yeast extract, paprika, black pepper), maltodextrin, food colouring (iron oxide).), onion (onion (Poland)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), fond (\nWater, salt, flavouring, sugar, onion, stabiliser (xanthan gum), spices.), bay leaf (Bay leaf), pimento",
     "nutrition": "Energy 252kJ, energy 60kcal, fat 2.3g, of which saturated fat 0.2g, carbohydrate 6.7g, of which sugars 1.4g, protein 2.5g, salt 0.45g, fibre 1.4g, lactose 0g.",
@@ -185,6 +158,26 @@
       "graduate_hyy": "6.35"
      },
      "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Oat groats, gluten-free",
+    "ingredients": "Water, OAT (Gluten free OATS, heat treated)",
+    "nutrition": "Energy 522kJ, energy 125kcal, fat 2.4g, of which saturated fat 0.5g, carbohydrate 19g, of which sugars <0.5g, protein 4.8g, salt <0.01g, fibre 3.2g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg"
+     ],
+     "1": [
+      "oat"
+     ],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Lisäke"
     }
    }
   ]
