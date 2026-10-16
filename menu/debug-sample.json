@@ -108,35 +108,6 @@
     }
    },
    {
-    "name": "Peas of heaven spicy hot dogs",
-    "ingredients": "Vegetarian sausage (Water, rapeseed oil, pea protein (10,6%), starch pea- and potato starch), thickener (methylcellulose, processed euchema seaweed, konjac gum), black pepper, chili, garlic, paprika, white pepper, cayenne pepper, oregano, cumin, allspice, citrus fiber, salt, acidity regulator (tartaric acid), dextrose, aroma, stabilizer (E450), sugar.), french fries (Potatoes (89,5%), coating (5%) [modified starch, rice flour, dextrin, thickener: xanthan gum], sunflower oil, salt), hot dog bun (WHEAT flour, water, durum WHEAT flour (12,1%) (WHEAT: EU), invert sugar, WHEAT GLUTEN, rapeseed oil, potato starch, potato flakes, yeast, semolina (WHEAT) (1,4%), salt, psyllium seed, vegetable emulsifier (E471, E481), flavouring, sourdough powder of WHEAT, BARLEY malt flour, flour treatment agent (E300). May contain traces of sesame seeds. Extra salted.), gherkin salad (Cubed cucumbers (52%, EU and non EU), water, sugar, acetic acid, onion, red sweet pepper,CELERY, salt, emulsifiers (E412, E410, E406), preservative (E211), aromas, acid (E330), sweetener (E954). Might contain small amounts mustard seeds.), roasted onion (onion (EU), palm oil, WHEAT flour, salt.), MUSTARD (spirit vinegar, water, mustard seed, salt (2.5%), turmeric, paprika, spices, aromas, garlic powder.)",
-    "nutrition": "Energy 894kJ, energy 212kcal, fat 11g, of which saturated fat 1.7g, carbohydrate 22g, of which sugars 2.5g, protein 5.6g, salt 1.2g, fibre 3.4g, lactose <0.01g.",
-    "meta": {
-     "0": [
-      "Veg"
-     ],
-     "1": [
-      "barley",
-      "celery",
-      "cereals containing gluten",
-      "mustard",
-      "wheat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "5.30",
-      "graduate": "8.75",
-      "contract": "8.90",
-      "normal": "11.50",
-      "student_hyy": "5.30",
-      "graduate_hyy": "8.75"
-     },
-     "name": "Päivän erikoinen"
-    }
-   },
-   {
     "name": "Spinach soup with roasted smoked tofu",
     "ingredients": "Water, spinach, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), cold smoked TOFU (SOYBEAN (61%), water, SOY SAUCE (SOYBEAN, WHEAT, sea salt), smoke flavor.), cornstarch, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), sugar (sugar (Netherlands)), white pepper (White pepper.)",
     "nutrition": "Energy 195kJ, energy 47kcal, fat 2.7g, of which saturated fat 0.3g, carbohydrate 2.4g, of which sugars 0.8g, protein 2.7g, salt 0.42g, fibre 0.6g, lactose 0g.",
@@ -178,6 +149,35 @@
      "1": [
       "soybens",
       "sulfur dioxide and sulfits"
+     ],
+     "2": []
+    },
+    "price": {
+     "value": {
+      "student": "3.10",
+      "graduate": "6.35",
+      "contract": "7.30",
+      "normal": "9.80",
+      "student_hyy": "3.10",
+      "graduate_hyy": "6.35"
+     },
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Chili-ginger marinated fava bean bowl",
+    "ingredients": "Undefined [water, OAT groat (gluten free OAT.)], iceberg salad (Iceberg lettuce), fava bean chunks (Fermented fava bean: fava bean (Finland), water, salt.), SOYA BEAN (SOY BEANS), pickled red cabbage (red cabbage (EU), water, vinegar, sugar, salt), orange wedges (Orange), hummus (Chickpea 55% (Canada), water, SESAME SEED PAST 10%, rapeseed oil, lemon juice, garlic, spices (including chili, turmeric, black pepper), sea salt, sugar, preservatives (citric acid, potassium sorbate).), vinaigrette (rapeseed oil (EU), white wine vinegar, water, sugar, SOY product (water, SOY PROTEIN hydrolysate, salt, glucose-fructose syrup, preservatives E211 and E202), ginger product (5%)(ginger, vinegar, SOYBEAN oil, sugar, salt, acidity regulators E330 and E300), chili product (5%)(red chilli, salt, preservatives E260 and E202, antioxidant E300), preservatives (E202, E211), thickeners (E415), sesame flavouring), undefined [SOY mince (SOYbean, colour: E150d), canola oil (rapeseed oil (seed: eu)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]",
+    "nutrition": "Energy 504kJ, energy 120kcal, fat 4.9g, of which saturated fat 0.5g, carbohydrate 11g, of which sugars 3.4g, protein 7.1g, salt 0.23g, fibre 3.1g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg"
+     ],
+     "1": [
+      "oat",
+      "sesame seeds",
+      "soybens"
      ],
      "2": []
     },
