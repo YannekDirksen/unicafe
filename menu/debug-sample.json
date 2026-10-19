@@ -113,6 +113,30 @@
   "title": "Kaivopiha",
   "items": [
    {
+    "name": "Falafel bowl",
+    "ingredients": "Undefined [water, OAT groat (gluten free OAT.)], iceberg salad (Iceberg lettuce), falafel ball (Chickpeas (50 %), onions, rapeseed oil, water, parsley, peperoni peppers, pea protein, coriander, garlic, cumin, thickener (E461, E407a, E508), iodized salt, fermenter (E500), lemon juice, sugar, chili powder, ground black pepper. The country of origin of the chickpea is indicated in connection with the best before labelling.), pickled red cabbage (red cabbage (EU), water, vinegar, sugar, salt), mango (mango 100% (Vietnam)), beetroot hummus (Chickpea (Canada), water, beetroot, SESAME SEED PASTE, rapeseed oil, lemon juice, lingonberry syrup, onion, seasalt, sugar, cumin, black pepper, preservative (citric acid potassium sorbate)), sprout salad (Organic sprouts of green peas), pea groats (Pea), sweet chili sauce (water, sugar, red chili (23 %, Thailand), garlic, salt, modified corn starch, acidity regulator (E260)), undefined [sunflower seed (sunflower seeds (EU)), pumpkin seed (pumpkin seeds (non-EU))], sprout salad (organic daikon radish (50), red clover (25%) and alfalfa (25%) sprouts). Hiilijalanjälki: 0.48 kg CO2e / annos",
+    "nutrition": "Energy 526kJ, energy 126kcal, fat 4.9g, of which saturated fat 0.5g, carbohydrate 14g, of which sugars 5.8g, protein 4.4g, salt 0.40g, fibre 3.2g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "oat",
+      "sesame seeds"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Vegaanilounas"
+    }
+   },
+   {
     "name": "Vegetable nuggets and sweet and sour mayonnaise",
     "ingredients": "Vegetable nugget (Rehydrated WHEAT protein 38%, rapeseed oil, WHEAT flour, water, maize flour, bamboo fiber, stabilizer (methylcellulose), tapioca starch, salt, natural flavourings (WHEAT), garlic powder, white pepper, yeast, raising agents (ammonium carbonates) onion powder, red pepper powder, turmeric . May contain MILK, LEGUMES.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), sweet and hot bell pepper sauce (Bell pepper (50 %, eu and non-eu), sugar, water, spirit vinegar, modified corn starch, pickled jalapeno (3 %) (jalapeno pepper, water, vinegar, salt, stabilizer E509, garlic), salt, acidity regulator (E260, E270), preservative (E202).). Hiilijalanjälki: 0.44 kg CO2e / annos",
     "nutrition": "Energy 1346kJ, energy 324kcal, fat 25g, of which saturated fat 1.8g, carbohydrate 17g, of which sugars 3.4g, protein 6.0g, salt 0.89g, fibre 3.3g, lactose 0g.",
@@ -169,33 +193,6 @@
      "0": [],
      "1": [],
      "2": []
-    },
-    "price": {
-     "value": [],
-     "name": "Lounas"
-    }
-   },
-   {
-    "name": "Crispy fish fillet pieces with garlic, chili and sesame sauce",
-    "ingredients": "Crispy SAITHE (ALASKA POLLOCK FILLET (Theragra chalcogramma, 53%), WHEAT flour, water, rapseed oil, potato starch, salt, yeast, raising agents (E450, E500), dextrose, spices. May contain fishbones.), SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), roasted garlic and chili (SOYBEAN oil, garlic (17%, non-EU), SESAME oil, onion (8.0%, non-EU), sugar, salt, chili, soy sauce (water, SOYBEANS, WHEAT, salt, ethanol), yeast extract, acidity regulator ( E330), paprika extract), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.40 kg CO2e / annos",
-    "nutrition": "Energy 742kJ, energy 178kcal, fat 9.7g, of which saturated fat 1.2g, carbohydrate 14g, of which sugars 1.7g, protein 7.6g, salt 0.91g, fibre 0.6g, lactose 0g.",
-    "meta": {
-     "0": [
-      "KELA",
-      "M",
-      "Ilmastovalinta"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "fish",
-      "mustard",
-      "sesame seeds",
-      "soybens",
-      "wheat"
-     ],
-     "2": [
-      "Ilmastovalinta"
-     ]
     },
     "price": {
      "value": [],
