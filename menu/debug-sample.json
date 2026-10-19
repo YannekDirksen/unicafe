@@ -34,8 +34,8 @@
    },
    {
     "name": "Curry sauce with tender vegan strips & blackcurrant jam",
-    "ingredients": "Water, vegetable protein (Plant-based protein strips (pea protein, water, gluten-free whole grain OAT flour, gluten-free OAT groats), marinade (water, rapeseed oil, natural flavourings, sugar, herbs extract). Contains 23 % pea protein and 12 % OAT. May contain traces of soy.), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), sweet corn kernels (corn grain (Hungary)), blackcurrant jam (Black currant (EU), water, sugar, thickener (pectin), preservative (potassium sorbate), acidity regulator (citric acid). 100 g of product contains 38 g of blackcurrant.), onion (onion (100%)), margarine (Vegetable oils and fats (coconut, rapeseed, shea), gluten free OAT drink 17 % (water, OAT, sunflower oil), salt (1,2 %), emulsifier (sunflower lecithin), natural flavours, A and D2 vitamins, colour (beta-caroten).), cornstarch, lemon juice, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), curry madras (Coriander (34%), turmeric (31%), fenugreek, cayenne pepper, cumin, fennel, black pepper.), soft brown sugar (Sugar and cane sugar syrup), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)). Hiilijalanjälki: 0.39 kg CO2e / annos",
-    "nutrition": "Energy 545kJ, energy 130kcal, fat 7.6g, of which saturated fat 1.2g, carbohydrate 9.0g, of which sugars 4.1g, protein 5.8g, salt 0.52g, fibre 1.4g, lactose 0g.",
+    "ingredients": "Water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), vegetable protein (Plant-based protein strips (pea protein, water, gluten-free whole grain OAT flour, gluten-free OAT groats), marinade (water, rapeseed oil, natural flavourings, sugar, herbs extract). Contains 23 % pea protein and 12 % OAT. May contain traces of soy.), sweet corn kernels (corn grain (Hungary)), blackcurrant jam (Black currant (EU), water, sugar, thickener (pectin), preservative (potassium sorbate), acidity regulator (citric acid). 100 g of product contains 38 g of blackcurrant.), fava bean chunks (Fermented fava bean: fava bean (Finland), water, salt.), onion (onion (100%)), margarine (Vegetable oils and fats (coconut, rapeseed, shea), gluten free OAT drink 17 % (water, OAT, sunflower oil), salt (1,2 %), emulsifier (sunflower lecithin), natural flavours, A and D2 vitamins, colour (beta-caroten).), cornstarch, lemon juice, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), curry madras (Coriander (34%), turmeric (31%), fenugreek, cayenne pepper, cumin, fennel, black pepper.), soft brown sugar (Sugar and cane sugar syrup), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)). Hiilijalanjälki: 0.39 kg CO2e / annos",
+    "nutrition": "Energy 514kJ, energy 123kcal, fat 7.0g, of which saturated fat 1.1g, carbohydrate 8.9g, of which sugars 4.0g, protein 5.7g, salt 0.47g, fibre 1.5g, lactose 0g.",
     "meta": {
      "0": [
       "G",
@@ -137,30 +137,6 @@
     }
    },
    {
-    "name": "Vegetable nuggets and sweet and sour mayonnaise",
-    "ingredients": "Vegetable nugget (Rehydrated WHEAT protein 38%, rapeseed oil, WHEAT flour, water, maize flour, bamboo fiber, stabilizer (methylcellulose), tapioca starch, salt, natural flavourings (WHEAT), garlic powder, white pepper, yeast, raising agents (ammonium carbonates) onion powder, red pepper powder, turmeric . May contain MILK, LEGUMES.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), sweet and hot bell pepper sauce (Bell pepper (50 %, eu and non-eu), sugar, water, spirit vinegar, modified corn starch, pickled jalapeno (3 %) (jalapeno pepper, water, vinegar, salt, stabilizer E509, garlic), salt, acidity regulator (E260, E270), preservative (E202).). Hiilijalanjälki: 0.44 kg CO2e / annos",
-    "nutrition": "Energy 1346kJ, energy 324kcal, fat 25g, of which saturated fat 1.8g, carbohydrate 17g, of which sugars 3.4g, protein 6.0g, salt 0.89g, fibre 3.3g, lactose 0g.",
-    "meta": {
-     "0": [
-      "Veg",
-      "Ilmastovalinta"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "mustard",
-      "oat",
-      "wheat"
-     ],
-     "2": [
-      "Ilmastovalinta"
-     ]
-    },
-    "price": {
-     "value": [],
-     "name": "Vegaanilounas"
-    }
-   },
-   {
     "name": "Pulled Vego Ragù",
     "ingredients": "Cherry tomato (cherry tomatoes, tomato juice, salt, acidity regulator: citric acid), pulled soya strips (Water, SOY PROTEIN (38 %), rapeseed oil, lemon juice, spices (including paprika, cumin), onion, salt, garlic, apple extract, brown sugar, natural flavors.), water, vegetable mix (CELERIAC, carrot, leek, CELERY, onion), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), tomato puree (tomato (100 %, Portugal)), onion (onion (100%)), fond (\nWater, salt, flavouring, sugar, onion, stabiliser (xanthan gum), spices.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), canola oil (rapeseed oil), soft brown sugar (Sugar and cane sugar syrup), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), balsamic vinegar (wine vinegar (Italy), grape must concentrate, colour (E150d). Contains SULFITES.), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), thyme, flat-leaf parsley (Leaf parsley 100%), black pepper, oregano (Oregano.), basil (Basil.), bay leaf (Bay leaf). Hiilijalanjälki: 0.42 kg CO2e / annos",
     "nutrition": "Energy 287kJ, energy 69kcal, fat 2.3g, of which saturated fat 0.1g, carbohydrate 5.8g, of which sugars 4.9g, protein 5.5g, salt 0.83g, fibre 1.2g, lactose <0.01g.",
@@ -186,17 +162,54 @@
     }
    },
    {
-    "name": "Baguette bar",
-    "ingredients": "",
-    "nutrition": "",
+    "name": "Veggiepattys, chili and sesame sauce",
+    "ingredients": "Vegetable patty (Vegetables 81% (chickpeas, bell pepper, tomatoes, eggplant, zucchini, onion), MÖ Greek (OAT, coconut fat, modified starch, salt, potato protein, calcium, flavoring), gluten-free breading (rice flour, potato starch, tapioca starch, corn starch, dextrose, sugar, yeast, salt, psyllium fiber), rapeseed oil, potato flakes, garlic, stabilizer (E461), cane sugar, salt, thyme, rosemary, oregano, black pepper, fennel.), SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), roasted garlic and chili (SOYBEAN oil, garlic (17%, non-EU), SESAME oil, onion (8.0%, non-EU), sugar, salt, chili, soy sauce (water, SOYBEANS, WHEAT, salt, ethanol), yeast extract, acidity regulator ( E330), paprika extract), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.40 kg CO2e / annos",
+    "nutrition": "Energy 758kJ, energy 181kcal, fat 9.6g, of which saturated fat 1.9g, carbohydrate 18g, of which sugars 3.5g, protein 4.3g, salt 1.2g, fibre 4.0g, lactose 0g.",
     "meta": {
-     "0": [],
-     "1": [],
-     "2": []
+     "0": [
+      "KELA",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "cereals containing gluten",
+      "mustard",
+      "oat",
+      "sesame seeds",
+      "soybens",
+      "wheat"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
     },
     "price": {
      "value": [],
-     "name": "Lounas"
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Vegan butter tofu",
+    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), TOFU (organic SOYBEAN (67%), water.), onion (onion (Poland)), red sweet pepper cubes (Red capsicum), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), tomato puree (tomato (100 %, Portugal)), margarine (Vegetable oils and fats (coconut, rapeseed, shea), gluten free OAT drink 17 % (water, OAT, sunflower oil), salt (1,2 %), emulsifier (sunflower lecithin), natural flavours, A and D2 vitamins, colour (beta-caroten).), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), cloves (Cloves.), cardamom (Cardamom crushed), coriander (Coriander.). Hiilijalanjälki: 0.43 kg CO2e / annos",
+    "nutrition": "Energy 430kJ, energy 103kcal, fat 6.7g, of which saturated fat 2.6g, carbohydrate 5.6g, of which sugars 4.0g, protein 4.8g, salt 0.36g, fibre 1.1g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "oat",
+      "soybens"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Vegaanilounas"
     }
    }
   ]
