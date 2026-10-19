@@ -1,1 +1,207 @@
-[]
+[
+ {
+  "title": "Metsätalo",
+  "items": [
+   {
+    "name": "Quinoa balls & Tzatziki",
+    "ingredients": "Carrot-quinoa balls (Carrot* 52 %, gluten free coating (rice flour, chickpea flour, corn starch, dextrose), rapeseed oil, cooked quinoa*** 6 % (water, quinoa), water, pea protein, leek, sunflower seeds, coconut oil, modified potato starch, ginger, thickenings (E461, E407a, E415), iodised salt, flavour, salt, black pepper.), undefined [SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), cucumber (Cucumber), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]. Hiilijalanjälki: 0.45 kg CO2e / annos",
+    "nutrition": "Energy 524kJ, energy 125kcal, fat 6.4g, of which saturated fat 1.4g, carbohydrate 9.7g, of which sugars 3.2g, protein 5.0g, salt 0.64g, fibre 2.8g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "soybens"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": {
+      "student": "3.10",
+      "graduate": "6.35",
+      "contract": "7.30",
+      "normal": "9.80",
+      "student_hyy": "3.10",
+      "graduate_hyy": "6.35"
+     },
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Curry sauce with tender vegan strips & blackcurrant jam",
+    "ingredients": "Water, vegetable protein (Plant-based protein strips (pea protein, water, gluten-free whole grain OAT flour, gluten-free OAT groats), marinade (water, rapeseed oil, natural flavourings, sugar, herbs extract). Contains 23 % pea protein and 12 % OAT. May contain traces of soy.), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), sweet corn kernels (corn grain (Hungary)), blackcurrant jam (Black currant (EU), water, sugar, thickener (pectin), preservative (potassium sorbate), acidity regulator (citric acid). 100 g of product contains 38 g of blackcurrant.), onion (onion (100%)), margarine (Vegetable oils and fats (coconut, rapeseed, shea), gluten free OAT drink 17 % (water, OAT, sunflower oil), salt (1,2 %), emulsifier (sunflower lecithin), natural flavours, A and D2 vitamins, colour (beta-caroten).), cornstarch, lemon juice, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), curry madras (Coriander (34%), turmeric (31%), fenugreek, cayenne pepper, cumin, fennel, black pepper.), soft brown sugar (Sugar and cane sugar syrup), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)). Hiilijalanjälki: 0.39 kg CO2e / annos",
+    "nutrition": "Energy 545kJ, energy 130kcal, fat 7.6g, of which saturated fat 1.2g, carbohydrate 9.0g, of which sugars 4.1g, protein 5.8g, salt 0.52g, fibre 1.4g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "oat"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": {
+      "student": "3.10",
+      "graduate": "6.35",
+      "contract": "7.30",
+      "normal": "9.80",
+      "student_hyy": "3.10",
+      "graduate_hyy": "6.35"
+     },
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Chicken mince kebabs with arrabbiata sauce",
+    "ingredients": "Chicken stick (chciken 60 %, water, carrot--sweet potatofilling 17 % (carrot, water, sweet potato, rapeseed oil, pea protein, modified corn starch, iodised salt, spices (incl. onion, black pepper), flavor, sugar, thickeners E 461, gelling agents locust bean gum), SOY PROTEIN, bread crumbs (WHEAT), rapeseed oil, iodised salt, potato fiber, potato flour, dextrose, spices (chili ancho, black pepper), flavors, antioxidant E 300. Origin of chicken meat Finland), undefined [crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, onion (onion (Poland)), canola oil (rapeseed oil), tomato puree (tomato), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), smoked paprika powder, chopped chili (100% chopped red chilli), sugar (sugar (Netherlands)), lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]. Hiilijalanjälki: 0.85 kg CO2e / annos",
+    "nutrition": "Energy 550kJ, energy 132kcal, fat 7.9g, of which saturated fat 1.3g, carbohydrate 5.8g, of which sugars 2.9g, protein 8.9g, salt 0.66g, fibre 1.6g, lactose 0g.",
+    "meta": {
+     "0": [
+      "L"
+     ],
+     "1": [
+      "cereals containing gluten",
+      "soybens",
+      "sulfur dioxide and sulfits",
+      "wheat"
+     ],
+     "2": []
+    },
+    "price": {
+     "value": {
+      "student": "3.10",
+      "graduate": "6.35",
+      "contract": "7.30",
+      "normal": "9.80",
+      "student_hyy": "3.10",
+      "graduate_hyy": "6.35"
+     },
+     "name": "Lounas"
+    }
+   },
+   {
+    "name": "Steamed rice",
+    "ingredients": "Water, rice (parboiled long-grain rice). Hiilijalanjälki: 0.27 kg CO2e / annos",
+    "nutrition": "Energy 497kJ, energy 117kcal, fat 0.6g, of which saturated fat 0.2g, carbohydrate 25g, of which sugars <0.5g, protein 2.5g, salt <0.01g, fibre 0.5g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "Veg"
+     ],
+     "1": [],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Lisäke"
+    }
+   }
+  ]
+ },
+ {
+  "title": "Kaivopiha",
+  "items": [
+   {
+    "name": "Vegetable nuggets and sweet and sour mayonnaise",
+    "ingredients": "Vegetable nugget (Rehydrated WHEAT protein 38%, rapeseed oil, WHEAT flour, water, maize flour, bamboo fiber, stabilizer (methylcellulose), tapioca starch, salt, natural flavourings (WHEAT), garlic powder, white pepper, yeast, raising agents (ammonium carbonates) onion powder, red pepper powder, turmeric . May contain MILK, LEGUMES.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), sweet and hot bell pepper sauce (Bell pepper (50 %, eu and non-eu), sugar, water, spirit vinegar, modified corn starch, pickled jalapeno (3 %) (jalapeno pepper, water, vinegar, salt, stabilizer E509, garlic), salt, acidity regulator (E260, E270), preservative (E202).). Hiilijalanjälki: 0.44 kg CO2e / annos",
+    "nutrition": "Energy 1346kJ, energy 324kcal, fat 25g, of which saturated fat 1.8g, carbohydrate 17g, of which sugars 3.4g, protein 6.0g, salt 0.89g, fibre 3.3g, lactose 0g.",
+    "meta": {
+     "0": [
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "cereals containing gluten",
+      "mustard",
+      "oat",
+      "wheat"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Pulled Vego Ragù",
+    "ingredients": "Cherry tomato (cherry tomatoes, tomato juice, salt, acidity regulator: citric acid), pulled soya strips (Water, SOY PROTEIN (38 %), rapeseed oil, lemon juice, spices (including paprika, cumin), onion, salt, garlic, apple extract, brown sugar, natural flavors.), water, vegetable mix (CELERIAC, carrot, leek, CELERY, onion), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), tomato puree (tomato (100 %, Portugal)), onion (onion (100%)), fond (\nWater, salt, flavouring, sugar, onion, stabiliser (xanthan gum), spices.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), canola oil (rapeseed oil), soft brown sugar (Sugar and cane sugar syrup), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), balsamic vinegar (wine vinegar (Italy), grape must concentrate, colour (E150d). Contains SULFITES.), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), thyme, flat-leaf parsley (Leaf parsley 100%), black pepper, oregano (Oregano.), basil (Basil.), bay leaf (Bay leaf). Hiilijalanjälki: 0.42 kg CO2e / annos",
+    "nutrition": "Energy 287kJ, energy 69kcal, fat 2.3g, of which saturated fat 0.1g, carbohydrate 5.8g, of which sugars 4.9g, protein 5.5g, salt 0.83g, fibre 1.2g, lactose <0.01g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "celery",
+      "soybens",
+      "sulfur dioxide and sulfits"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Baguette bar",
+    "ingredients": "",
+    "nutrition": "",
+    "meta": {
+     "0": [],
+     "1": [],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Lounas"
+    }
+   },
+   {
+    "name": "Crispy fish fillet pieces with garlic, chili and sesame sauce",
+    "ingredients": "Crispy SAITHE (ALASKA POLLOCK FILLET (Theragra chalcogramma, 53%), WHEAT flour, water, rapseed oil, potato starch, salt, yeast, raising agents (E450, E500), dextrose, spices. May contain fishbones.), SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), roasted garlic and chili (SOYBEAN oil, garlic (17%, non-EU), SESAME oil, onion (8.0%, non-EU), sugar, salt, chili, soy sauce (water, SOYBEANS, WHEAT, salt, ethanol), yeast extract, acidity regulator ( E330), paprika extract), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.40 kg CO2e / annos",
+    "nutrition": "Energy 742kJ, energy 178kcal, fat 9.7g, of which saturated fat 1.2g, carbohydrate 14g, of which sugars 1.7g, protein 7.6g, salt 0.91g, fibre 0.6g, lactose 0g.",
+    "meta": {
+     "0": [
+      "KELA",
+      "M",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "cereals containing gluten",
+      "fish",
+      "mustard",
+      "sesame seeds",
+      "soybens",
+      "wheat"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Lounas"
+    }
+   }
+  ]
+ }
+]
