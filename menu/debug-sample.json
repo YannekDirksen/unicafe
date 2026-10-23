@@ -3,45 +3,20 @@
   "title": "Metsätalo",
   "items": [
    {
-    "name": "Vegetarian kebab balls with aioli",
-    "ingredients": "Vegetable ball (Grey peas 41%, tomato, rice, onion, rapeseed oil, potato flakes, rice flour, garlic, herbs (coriander, thyme, oregano), spices (paprika, cumin, black pepper), salt, sugar, stabilizer (E461).), undefined [mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), garlic (garlic), canola oil (rapeseed oil (seed: eu)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), sugar (sugar (Netherlands))]. Hiilijalanjälki: 0.61 kg CO2e / annos",
-    "nutrition": "Energy 1237kJ, energy 298kcal, fat 21g, of which saturated fat 1.4g, carbohydrate 20g, of which sugars 2.7g, protein 4.7g, salt 1.3g, fibre 4.2g, lactose 0g.",
+    "name": "Vegetable lasagnette with pesto",
+    "ingredients": "Undefined [water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), margarine (Vegetable fat (palm oil, coconut fat), rapeseed oil, water, salt, emulsifiers (E471 plant based, E472c, E322 sunflower lecithin), acidity regulators (E330, E500), flavouring, vitamin A, vitamin D2, colour (E160a).), WHEAT flour (WHEAT, flour improver (ascorbic acid)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), white pepper (White pepper.)], zucchini, tomato cubes (Tomato 100%.), lasagnette (durum WHEAT), onion (onion (Poland)), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), spinach (Spinach 100%.), vegan alternative for cheese (water, palm oil* (24%, non-eu), modified potato starch, potato starch, modified tapioca starch, salt, flavourings, coloring (E160a), acidity regulators (E330, E270). Vegan. *responsibly produced and certified palm oil), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), canola oil (rapeseed oil (seed: eu)), SOY mince (SOYbean, colour: E150d), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), basil (basil), black pepper. Hiilijalanjälki: 0.29 kg CO2e / annos",
+    "nutrition": "Energy 493kJ, energy 118kcal, fat 6.6g, of which saturated fat 1.7g, carbohydrate 12g, of which sugars 2.1g, protein 2.1g, salt 0.33g, fibre 0.7g, lactose <0.01g.",
     "meta": {
      "0": [
-      "G",
-      "Veg"
-     ],
-     "1": [
-      "mustard"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Vegaanilounas"
-    }
-   },
-   {
-    "name": "Seasonal vegetable bolognese",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), vegan mince (Water, pea protein, rapeseed powder, salt, flavorings and spices (black and white pepper), beetroot juice concentrate, caramelized sugar, carrageenan. Partially defatted rapeseed powder may cause an allergic reaction in consumers who are allergic to mustard and mustard products.), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), CELERY, canola oil (rapeseed oil (seed: eu)), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), soft brown sugar (Sugar and cane sugar syrup), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), basil (Basil.), thyme. Hiilijalanjälki: 0.43 kg CO2e / annos",
-    "nutrition": "Energy 288kJ, energy 69kcal, fat 3.2g, of which saturated fat 0.2g, carbohydrate 5.8g, of which sugars 3.7g, protein 3.8g, salt 0.54g, fibre 1.4g, lactose 0g.",
-    "meta": {
-     "0": [
-      "G",
       "KELA",
       "Veg",
       "Ilmastovalinta"
      ],
      "1": [
-      "celery",
-      "sulfur dioxide and sulfits"
+      "cereals containing gluten",
+      "oat",
+      "soybens",
+      "wheat"
      ],
      "2": [
       "Ilmastovalinta"
@@ -105,6 +80,25 @@
      "value": [],
      "name": "Lisäke"
     }
+   },
+   {
+    "name": "Pasta",
+    "ingredients": "Pasta (DURUM WHEAT semolina pasta (DURUM WHEAT semolina, water)33.3%, DURUM WHEAT semolina pasta with tomato (DURUM WHEAT semolina, tomato semi-concentrate (8%*), water) 33.3%, DURUM WHEAT semolina pasta with spinach (DURUM WHEAT semolina, water, dehydratedspinach (0.6%*)) 33.3%. * % expressed on the finished product. May contain traces of SOY AND MUSTARD.), water. Hiilijalanjälki: 0.13 kg CO2e / annos",
+    "nutrition": "Energy 761kJ, energy 180kcal, fat 1.0g, of which saturated fat 0.3g, carbohydrate 36g, of which sugars 1.8g, protein 6.3g, salt 0.01g, fibre 1.5g, lactose 0g.",
+    "meta": {
+     "0": [
+      "Veg"
+     ],
+     "1": [
+      "cereals containing gluten",
+      "wheat"
+     ],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Lisäke"
+    }
    }
   ]
  },
@@ -127,6 +121,26 @@
       "sesame seeds",
       "soybens"
      ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Harissa balls & Pomegranate salsa",
+    "ingredients": "Falafel ball (Chickpea 48 % (Belgium), rapeseed oil, water, onion, parsley, pepperoni chili, harissa 3 % Finland (rapeseed oil, garlic, spices, sea salt), pea protein, garlic, spices (e.g coriander), potato starch, stabilizer (E461), iodized salt, lemon juice, lifting agent (E500).), undefined [tomato cubes (Tomato 100%.), tacosauce (tomato purée (water, tomato concentrate) (69,6 %) (non-EU), tomato, onion, jalapeño chilli, wine vinegar, salt, sugar, stabilisers (E412, E415)), pomegranate syrup (cane sugar, water, fruit juice from concentrate 17% (pomegranate 10%, elderberry), acid: citric acid E330, natural flavouring), pomegranate seed (Pomegranate seed 100%), basil (Finnish fresh basil), onion (onion (Poland))]. Hiilijalanjälki: 0.45 kg CO2e / annos",
+    "nutrition": "Energy 662kJ, energy 158kcal, fat 9.7g, of which saturated fat 0.7g, carbohydrate 12g, of which sugars 3.9g, protein 5.2g, salt 0.84g, fibre 3.3g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [],
      "2": [
       "Ilmastovalinta"
      ]
@@ -162,51 +176,17 @@
     }
    },
    {
-    "name": "Veggie nugets, pomegranate salsa",
-    "ingredients": "Undefined [tomato cubes (Tomato 100%.), tacosauce (tomato purée (water, tomato concentrate) (69,6 %) (non-EU), tomato, onion, jalapeño chilli, wine vinegar, salt, sugar, stabilisers (E412, E415)), pomegranate syrup (cane sugar, water, fruit juice from concentrate 17% (pomegranate 10%, elderberry), acid: citric acid E330, natural flavouring), pomegranate seed (Pomegranate seed 100%), basil (Finnish fresh basil), onion (onion (Poland))], vegetable nugget (Rehydrated WHEAT protein 38%, rapeseed oil, WHEAT flour, water, maize flour, bamboo fiber, stabilizer (methylcellulose), tapioca starch, salt, natural flavourings (WHEAT), garlic powder, white pepper, yeast, raising agents (ammonium carbonates) onion powder, red pepper powder, turmeric . May contain MILK, LEGUMES.). Hiilijalanjälki: 0.31 kg CO2e / annos",
-    "nutrition": "Energy 351kJ, energy 84kcal, fat 2.8g, of which saturated fat 0.2g, carbohydrate 12g, of which sugars 6.5g, protein 2.6g, salt 0.58g, fibre 1.7g, lactose 0g.",
+    "name": "Baguette bar",
+    "ingredients": "",
+    "nutrition": "",
     "meta": {
-     "0": [
-      "KELA",
-      "Veg",
-      "Ilmastovalinta"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "wheat"
-     ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "0": [],
+     "1": [],
+     "2": []
     },
     "price": {
      "value": [],
-     "name": "Vegaanilounas"
-    }
-   },
-   {
-    "name": "Panang curry",
-    "ingredients": "Coconut milk (coconut extract (75%), water, emulsifier (E471), stabiliser (E466).), vegetable protein (Plant-based protein strips (pea protein, water, gluten-free whole grain OAT flour, gluten-free OAT groats), marinade (water, rapeseed oil, natural flavourings, sugar, herbs extract). Contains 23 % pea protein and 12 % OAT. May contain traces of soy.), water, vegetable mix (pineapple 20% (Costa Rica/Vietnam), carrot, red bell pepper, green bell pepper, bamboo sprout, CELERIAC), chick pea (rehydrated dried chickpeas (EU and non-EU), water, antioxidant (E223 sodium DISULPHITE)), onion (onion (100%)), red currypaste (Water, canola oil, bell pepper, salt, spices (paprika, chili, ginger, coriander, lemongrass, kaffir lime leaf), onion, garlic, spirit vinegar, modified cornstarch, cane sugar, sugar, dextrin, cornstarch, preservatives (E211, E202).), tomato puree (tomato (100 %, Portugal)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), lemongrass paste (Lemongrass 47 %, water, vinegar, sugar, salt, thickener, (xanthan gum), acidity regulator (citric acid).), sugar (sugar (Netherlands)), coriander (Coriander 100%), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), canola oil (rapeseed oil (seed: eu)). Hiilijalanjälki: 0.43 kg CO2e / annos",
-    "nutrition": "Energy 540kJ, energy 129kcal, fat 8.4g, of which saturated fat 3.9g, carbohydrate 6.2g, of which sugars 3.0g, protein 5.6g, salt 0.49g, fibre 1.7g, lactose 0g.",
-    "meta": {
-     "0": [
-      "G",
-      "KELA",
-      "Veg",
-      "Ilmastovalinta"
-     ],
-     "1": [
-      "celery",
-      "oat",
-      "sulfur dioxide and sulfits"
-     ],
-     "2": [
-      "Ilmastovalinta"
-     ]
-    },
-    "price": {
-     "value": [],
-     "name": "Vegaanilounas"
+     "name": "Lounas"
     }
    }
   ]
