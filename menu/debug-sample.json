@@ -112,11 +112,12 @@
   "title": "Kaivopiha",
   "items": [
    {
-    "name": "Hoi Sin organic tofu bowl",
-    "ingredients": "Undefined [water, OAT groat (gluten free OAT.)], iceberg salad (Iceberg lettuce), tofu (Organic SOYBEANS (67%) (Austria), water.), pickled red cabbage (red cabbage (EU), water, vinegar, sugar, salt), mango (mango 100% (Vietnam)), beetroot hummus (Chickpea (Canada), water, beetroot, SESAME SEED PASTE, rapeseed oil, lemon juice, lingonberry syrup, onion, seasalt, sugar, cumin, black pepper, preservative (citric acid potassium sorbate)), sprout salad (Organic sprouts of green peas), pea groats (Pea), hoisin sauce (water, SOYBEAN PASTE (water, SOYBEAN, WHEAT FLOUR, salt), sugar, SOY SAUCE (water, SOYBEAN, WHEAT FLOUR, salt), ginger, rice wine, salt, SESAME OIL, onion, syrup, corn starch, chili, garlic, vinegar, garlic aroma, preservatives (E202)), undefined [sunflower seed (sunflower seeds (EU)), pumpkin seed (pumpkin seeds (non-EU))], sprout salad (organic daikon radish (50), red clover (25%) and alfalfa (25%) sprouts). Hiilijalanjälki: 0.50 kg CO2e / annos",
-    "nutrition": "Energy 509kJ, energy 122kcal, fat 4.8g, of which saturated fat 0.7g, carbohydrate 12g, of which sugars 4.4g, protein 6.1g, salt 0.37g, fibre 2.3g, lactose 0g.",
+    "name": "Teriyaki organic tofu bowl",
+    "ingredients": "Undefined [water, OAT groat (gluten free OAT.)], iceberg salad (Iceberg lettuce), tofu (Organic SOYBEANS (67%) (Austria), water.), pickled red cabbage (red cabbage (EU), water, vinegar, sugar, salt), mango (mango 100% (Vietnam)), beetroot hummus (Chickpea (Canada), water, beetroot, SESAME SEED PASTE, rapeseed oil, lemon juice, lingonberry syrup, onion, seasalt, sugar, cumin, black pepper, preservative (citric acid potassium sorbate)), sprout salad (Organic sprouts of green peas), pea groats (Pea), spice sauce (SOYASAUCE (water, hydrolyzed SOY BEAN protein, salt), sugar, white wine vinegar, thickener (E1414, E415), spices, preservatives (E211).), undefined [sunflower seed (sunflower seeds (EU)), pumpkin seed (pumpkin seeds (non-EU))], sprout salad (organic daikon radish (50), red clover (25%) and alfalfa (25%) sprouts). Hiilijalanjälki: 0.47 kg CO2e / annos",
+    "nutrition": "Energy 515kJ, energy 123kcal, fat 4.6g, of which saturated fat 0.6g, carbohydrate 13g, of which sugars 5.1g, protein 6.2g, salt 0.21g, fibre 2.3g, lactose 0g.",
     "meta": {
      "0": [
+      "G",
       "KELA",
       "Veg",
       "Ilmastovalinta"
@@ -124,8 +125,7 @@
      "1": [
       "oat",
       "sesame seeds",
-      "soybens",
-      "wheat"
+      "soybens"
      ],
      "2": [
       "Ilmastovalinta"
@@ -138,10 +138,11 @@
    },
    {
     "name": "Pulled oats bolognese",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), pulled OATS (water, OAT 20 % (gluten free whole grain OAT flour, gluten free OAT bran), pea protein, faba bean protein, rapeseed oil.), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil (seed: eu)), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), soft brown sugar (Sugar and cane sugar syrup), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), thyme, basil (Basil.). Hiilijalanjälki: 0.28 kg CO2e / annos",
+    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), pulled OATS (water, OAT 20 % (gluten free whole grain OAT flour, gluten free OAT bran), pea protein, faba bean protein, rapeseed oil.), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil (seed: eu)), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), soft brown sugar (Sugar and cane sugar syrup), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), thyme, basil (Basil.). Hiilijalanjälki: 0.47 kg CO2e / annos",
     "nutrition": "Energy 394kJ, energy 94kcal, fat 4.0g, of which saturated fat 0.3g, carbohydrate 7.8g, of which sugars 4.2g, protein 5.1g, salt 0.55g, fibre 2.5g, lactose 0g.",
     "meta": {
      "0": [
+      "G",
       "KELA",
       "Veg",
       "Ilmastovalinta"
@@ -161,16 +162,19 @@
     }
    },
    {
-    "name": "Harissa balls & Pomegranate salsa",
-    "ingredients": "Falafel ball (Chickpea 48 % (Belgium), rapeseed oil, water, onion, parsley, pepperoni chili, harissa 3 % Finland (rapeseed oil, garlic, spices, sea salt), pea protein, garlic, spices (e.g coriander), potato starch, stabilizer (E461), iodized salt, lemon juice, lifting agent (E500).), undefined [tomato cubes (Tomato 100%.), tacosauce (tomato purée (water, tomato concentrate) (69,6 %) (non-EU), tomato, onion, jalapeño chilli, wine vinegar, salt, sugar, stabilisers (E412, E415)), pomegranate syrup (cane sugar, water, fruit juice from concentrate 17% (pomegranate 10%, elderberry), acid: citric acid E330, natural flavouring), pomegranate seed (Pomegranate seed 100%), basil (Finnish fresh basil), onion (onion (Poland))]. Hiilijalanjälki: 0.45 kg CO2e / annos",
-    "nutrition": "Energy 662kJ, energy 158kcal, fat 9.7g, of which saturated fat 0.7g, carbohydrate 12g, of which sugars 3.9g, protein 5.2g, salt 0.84g, fibre 3.3g, lactose 0g.",
+    "name": "Veggie nugets, pomegranate salsa",
+    "ingredients": "Undefined [tomato cubes (Tomato 100%.), tacosauce (tomato purée (water, tomato concentrate) (69,6 %) (non-EU), tomato, onion, jalapeño chilli, wine vinegar, salt, sugar, stabilisers (E412, E415)), pomegranate syrup (cane sugar, water, fruit juice from concentrate 17% (pomegranate 10%, elderberry), acid: citric acid E330, natural flavouring), pomegranate seed (Pomegranate seed 100%), basil (Finnish fresh basil), onion (onion (Poland))], vegetable nugget (Rehydrated WHEAT protein 38%, rapeseed oil, WHEAT flour, water, maize flour, bamboo fiber, stabilizer (methylcellulose), tapioca starch, salt, natural flavourings (WHEAT), garlic powder, white pepper, yeast, raising agents (ammonium carbonates) onion powder, red pepper powder, turmeric . May contain MILK, LEGUMES.). Hiilijalanjälki: 0.31 kg CO2e / annos",
+    "nutrition": "Energy 351kJ, energy 84kcal, fat 2.8g, of which saturated fat 0.2g, carbohydrate 12g, of which sugars 6.5g, protein 2.6g, salt 0.58g, fibre 1.7g, lactose 0g.",
     "meta": {
      "0": [
-      "G",
+      "KELA",
       "Veg",
       "Ilmastovalinta"
      ],
-     "1": [],
+     "1": [
+      "cereals containing gluten",
+      "wheat"
+     ],
      "2": [
       "Ilmastovalinta"
      ]
@@ -181,17 +185,28 @@
     }
    },
    {
-    "name": "Baguette bar",
-    "ingredients": "",
-    "nutrition": "",
+    "name": "Panang curry",
+    "ingredients": "Coconut milk (coconut extract (75%), water, emulsifier (E471), stabiliser (E466).), vegetable protein (Plant-based protein strips (pea protein, water, gluten-free whole grain OAT flour, gluten-free OAT groats), marinade (water, rapeseed oil, natural flavourings, sugar, herbs extract). Contains 23 % pea protein and 12 % OAT. May contain traces of soy.), water, vegetable mix (pineapple 20% (Costa Rica/Vietnam), carrot, red bell pepper, green bell pepper, bamboo sprout, CELERIAC), chick pea (rehydrated dried chickpeas (EU and non-EU), water, antioxidant (E223 sodium DISULPHITE)), onion (onion (100%)), red currypaste (Water, canola oil, bell pepper, salt, spices (paprika, chili, ginger, coriander, lemongrass, kaffir lime leaf), onion, garlic, spirit vinegar, modified cornstarch, cane sugar, sugar, dextrin, cornstarch, preservatives (E211, E202).), tomato puree (tomato (100 %, Portugal)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), lemongrass paste (Lemongrass 47 %, water, vinegar, sugar, salt, thickener, (xanthan gum), acidity regulator (citric acid).), sugar (sugar (Netherlands)), coriander (Coriander 100%), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), canola oil (rapeseed oil (seed: eu)). Hiilijalanjälki: 0.43 kg CO2e / annos",
+    "nutrition": "Energy 540kJ, energy 129kcal, fat 8.4g, of which saturated fat 3.9g, carbohydrate 6.2g, of which sugars 3.0g, protein 5.6g, salt 0.49g, fibre 1.7g, lactose 0g.",
     "meta": {
-     "0": [],
-     "1": [],
-     "2": []
+     "0": [
+      "G",
+      "KELA",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "celery",
+      "oat",
+      "sulfur dioxide and sulfits"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
     },
     "price": {
      "value": [],
-     "name": "Lounas"
+     "name": "Vegaanilounas"
     }
    }
   ]
