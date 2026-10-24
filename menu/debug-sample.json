@@ -47,38 +47,13 @@
     }
    },
    {
-    "name": "Pulled oats pasta casserole",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), pulled OATS (water, OAT 20 % (gluten free whole grain OAT flour, gluten free OAT bran), pea protein, faba bean protein, rapeseed oil.), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil (seed: eu)), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), soft brown sugar (Sugar and cane sugar syrup), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), thyme, basil (Basil.), pasta (durum WHEAT semolina (EU and non-EU), water. May contain traces of soy and mustard.). Hiilijalanjälki: 0.44 kg CO2e / annos",
-    "nutrition": "Energy 394kJ, energy 94kcal, fat 4.0g, of which saturated fat 0.3g, carbohydrate 7.8g, of which sugars 4.2g, protein 5.1g, salt 0.55g, fibre 2.5g, lactose 0g.",
-    "meta": {
-     "0": [
-      "KELA",
-      "Veg",
-      "Ilmastovalinta"
-     ],
-     "1": [
-      "celery",
-      "cereals containing gluten",
-      "oat",
-      "sulfur dioxide and sulfits",
-      "wheat"
-     ],
-     "2": [
-      "Ilmastovalinta"
-     ]
-    },
-    "price": {
-     "value": [],
-     "name": "Vegaanilounas"
-    }
-   },
-   {
-    "name": "Harissa balls & Pomegranate salsa",
-    "ingredients": "Falafel ball (Chickpea 48 % (Belgium), rapeseed oil, water, onion, parsley, pepperoni chili, harissa 3 % Finland (rapeseed oil, garlic, spices, sea salt), pea protein, garlic, spices (e.g coriander), potato starch, stabilizer (E461), iodized salt, lemon juice, lifting agent (E500).), undefined [tomato cubes (Tomato 100%.), tacosauce (tomato purée (water, tomato concentrate) (69,6 %) (non-EU), tomato, onion, jalapeño chilli, wine vinegar, salt, sugar, stabilisers (E412, E415)), pomegranate syrup (cane sugar, water, fruit juice from concentrate 17% (pomegranate 10%, elderberry), acid: citric acid E330, natural flavouring), pomegranate seed (Pomegranate seed 100%), basil (Finnish fresh basil), onion (onion (Poland))]. Hiilijalanjälki: 0.42 kg CO2e / annos",
-    "nutrition": "Energy 662kJ, energy 158kcal, fat 9.7g, of which saturated fat 0.7g, carbohydrate 12g, of which sugars 3.9g, protein 5.2g, salt 0.84g, fibre 3.3g, lactose 0g.",
+    "name": "Veggie balls, tomato sauce",
+    "ingredients": "Vegetable balls (Water, pea protein 25% (EU), rapeseed oil, corn flour, onion, stabilizers (methylcellulose, cellulose), salt, spices (black pepper, allspice), food colouring (caramel colour), maltodextrin.), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil (seed: eu)), basil (basil), sun-dried tomato (sun-dried tomato (non-EU), sunflower oil, salt, garlic, wine vinegar, acidity regulator (E270)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), soft brown sugar (Sugar and cane sugar syrup), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), paprika powder (Paprika), black pepper. Hiilijalanjälki: 0.42 kg CO2e / annos",
+    "nutrition": "Energy 710kJ, energy 171kcal, fat 9.6g, of which saturated fat 1.0g, carbohydrate 10g, of which sugars 2.4g, protein 9.2g, salt 0.76g, fibre 3.0g, lactose 0g.",
     "meta": {
      "0": [
       "G",
+      "KELA",
       "Veg",
       "Ilmastovalinta"
      ],
@@ -90,6 +65,20 @@
     "price": {
      "value": [],
      "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Baguette bar",
+    "ingredients": "",
+    "nutrition": "",
+    "meta": {
+     "0": [],
+     "1": [],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Lounas"
     }
    }
   ]
