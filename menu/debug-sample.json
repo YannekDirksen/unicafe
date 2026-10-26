@@ -103,17 +103,16 @@
   "title": "Metsätalo",
   "items": [
    {
-    "name": "Vegetable - quinoa patties with spicy mango salsa",
-    "ingredients": "Vegetable patty (Carrot *, chickpea, gluten free breadcrumbs (rice flour, chickpea flour, corn starch, dextrose), cooked quinoa ** 8 % (water, quinoa), rapeseed oil, water, spinach, swede, SOY protein, potato flake, coconut milk powder (coconut milk, maltodextrin), leek, parsnip, thickeners (E461, E407a), corn starch, potato fiber, iodised salt, sugar, spices (garlic, coriander, jeera, parsley), dextrose, flavour.), mango (mango 100% (Vietnam)), mango mash (mango (100 %, non-EU)), red onion (red onion (100%)), chilli sauce, chopped chili (100% chopped red chilli), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), agave syrup, coriander (Coriander 100%). Hiilijalanjälki: 0.93 kg CO2e / annos",
-    "nutrition": "Energy 554kJ, energy 132kcal, fat 5.4g, of which saturated fat 1.1g, carbohydrate 16g, of which sugars 7.7g, protein 4.1g, salt 0.67g, fibre 2.7g, lactose 0g.",
+    "name": "Vegetable - quinoa patties with mango youghurt",
+    "ingredients": "Vegetable patty (Carrot *, chickpea, gluten free breadcrumbs (rice flour, chickpea flour, corn starch, dextrose), cooked quinoa ** 8 % (water, quinoa), rapeseed oil, water, spinach, swede, SOY protein, potato flake, coconut milk powder (coconut milk, maltodextrin), leek, parsnip, thickeners (E461, E407a), corn starch, potato fiber, iodised salt, sugar, spices (garlic, coriander, jeera, parsley), dextrose, flavour.), SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), mango mash (mango (100 %, non-EU)), sugar (Sugar), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.92 kg CO2e / annos",
+    "nutrition": "Energy 606kJ, energy 145kcal, fat 6.1g, of which saturated fat 1.2g, carbohydrate 17g, of which sugars 7.7g, protein 5.0g, salt 1.9g, fibre 2.8g, lactose 0g.",
     "meta": {
      "0": [
       "G",
       "Veg"
      ],
      "1": [
-      "soybens",
-      "sulfur dioxide and sulfits"
+      "soybens"
      ],
      "2": []
     },
