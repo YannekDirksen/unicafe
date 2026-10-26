@@ -109,7 +109,6 @@
     "meta": {
      "0": [
       "G",
-      "KELA",
       "Veg"
      ],
      "1": [
@@ -164,20 +163,18 @@
     }
    },
    {
-    "name": "Saithe balls with pea–horseradish sauce",
-    "ingredients": "SAITHE ball (SAITHE 62% (Pollachius virens, FAO 27 Northeast Atlantic), rapeseed oil, breadcrumbs (WHEAT flour, salt), water, onion, potato flakes, potato flour, flavourings (FISH and umami flavouring, black pepper), dill, dextrose, salt, maltodextrin. May contain fishbones.), undefined [pea (pea), water, OAT fraiche, horseradish paste (Grated horseradish 56 %, rapeseed oil, water, horseradish flavor, iodized salt, potato fiber, thickener (xanthan gum), antioxidant (SODIUM DISULPHITE, ascorbic acid).  May contain traces of MUSTARD.), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper]. Hiilijalanjälki: 0.58 kg CO2e / annos",
-    "nutrition": "Energy 827kJ, energy 198kcal, fat 10g, of which saturated fat 1.0g, carbohydrate 13g, of which sugars 1.7g, protein 10g, salt 0.53g, fibre 2.3g, lactose 0g.",
+    "name": "Fish balls with pea–horseradish sauce",
+    "ingredients": "FISH ball (Cultured Finnish RAINBOW TROUT (Oncorhynchus mykiss) 42 %, caught Finnish skinless MSC certified BALTIC HERRING FILÉ (Clupea harengus membras) 14 % FAO 27.III.d, Finnish potato, water, Finnish parsnip, rapeseed oil, Finnish potato flakes, peafiber, lemon juice, stabilizer (E461, E407a), parsley, ionised salt, black pepper, nutmeg.), undefined [pea (pea), water, vegetable based fraiche (Water, rapeseed oil, modified corn starch, pea protein, sugar, salt, acidity regulator (lactic acid), natural thickener (carrageenan), flavors), horseradish paste (Grated horseradish 56 %, rapeseed oil, water, horseradish flavor, iodized salt, potato fiber, thickener (xanthan gum), antioxidant (SODIUM DISULPHITE, ascorbic acid).  May contain traces of MUSTARD.), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper]. Hiilijalanjälki: 0.59 kg CO2e / annos",
+    "nutrition": "Energy 777kJ, energy 186kcal, fat 13g, of which saturated fat 1.7g, carbohydrate 7.5g, of which sugars 1.6g, protein 9.3g, salt 0.81g, fibre 2.7g, lactose 0g.",
     "meta": {
      "0": [
+      "G",
       "KELA",
       "L"
      ],
      "1": [
-      "cereals containing gluten",
       "fish",
-      "oat",
-      "sulfur dioxide and sulfits",
-      "wheat"
+      "sulfur dioxide and sulfits"
      ],
      "2": []
     },
