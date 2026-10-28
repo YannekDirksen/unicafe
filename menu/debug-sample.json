@@ -4,20 +4,17 @@
   "items": [
    {
     "name": "Crispy vegetable patties, mango sauce",
-    "ingredients": "Vegetable patty (Rehydrated pea protein (EU) 56 %, water, rapeseed oil, gluten-free breadcrumbs (rice flour, chickpea flour, corn starch, dextrose), flavour, thickeners (E461, E407a), fiber (pea), spices (onion, ginger, black pepper), iodised salt, potassium chloride), undefined [SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), mango mash (mango (100 %, non-EU)), yellow curry paste (water, canola oil, sugar, salt, spirit vinegar, spices (turmeric, garlic, chili, coriander, paprika, ginger, lemongrass, kaffir lime leaf), curry (turmeric, dill seed, cumin, fennel, black pepper, cayenne, clove, coriander, potato starch, salt, fenugreek, garlic), modified cornstarch, bell pepper, dextrin, onion, lemon, cornstarch, preservatives (E211, E202).), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]. Hiilijalanjälki: 0.34 kg CO2e / annos",
+    "ingredients": "Vegetable patty (Rehydrated pea protein (EU) 56 %, water, rapeseed oil, gluten-free breadcrumbs (rice flour, chickpea flour, corn starch, dextrose), flavour, thickeners (E461, E407a), fiber (pea), spices (onion, ginger, black pepper), iodised salt, potassium chloride), undefined [SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), mango mash (mango (100 %, non-EU)), yellow curry paste (water, canola oil, sugar, salt, spirit vinegar, spices (turmeric, garlic, chili, coriander, paprika, ginger, lemongrass, kaffir lime leaf), curry (turmeric, dill seed, cumin, fennel, black pepper, cayenne, clove, coriander, potato starch, salt, fenugreek, garlic), modified cornstarch, bell pepper, dextrin, onion, lemon, cornstarch, preservatives (E211, E202).), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]. Hiilijalanjälki: 0.53 kg CO2e / annos",
     "nutrition": "Energy 801kJ, energy 191kcal, fat 11g, of which saturated fat 0.8g, carbohydrate 9.6g, of which sugars 2.2g, protein 13g, salt 0.98g, fibre 3.6g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [
       "soybens"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": {
@@ -29,8 +26,8 @@
    },
    {
     "name": "Pesto herrings",
-    "ingredients": "Baltic HERRING rolls, MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified maize and tapioca starch, emulsifier(E472e), flavouring, colour(beta-carotene)), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), basil (basil), FISH stock powder (Dried glucose syrup, salt, flavors (with FISH), FISHPOWDER 8%, palm fat, sugar, onion powder, acids (citric acid, lactic acid), spices (white pepper, turmeric).), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.53 kg CO2e / annos",
-    "nutrition": "Energy 788kJ, energy 189kcal, fat 14g, of which saturated fat 2.3g, carbohydrate 2.2g, of which sugars 0.8g, protein 12g, salt 0.79g, fibre <0.1g, lactose <0.01g.",
+    "ingredients": "Baltic HERRING rolls, MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified maize and tapioca starch, emulsifier(E472e), flavouring, colour(beta-carotene)), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), basil (basil), FISH stock powder (Dried glucose syrup, salt, flavors (with FISH), FISHPOWDER 8%, palm fat, sugar, onion powder, acids (citric acid, lactic acid), spices (white pepper, turmeric).), sunflower seed (sunflower seeds (EU)), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), canola oil (rapeseed oil (seed: eu)). Hiilijalanjälki: 0.72 kg CO2e / annos",
+    "nutrition": "Energy 796kJ, energy 191kcal, fat 15g, of which saturated fat 2.3g, carbohydrate 2.2g, of which sugars 0.9g, protein 13g, salt 0.79g, fibre 0.1g, lactose <0.01g.",
     "meta": {
      "0": [
       "G",
@@ -52,7 +49,7 @@
    },
    {
     "name": "Feta–chicken bake with tomato sauce",
-    "ingredients": "Chicken fillet (chicken fillet (91 %), water, iodised seasalt. Origin of chicken Finland), tomato juice (Tomato juice from concentrate, sugar, salt), undefined [canola oil (rapeseed oil (seed: eu)), seasoning, lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), white balsamic vinegar (rapeseed oil (EU), white balsamic vinegar (19%)(Finland)(white wine vinegar, grape juice concentrate, natural flavouring, antioxidant E220 SULPHUR DIOXIDE), water, sugar, olive oil, salt, colour (E160a), preservatives (E211, E202), thickener (E415)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)], onion (onion (100%)), cherry tomato (cherry tomatoes, tomato juice, salt, acidity regulator: citric acid), feta CHEESE (Pasteurized sheep's and goat's MILK, salt, starter culture, rennet. The rennet is of microbiological origin), black pepper (Black pepper cracked), basil (basil), sun-dried tomato (sun-dried tomato (non-EU), sunflower oil, salt, garlic, wine vinegar, acidity regulator (E270)), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), syrup. Hiilijalanjälki: 0.54 kg CO2e / annos",
+    "ingredients": "Chicken fillet (chicken fillet (91 %), water, iodised seasalt. Origin of chicken Finland), tomato juice (Tomato juice from concentrate, sugar, salt), undefined [canola oil (rapeseed oil (seed: eu)), seasoning, lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), white balsamic vinegar (rapeseed oil (EU), white balsamic vinegar (19%)(Finland)(white wine vinegar, grape juice concentrate, natural flavouring, antioxidant E220 SULPHUR DIOXIDE), water, sugar, olive oil, salt, colour (E160a), preservatives (E211, E202), thickener (E415)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)], onion (onion (100%)), olive oil (extra virgin olive oil), cherry tomato (cherry tomatoes, tomato juice, salt, acidity regulator: citric acid), feta CHEESE (Pasteurized sheep's and goat's MILK, salt, starter culture, rennet. The rennet is of microbiological origin), salad CHEESE (Pasteurized COW'S MILK, salt, preservative (E202), microbial rennet, starter culture.), black pepper (Black pepper cracked), basil (basil), sun-dried tomato (sun-dried tomato (non-EU), sunflower oil, salt, garlic, wine vinegar, acidity regulator (E270)), marinated cherry tomato (semi-dried cherry tomatoes (90%), sunflower oil, salt, garlic, oregano), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), syrup, rocket (Rocket). Hiilijalanjälki: 0.73 kg CO2e / annos",
     "nutrition": "Energy 321kJ, energy 76kcal, fat 2.4g, of which saturated fat 0.3g, carbohydrate 1.9g, of which sugars 1.8g, protein 12g, salt 0.81g, fibre 0.1g, lactose 0g.",
     "meta": {
      "0": [
@@ -76,18 +73,15 @@
    },
    {
     "name": "Roasted sweet potato",
-    "ingredients": "Sweet potato, canola oil (rapeseed oil (seed: eu)), salt (Sea salt, anti-caking agent (E535 EU)), rosemary, thyme, tarragon (Tarragon). Hiilijalanjälki: 0.02 kg CO2e / annos",
+    "ingredients": "Sweet potato, canola oil (rapeseed oil (seed: eu)), salt (Sea salt, anti-caking agent (E535 EU)), rosemary, thyme, tarragon (Tarragon)",
     "nutrition": "Energy 428kJ, energy 103kcal, fat 2.8g, of which saturated fat 0.2g, carbohydrate 16g, of which sugars 4.0g, protein 1.5g, salt 0.92g, fibre 2.9g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": {
