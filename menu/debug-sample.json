@@ -113,35 +113,6 @@
     }
    },
    {
-    "name": "Veggie burger & fries",
-    "ingredients": "French fries (Potatoes (89,5%), coating (5%) [modified starch, rice flour, dextrin, thickener: xanthan gum], sunflower oil, salt), vegetable patty (Water, pea protein 15% (EU), rapeseed oil, colourings (beetroot powder, caramel colour), thickener (methylcellulose), potato starch, spices (e.g. smoked paprika, onion, black pepper, chili), dried glucose syrup, salt, preservative (potassium sorbate), flavours.), brioche bun (WHEAT flour, water, sugar, vegetable oil (rapeseed, sunflower), potato (potato flour, fermented potato flour, flake), WHEAT GLUTEN, yeast, iodized salt, vegetable protein (pea, potato, bean), emulsifier (E472e, E471, E481, E322 sunflower lecitihin), dextrose, flavor, WHEAT sour dough, flour treatment agent (E300), maltodextrin, maize starch. May contain traces other gluten containing cereals and sesame seeds.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), undefined [white cabbage (white cabbage (100%, Finland)), shred carrot (carrot), grated red cabbage (red cabbage (100%, Finland)), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), salt (Sea salt, anti-caking agent (E535 EU))], chili cheese sauce (Water, rapeseed oil (EU), jalapeno (4.4%) (non-EU), sugar, modified starch, spirit vinegar, salt, sugarcane vinegar, colors (beta-carotene, paprika extract), preservatives (potassium sorbate, sodium benzoate), thickener (xanthan gum), natural aroma, acidity regulator (citric acid), antioxidant (calcium disodium EDTA).), pickled red onion (red onion (EU), water, sugar, vinegar, salt), pickled cucumber (Cucumber, water, salt, sugar, vinegar, preservative (sodiumbnezoate), spices (garlic, dill, currant leaf), aromas, sweetener (saccharin).), BBQ sauce (Water, SOY (water, SOY protein hydrolysate, salt), chili paste (chili, salt, preservatives E260 and E202), ginger paste (ginger, spirit vinager, SOY bean oil, sugar, salt, acidity regulators E330 and E300), rice vinegar, garlic, apple vinegar, rapeseed oil, modified corn starch, applepure, spices (onion, black pepper, gochugaru chili flakes), salt, flavours, colour (E150c).). Hiilijalanjälki: 0.64 kg CO2e / annos",
-    "nutrition": "Energy 893kJ, energy 215kcal, fat 12g, of which saturated fat 1.0g, carbohydrate 20g, of which sugars 3.4g, protein 5.5g, salt 0.98g, fibre 3.1g, lactose <0.01g.",
-    "meta": {
-     "0": [
-      "Veg"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "mustard",
-      "soybens",
-      "sulfur dioxide and sulfits",
-      "wheat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Vegaanilounas"
-    }
-   },
-   {
     "name": "Härkisbolognese",
     "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), härkis broad bean product (water, faba bean 24 % (flour, groats), pea protein, rapeseed oil, thickener (E461), pea fibre, iodised salt, colour (E150a), molasses, natural onion flavouring, modified starch, black pepper. May contain traces of gluten-free oats.), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), shred carrot (carrot), canola oil (rapeseed oil), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), soft brown sugar (Sugar and cane sugar syrup), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), thyme, basil (Basil.). Hiilijalanjälki: 0.44 kg CO2e / annos",
     "nutrition": "Energy 371kJ, energy 89kcal, fat 4.4g, of which saturated fat 0.3g, carbohydrate 7.8g, of which sugars 4.4g, protein 3.5g, salt 0.63g, fibre 2.5g, lactose 0g.",
@@ -173,20 +144,22 @@
     }
    },
    {
-    "name": "Sweet potato-root vegetable patties with tzatziki sauce",
-    "ingredients": "Sweet potato patty (Carrot *, sweet potato ***23 %, cabbage, onion, EGG, potato flake, rapeseed oil, syrup, thickeners (E461, E407a), salt, thyme, garlic, black pepper.), undefined [SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), cucumber (Cucumber), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]. Hiilijalanjälki: 0.98 kg CO2e / annos",
-    "nutrition": "Energy 305kJ, energy 72kcal, fat 2.9g, of which saturated fat 0.3g, carbohydrate 8.2g, of which sugars 3.9g, protein 2.3g, salt 0.60g, fibre 2.8g, lactose 0g.",
+    "name": "Lentil patties with tzatziki sauce",
+    "ingredients": "Bean-lentil patty (Carrot (43 %) (Finland), green lentils (20 %), kidneybean (17 %), rapeseed oil, onion, SOY PROTEIN, iodized salt, thickeners (E461, E407a, E508), dextrose, garlic, black pepper, cayenne pepper. The country of origin of the green lentils and kidneybean are indicated in the date field.), undefined [SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), cucumber (Cucumber), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]. Hiilijalanjälki: 0.41 kg CO2e / annos",
+    "nutrition": "Energy 467kJ, energy 116kcal, fat 6.2g, of which saturated fat 0.4g, carbohydrate 7.3g, of which sugars 2.8g, protein 5.7g, salt 0.75g, fibre 3.4g, lactose 0g.",
     "meta": {
      "0": [
       "G",
       "KELA",
-      "Veg"
+      "Veg",
+      "Ilmastovalinta"
      ],
      "1": [
-      "eggs",
       "soybens"
      ],
-     "2": []
+     "2": [
+      "Ilmastovalinta"
+     ]
     },
     "price": {
      "value": {
@@ -198,6 +171,26 @@
       "graduate_hyy": "6.35"
      },
      "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Gluten-free oats ",
+    "ingredients": "Water, OAT groat (gluten free OAT.), canola oil (rapeseed oil). Hiilijalanjälki: 0.04 kg CO2e / annos",
+    "nutrition": "Energy 681kJ, energy 163kcal, fat 8.0g, of which saturated fat 0.9g, carbohydrate 16g, of which sugars <0.5g, protein 4.1g, salt <0.01g, fibre 3.5g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg"
+     ],
+     "1": [
+      "oat"
+     ],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Lisäke"
     }
    }
   ]
