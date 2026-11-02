@@ -92,36 +92,6 @@
   "title": "Metsätalo",
   "items": [
    {
-    "name": "Veggie jalapeno nuggets and Chipotle mayonnaise",
-    "ingredients": "Vegetable nugget (Rehydrated SOY protein (Serbia) 38%, red pepper, rapeseed oil, water, gluten free breadcrumbs (rice flour, chickpea flour, corn starch, salt, dextrose), jalapeno pickle (Mexico) 4,3 % (jalapeno 59 %, water, vinegar, salt, spices), coconut oil, modified starch, starch (pea, corn), fiber (pea), thickeners (E461, E407a), salt, sugar, spices (garlic, nutmeg, white pepper, black pepper, lovage), flavour), undefined [mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), salsa chipotle (tomato puree (water, concentrated tomato), smoked jalapeno chili (10%), sugar, onion, wine vinegar, salt, canola oil, paprika, oregano, bay leaf, thyme, garlic. May contain traces of mustard.)]. Hiilijalanjälki: 0.49 kg CO2e / annos",
-    "nutrition": "Energy 1232kJ, energy 296kcal, fat 24g, of which saturated fat 3.7g, carbohydrate 12g, of which sugars 2.4g, protein 6.8g, salt 1.2g, fibre 4.5g, lactose 0g.",
-    "meta": {
-     "0": [
-      "G",
-      "Veg",
-      "Ilmastovalinta"
-     ],
-     "1": [
-      "mustard",
-      "soybens"
-     ],
-     "2": [
-      "Ilmastovalinta"
-     ]
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Vegaanilounas"
-    }
-   },
-   {
     "name": "Mozambican nut and chickpea stew",
     "ingredients": "Chick pea (rehydrated dried chickpeas (EU and non-EU), water, antioxidant (E223 sodium DISULPHITE)), coconut milk (coconut extract (75%), water, emulsifier (E471), stabiliser (E466).), spinach (Spinach 100%.), tomato cubes (Tomato 100%.), onion (onion (Poland)), water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), PEANUT butter (roasted PEANUT 100%. Contains naturally occuring sugars. May contain CASHEWNUTS, ALMONDS and HAZELNUTS.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), PEANUT (PEANUT (Argentina, China). May contain traces of nuts and sesame seeds.), canola oil (rapeseed oil), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), cornstarch, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.46 kg CO2e / annos",
     "nutrition": "Energy 575kJ, energy 137kcal, fat 8.9g, of which saturated fat 3.8g, carbohydrate 8.6g, of which sugars 2.4g, protein 4.5g, salt 0.44g, fibre 2.3g, lactose 0g.",
@@ -203,6 +173,30 @@
     "price": {
      "value": [],
      "name": "Lisäke"
+    }
+   },
+   {
+    "name": "Blueberry quark",
+    "ingredients": "QUARK (pasteurised skim MILK, starter culture.), whipping CREAM (CREAM, stabiliser (carrageenan)), bilberry (Bilberry), sugar (sugar (Netherlands)). Hiilijalanjälki: 0.30 kg CO2e / annos",
+    "nutrition": "Energy 649kJ, energy 155kcal, fat 8.1g, of which saturated fat 4.6g, carbohydrate 13g, of which sugars 12g, protein 7.1g, salt 0.08g, fibre 0.5g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "L",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "milk"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": {
+      "normal": "1.50"
+     },
+     "name": "Jälkiruoka"
     }
    }
   ]
