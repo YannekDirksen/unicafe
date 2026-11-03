@@ -95,8 +95,8 @@
   "items": [
    {
     "name": "Butter bean balls with warm curry sauce and blackcurrant jam",
-    "ingredients": "Root vegetable and butter bean ball (Carrot, parsnip, pumpkin, canned butter beans 9 % (butter beans, water, salt), rapeseed oil, SOY protein preparations, onion, potato fiber, apple juice concentrate, pumpkin seed, rice flakes, iodized salt, spices (e.g. black pepper, chilli, smoked paprika), psyllium, potassium chloride. Roots 48 %. Vegetable content 75 %.), water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), blackcurrant jam (Black currant (EU), water, sugar, thickener (pectin), preservative (potassium sorbate), acidity regulator (citric acid). 100 g of product contains 38 g of blackcurrant.), margarine (Vegetable fat (palm oil, coconut fat), rapeseed oil, water, salt, emulsifiers (E471 plant based, E472c, E322 sunflower lecithin), acidity regulators (E330, E500), flavouring, vitamin A, vitamin D2, colour (E160a).), onion (onion (Poland)), applesauce (apple (EU), antioxidant (E300), acid (E330)), curry madras (Coriander (34%), turmeric (31%), fenugreek, cayenne pepper, cumin, fennel, black pepper.), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), browning sauce (Colour (caramel E150c), water, salt (10 %).), sugar (sugar (Netherlands)). Hiilijalanjälki: 0.41 kg CO2e / annos",
-    "nutrition": "Energy 673kJ, energy 161kcal, fat 10g, of which saturated fat 1.7g, carbohydrate 11g, of which sugars 6.8g, protein 4.0g, salt 0.67g, fibre 3.9g, lactose <0.01g.",
+    "ingredients": "Root vegetable and butter bean ball (Carrot, parsnip, pumpkin, canned butter beans 9 % (butter beans, water, salt), rapeseed oil, SOY protein preparations, onion, potato fiber, apple juice concentrate, pumpkin seed, rice flakes, iodized salt, spices (e.g. black pepper, chilli, smoked paprika), psyllium, potassium chloride. Roots 48 %. Vegetable content 75 %.), water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), blackcurrant jam (Black currant (EU), water, sugar, thickener (pectin), preservative (potassium sorbate), acidity regulator (citric acid). 100 g of product contains 38 g of blackcurrant.), margarine (Vegetable fat (palm oil, coconut fat), rapeseed oil, water, salt, emulsifiers (E471 plant based, E472c, E322 sunflower lecithin), acidity regulators (E330, E500), flavouring, vitamin A, vitamin D2, colour (E160a).), onion (onion (Poland)), applesauce (apple (EU), antioxidant (E300), acid (E330)), curry madras (Coriander (34%), turmeric (31%), fenugreek, cayenne pepper, cumin, fennel, black pepper.), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), browning sauce (Colour (caramel E150c), water, salt, preservative (potassium sorbate).), sugar (sugar (Netherlands)). Hiilijalanjälki: 0.41 kg CO2e / annos",
+    "nutrition": "Energy 673kJ, energy 161kcal, fat 10g, of which saturated fat 1.7g, carbohydrate 11g, of which sugars 6.7g, protein 4.0g, salt 0.67g, fibre 3.9g, lactose <0.01g.",
     "meta": {
      "0": [
       "G",
@@ -156,33 +156,6 @@
     }
    },
    {
-    "name": "Baked sausage Mexican-style",
-    "ingredients": "Sausage (water, chicken, mechanically separated poultry meat (Finland), turkey, potato starch, poultry fat, salt (salt, iodine), potato fibre, potassium chloride, stabilizer E 450, dextrose, antioxidant E 301, flavour (incl. nutmeg, paprika), preservative sodium nitrite, smoked vinegar. Origin of chicken and turkey Finland), CREAM CHEESE (pasteurized CREAM (57%, Finland and Sweden), pasteurized skimmed MILK (38%, Sweden), skimmed MILK powder (Sweden), stabilizer (E412), salt, thickener (E440), lactase enzyme, preservative (E202), starter culture.), smetana (pasteurised CREAM, starter culture), onion (onion (Poland)), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), jalapeno slices (jalapeño (Mexico), water, vinegar, salt, firming agent (E509), garlic), chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), paprika powder (Paprika). Hiilijalanjälki: 1.17 kg CO2e / annos",
-    "nutrition": "Energy 889kJ, energy 214kcal, fat 17g, of which saturated fat 7.5g, carbohydrate 6.7g, of which sugars 1.4g, protein 8.4g, salt 1.4g, fibre 0.5g, lactose <0.01g.",
-    "meta": {
-     "0": [
-      "G",
-      "KELA",
-      "L"
-     ],
-     "1": [
-      "milk"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Lounas"
-    }
-   },
-   {
     "name": "Steamed rice",
     "ingredients": "Water, rice (parboiled long-grain rice). Hiilijalanjälki: 0.27 kg CO2e / annos",
     "nutrition": "Energy 497kJ, energy 117kcal, fat 0.6g, of which saturated fat 0.2g, carbohydrate 25g, of which sugars <0.5g, protein 2.5g, salt <0.01g, fibre 0.5g, lactose 0g.",
@@ -197,6 +170,31 @@
     "price": {
      "value": [],
      "name": "Lisäke"
+    }
+   },
+   {
+    "name": "Mangomousse with crispy granola",
+    "ingredients": "Vegetable fat mix (water, fully hydrogenated vegetable oils (coconut, rapeseed), maltodextrin, sugar, emulsifier (E472e, E435), stabilisers (E464, xanthan gum), acidity regulator (potassium hydroxide), salt, flavouring, colour (carotenes).), mango mash (mango (100 %, non-EU)), fermented SOYA product (SOYA base (Water, Hulled SOYA beans (16.9%)), Sugar, Stabiliser (Pectins), Calcium (Tri-calciumcitrate), Acidity regulators(Sodium citrates, Citric acid), Natural flavouring, Sea salt, Antioxidants (Tocopherol-rich extract, Fatty acid esters of ascorbicacid), Vitamins (B12, D2), Yogurt cultures (S. thermophilus, L. bulgaricus). May contain traces of nuts (not peanuts).), undefined [oat flakes (Gluten free whole grain OATS), pumpkin seed (pumpkin seeds (non-EU)), sunflower seed (sunflower seeds (EU)), agave syrup], vanilla sugar (sugar ( EU and non-EU), powdered sugar, anti-caking agent (E 341), vanilla (0,8%) (non-EU), vanilla flavor), sugar (Sugar), dark chocolate (Sugar, cocoa mass* (non-EU), cocoa butter* (non-EU), emulsifier (lecithin). Cocoa solids 50 % minimum. May contain traces of MILK POWDER, HAZELNUTS and ALMONDS. *Rainforest Alliance Certified. Find out more at ra.org). Hiilijalanjälki: 0.09 kg CO2e / annos",
+    "nutrition": "Energy 752kJ, energy 181kcal, fat 12g, of which saturated fat 9.1g, carbohydrate 14g, of which sugars 9.3g, protein 3.0g, salt 0.09g, fibre 1.2g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "oat",
+      "soybens"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": {
+      "normal": "1.50"
+     },
+     "name": "Jälkiruoka"
     }
    }
   ]
