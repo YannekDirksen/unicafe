@@ -4,22 +4,19 @@
   "items": [
    {
     "name": "Ratatouille with pulled oat`s",
-    "ingredients": "Pulled OATS (water, OAT 20 % (gluten free whole grain OAT flour, gluten free OAT bran), pea protein, faba bean protein, rapeseed oil.), aubergine, zucchini (zucchini), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), red pepper cube (red pepper (100%, Poland)), tomato cubes (Tomato 100%.), water, onion (onion (Poland)), canola oil (rapeseed oil), tomato puree (tomato (100 %, Portugal)), lemon, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), sugar (sugar (Netherlands)), parsley, white balsamic vinegar (white wine vinegar, grape juice concentrate, antioxidant (E228 potassium hydrogen SULPHITE)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), black pepper, thyme. Hiilijalanjälki: 0.34 kg CO2e / annos",
-    "nutrition": "Energy 458kJ, energy 110kcal, fat 4.9g, of which saturated fat 0.4g, carbohydrate 6.7g, of which sugars 4.0g, protein 7.3g, salt 0.54g, fibre 2.5g, lactose 0g.",
+    "ingredients": "Pulled OATS (water, OAT 20 % (gluten free whole grain OAT flour, gluten free OAT bran), pea protein, faba bean protein, rapeseed oil.), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), red pepper cube (red pepper (100%, Poland)), tomato cubes (Tomato 100%.), water, onion (onion (Poland)), canola oil (rapeseed oil), tomato puree (tomato (100 %, Portugal)), lemon, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), sugar (sugar (Netherlands)), parsley, white balsamic vinegar (white wine vinegar, grape juice concentrate, antioxidant (E228 potassium hydrogen SULPHITE)), balsamic vinegar (wine vinegar (Italy), grape must concentrate, colour (E150d). Contains SULFITES.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), vegetable mix (tomato (30%), zucchini (30%), onion (14%), yellow pepper (10%), red pepper (8%), green pepper (8%)), black pepper, thyme. Hiilijalanjälki: 0.52 kg CO2e / annos",
+    "nutrition": "Energy 573kJ, energy 137kcal, fat 6.4g, of which saturated fat 0.5g, carbohydrate 8.0g, of which sugars 4.4g, protein 9.2g, salt 0.71g, fibre 2.7g, lactose 0g.",
     "meta": {
      "0": [
       "G",
       "KELA",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [
       "oat",
       "sulfur dioxide and sulfits"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
@@ -27,22 +24,22 @@
     }
    },
    {
-    "name": "Baked Saithe with cheese",
-    "ingredients": "ALASKA POLLOCK (Alaska POLLOCK (Theragra chalcogramma)), water, onion (onion (Poland)), cheese créme (cheese (MILK (origin Eu), salt, cheese culture), water, MILK fat (origin Finland), emulsifying salts (E452, E339, E331), preservative (E200).), MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified corn and tapioca starch, emulsifier (E472e), flavour, colour (beta-carotene).), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), tomato puree (tomato (100 %, Portugal)), cornstarch (corn starch (EU)), rapeseed oil (rapeseed oil (seed: eu)), FISH stock powder (Dried glucose syrup, salt, flavors (with FISH), FISHPOWDER 8%, palm fat, sugar, onion powder, acids (citric acid, lactic acid), spices (white pepper, turmeric).), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), dill (dill (origin: India or EU)), black pepper. Hiilijalanjälki: 0.39 kg CO2e / annos",
-    "nutrition": "Energy 524kJ, energy 125kcal, fat 5.9g, of which saturated fat 2.0g, carbohydrate 4.0g, of which sugars 1.2g, protein 14g, salt 1.1g, fibre 0.4g, lactose <0.01g.",
+    "name": "Rainbow trout balls with wasabi yoghurt",
+    "ingredients": "RAINBOW TROUT ball (Cultivated Norwegian RAINBOW TROUT (Oncorhynchus mykiss) 22 %, farmed Norwegian SALMON (Salmo salar) 19 %, caught MSC certified SAITHE (Polachius virens) FAO 27 Northeast Atlantic, potato, rapeseed oil, onion, water, lactose free cream fraiche (pasteurized CREAM, acidity regulator), potato flakes, SOY protein, thickeners (E461, E407a), tomato paste, iodised salt, lemon juice, black pepper, white pepper.), undefined [Turkish YOGHURT (pasteurised MILK and CREAM, MILK powder, starter culture.), rocket sprout (Rucola (100%)), lemon juice (lemon juice made from concentrate (non EU).), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), sugar (sugar (Netherlands)), wasabi paste]. Hiilijalanjälki: 0.72 kg CO2e / annos",
+    "nutrition": "Energy 799kJ, energy 188kcal, fat 14g, of which saturated fat 3.3g, carbohydrate 5.6g, of which sugars 1.3g, protein 11g, salt 0.74g, fibre 0.8g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "L",
-      "Ilmastovalinta"
+      "KELA",
+      "L"
      ],
      "1": [
       "fish",
-      "milk"
+      "milk",
+      "mustard",
+      "soybens"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
@@ -51,8 +48,8 @@
    },
    {
     "name": "Vietnamese baos with overcooked pork",
-    "ingredients": "Bao bun (WHEAT flour (WHEAT: EU), water, sugar, yeast, rapeseed oil, salt, emulsify (E471).), pulled pork (pork (97 %), iodised seasalt. Origin of pork Finland), BBQ sauce (Sugar, water, sugar cane molasses, tomato pure, syrup, modified corn starch, spices (onion, garlic), salt, potato starch, preservatives (E211, E202), flavours (t.ex smoke), colour (E150c), stabilizer (E415)), undefined [cucumber (Cucumber), white wine vinegar (white wine vinegar, antioxidant (potassium hydrogen SULPHITE)), coriander (Coriander 100%), sugar (sugar (Netherlands)), chopped chili (100% chopped red chilli)], undefined [carrot (carbo-peeled carrot (100%)), sugar (sugar (Netherlands)), white wine vinegar (white wine vinegar, antioxidant (potassium hydrogen SULPHITE)), salt (Sea salt, anti-caking agent (E535 EU))], roasted onion (onion (EU), palm oil, WHEAT flour, salt.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), chilli sauce. Hiilijalanjälki: 0.64 kg CO2e / annos",
-    "nutrition": "Energy 953kJ, energy 227kcal, fat 8.7g, of which saturated fat 2.3g, carbohydrate 28g, of which sugars 9.5g, protein 7.8g, salt 0.89g, fibre 1.4g, lactose 0g.",
+    "ingredients": "Bao bun (WHEAT flour (WHEAT: EU), water, sugar, yeast, rapeseed oil, salt, emulsify (E471).), pulled pork (pork (97 %), iodised seasalt. Origin of pork Finland), BBQ sauce (Sugar, water, sugar cane molasses, tomato pure, syrup, modified corn starch, spices (onion, garlic), salt, potato starch, preservatives (E211, E202), flavours (t.ex smoke), colour (E150c), stabilizer (E415)), undefined [cucumber (Cucumber), carrot slices (Carrot), white wine vinegar (white wine vinegar, antioxidant (potassium hydrogen SULPHITE)), coriander (Coriander 100%), sugar (sugar (Netherlands)), pickle base (Water, invert sugar syrup, distilled vinegar, salt), SESAME SEED (White SESAME seed), black SESAME SEED (Black SESAME seed), chili (Chilli pepper)], mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), chilli sauce, flat-leaf parsley (Leaf parsley 100%), black SESAME SEED (Black SESAME seed), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).). Hiilijalanjälki: 0.77 kg CO2e / annos",
+    "nutrition": "Energy 927kJ, energy 220kcal, fat 7.3g, of which saturated fat 1.4g, carbohydrate 29g, of which sugars 9.4g, protein 8.5g, salt 0.88g, fibre 1.1g, lactose 0g.",
     "meta": {
      "0": [
       "KELA",
@@ -61,6 +58,7 @@
      "1": [
       "cereals containing gluten",
       "mustard",
+      "sesame seeds",
       "sulfur dioxide and sulfits",
       "wheat"
      ],
@@ -73,20 +71,17 @@
    },
    {
     "name": "Gluten-free  oats",
-    "ingredients": "Water, OAT (Gluten free OATS, heat treated), baby spinach (Baby spinach), flat-leaf parsley (flatparsley). Hiilijalanjälki: 0.04 kg CO2e / annos",
+    "ingredients": "Water, OAT (Gluten free OATS, heat treated), baby spinach (Baby spinach), flat-leaf parsley (flatparsley), citrus vinaigrette (rapeseed oil (EU), white wine vinager, sugar, water, lemon flavour, salt, preservatives (E211, E202), thickener (E415))",
     "nutrition": "Energy 510kJ, energy 122kcal, fat 2.3g, of which saturated fat 0.5g, carbohydrate 19g, of which sugars <0.5g, protein 4.7g, salt <0.01g, fibre 3.2g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [
       "oat"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
