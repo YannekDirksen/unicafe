@@ -3,18 +3,18 @@
   "title": "Olivia staff restaurant",
   "items": [
    {
-    "name": "Beetroot balls and Danish remoulade",
-    "ingredients": "Beetroot ball (Beetroot 47 % (Finland), pre-fried onion (rapeseed oil, sunflower oil), potato granule, rapeseed oil, pea protein, pumpkin seed, water, coconut oil, roasted flax seed, modified potato starch, corn starch, sugar, thickeners (E461, E407a, E415), salt, lemon juice concentrate, black pepper.), undefined [capers (capers, water, vinegar, salt), onion (onion (Poland)), SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), pickled cucumber dices (Cherkins (EU), water, vinegar, salt, sugar, preservatives (E211,E202), stabilizer (E509), aromas (MUSTARD SEED), sweetener (saccharin).), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), chives (chives (EU)), dill (dill (origin: India or EU)), MUSTARD (water, MUSTARD SEED (EU and non-EU), spirit vinegar, salt, antioxidant (potassium disulfite), acidity regulator (E330)), turmeric (Turmeric), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper]. Hiilijalanjälki: 0.41 kg CO2e / annos",
-    "nutrition": "Energy 795kJ, energy 193kcal, fat 14g, of which saturated fat 2.6g, carbohydrate 9.3g, of which sugars 4.5g, protein 6.1g, salt 1.3g, fibre 2.8g, lactose 0g.",
+    "name": "Ratatouille with pulled oat`s",
+    "ingredients": "Pulled OATS (water, OAT 20 % (gluten free whole grain OAT flour, gluten free OAT bran), pea protein, faba bean protein, rapeseed oil.), aubergine, zucchini (zucchini), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), red pepper cube (red pepper (100%, Poland)), tomato cubes (Tomato 100%.), water, onion (onion (Poland)), canola oil (rapeseed oil), tomato puree (tomato (100 %, Portugal)), lemon, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), sugar (sugar (Netherlands)), parsley, white balsamic vinegar (white wine vinegar, grape juice concentrate, antioxidant (E228 potassium hydrogen SULPHITE)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), black pepper, thyme. Hiilijalanjälki: 0.34 kg CO2e / annos",
+    "nutrition": "Energy 458kJ, energy 110kcal, fat 4.9g, of which saturated fat 0.4g, carbohydrate 6.7g, of which sugars 4.0g, protein 7.3g, salt 0.54g, fibre 2.5g, lactose 0g.",
     "meta": {
      "0": [
       "G",
+      "KELA",
       "Veg",
       "Ilmastovalinta"
      ],
      "1": [
-      "mustard",
-      "soybens",
+      "oat",
       "sulfur dioxide and sulfits"
      ],
      "2": [
@@ -27,17 +27,40 @@
     }
    },
    {
-    "name": "Whole grain fish fillet & lime-coriander sauce",
-    "ingredients": "FISH fillet (Alaska Pollock (FISH) 63% (Gadus chalcogrammus). Whole WHEAT Flour, Rapeseed Oil, Water, Salt, Yeast, Malted WHEAT Flour, WHEATStarch, Raising Agents (Sodium carbonates, Diphosphates).), YOGHURT (Pasteurized MILK (Finland) and starter culture (asidofilus-bifido)), SOURCREAM (pasteurized CREAM(Finland), starter culture.), coriander (Coriander 100%), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), sugar (sugar). Hiilijalanjälki: 0.60 kg CO2e / annos",
-    "nutrition": "Energy 598kJ, energy 143kcal, fat 8.2g, of which saturated fat 2.0g, carbohydrate 9.0g, of which sugars 2.4g, protein 8.0g, salt 0.54g, fibre 1.0g, lactose <0.01g.",
+    "name": "Baked Saithe with cheese",
+    "ingredients": "ALASKA POLLOCK (Alaska POLLOCK (Theragra chalcogramma)), water, onion (onion (Poland)), cheese créme (cheese (MILK (origin Eu), salt, cheese culture), water, MILK fat (origin Finland), emulsifying salts (E452, E339, E331), preservative (E200).), MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified corn and tapioca starch, emulsifier (E472e), flavour, colour (beta-carotene).), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), tomato puree (tomato (100 %, Portugal)), cornstarch (corn starch (EU)), rapeseed oil (rapeseed oil (seed: eu)), FISH stock powder (Dried glucose syrup, salt, flavors (with FISH), FISHPOWDER 8%, palm fat, sugar, onion powder, acids (citric acid, lactic acid), spices (white pepper, turmeric).), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), dill (dill (origin: India or EU)), black pepper. Hiilijalanjälki: 0.39 kg CO2e / annos",
+    "nutrition": "Energy 524kJ, energy 125kcal, fat 5.9g, of which saturated fat 2.0g, carbohydrate 4.0g, of which sugars 1.2g, protein 14g, salt 1.1g, fibre 0.4g, lactose <0.01g.",
     "meta": {
      "0": [
-      "L"
+      "G",
+      "L",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "fish",
+      "milk"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Buffet"
+    }
+   },
+   {
+    "name": "Vietnamese baos with overcooked pork",
+    "ingredients": "Bao bun (WHEAT flour (WHEAT: EU), water, sugar, yeast, rapeseed oil, salt, emulsify (E471).), pulled pork (pork (97 %), iodised seasalt. Origin of pork Finland), BBQ sauce (Sugar, water, sugar cane molasses, tomato pure, syrup, modified corn starch, spices (onion, garlic), salt, potato starch, preservatives (E211, E202), flavours (t.ex smoke), colour (E150c), stabilizer (E415)), undefined [cucumber (Cucumber), white wine vinegar (white wine vinegar, antioxidant (potassium hydrogen SULPHITE)), coriander (Coriander 100%), sugar (sugar (Netherlands)), chopped chili (100% chopped red chilli)], undefined [carrot (carbo-peeled carrot (100%)), sugar (sugar (Netherlands)), white wine vinegar (white wine vinegar, antioxidant (potassium hydrogen SULPHITE)), salt (Sea salt, anti-caking agent (E535 EU))], roasted onion (onion (EU), palm oil, WHEAT flour, salt.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), chilli sauce. Hiilijalanjälki: 0.64 kg CO2e / annos",
+    "nutrition": "Energy 953kJ, energy 227kcal, fat 8.7g, of which saturated fat 2.3g, carbohydrate 28g, of which sugars 9.5g, protein 7.8g, salt 0.89g, fibre 1.4g, lactose 0g.",
+    "meta": {
+     "0": [
+      "KELA",
+      "M"
      ],
      "1": [
       "cereals containing gluten",
-      "fish",
-      "milk",
+      "mustard",
       "sulfur dioxide and sulfits",
       "wheat"
      ],
@@ -49,37 +72,21 @@
     }
    },
    {
-    "name": "Butter chicken",
-    "ingredients": "Chicken roast cutlett (chicken thigh (85 %), water, rapeseed oil, iodised salt, preservative E 262. Origin of chicken Finland), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), onion (onion (100%)), red sweet pepper cubes (Red capsicum), MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified maize and tapioca starch, emulsifier(E472e), flavouring, colour(beta-carotene)), BUTTER (pasteurised CREAM, salt), tomato puree (tomato (100 %, Portugal)), chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), cloves (Cloves (non-EU).), cardamom (Cardamom crushed), coriander (Coriander.), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), lemon juice (Lemon Juice 99,9%, essential oil (extracted from lemon rind) Antioxidant: Potassium metabisulphite (E224)), chili (Chilli pepper), syrup, cumin (Cumin), Turkish YOGHURT (Pasteurised MILK and CREAM (origin: Finland), MILK protein, starter), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), paprika powder (paprika, E551(0,7%)), lemon juice (lemon juice made from concentrate (non EU).). Hiilijalanjälki: 0.70 kg CO2e / annos",
-    "nutrition": "Energy 438kJ, energy 105kcal, fat 7.1g, of which saturated fat 2.3g, carbohydrate 3.9g, of which sugars 3.4g, protein 6.2g, salt 0.41g, fibre 0.9g, lactose <0.01g.",
+    "name": "Gluten-free  oats",
+    "ingredients": "Water, OAT (Gluten free OATS, heat treated), baby spinach (Baby spinach), flat-leaf parsley (flatparsley). Hiilijalanjälki: 0.04 kg CO2e / annos",
+    "nutrition": "Energy 510kJ, energy 122kcal, fat 2.3g, of which saturated fat 0.5g, carbohydrate 19g, of which sugars <0.5g, protein 4.7g, salt <0.01g, fibre 3.2g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "KELA",
-      "L"
+      "Veg",
+      "Ilmastovalinta"
      ],
      "1": [
-      "milk",
-      "sulfur dioxide and sulfits"
+      "oat"
      ],
-     "2": []
-    },
-    "price": {
-     "value": [],
-     "name": "Buffet"
-    }
-   },
-   {
-    "name": "Steamed jasmine rice",
-    "ingredients": "Water, jasmine rice (Jasminrice (Thailand)), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), flat-leaf parsley (flatparsley)",
-    "nutrition": "Energy 500kJ, energy 118kcal, fat <0.5g, of which saturated fat <0.1g, carbohydrate 26g, of which sugars <0.5g, protein 2.2g, salt 0.04g, fibre 0.8g, lactose 0g.",
-    "meta": {
-     "0": [
-      "G",
-      "Veg"
-     ],
-     "1": [],
-     "2": []
+     "2": [
+      "Ilmastovalinta"
+     ]
     },
     "price": {
      "value": [],
@@ -92,9 +99,39 @@
   "title": "Metsätalo",
   "items": [
    {
-    "name": "Mozambican nut and chickpea stew",
-    "ingredients": "Chick pea (rehydrated dried chickpeas (EU and non-EU), water, antioxidant (E223 sodium DISULPHITE)), coconut milk (coconut extract (75%), water, emulsifier (E471), stabiliser (E466).), spinach (Spinach 100%.), tomato cubes (Tomato 100%.), onion (onion (Poland)), water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), PEANUT butter (roasted PEANUT 100%. Contains naturally occuring sugars. May contain CASHEWNUTS, ALMONDS and HAZELNUTS.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), PEANUT (PEANUT (Argentina, China). May contain traces of nuts and sesame seeds.), canola oil (rapeseed oil), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), cornstarch, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.46 kg CO2e / annos",
-    "nutrition": "Energy 575kJ, energy 137kcal, fat 8.9g, of which saturated fat 3.8g, carbohydrate 8.6g, of which sugars 2.4g, protein 4.5g, salt 0.44g, fibre 2.3g, lactose 0g.",
+    "name": "Butter bean balls with warm curry sauce and blackcurrant jam",
+    "ingredients": "Root vegetable and butter bean ball (Carrot, parsnip, pumpkin, canned butter beans 9 % (butter beans, water, salt), rapeseed oil, SOY protein preparations, onion, potato fiber, apple juice concentrate, pumpkin seed, rice flakes, iodized salt, spices (e.g. black pepper, chilli, smoked paprika), psyllium, potassium chloride. Roots 48 %. Vegetable content 75 %.), water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), blackcurrant jam (Black currant (EU), water, sugar, thickener (pectin), preservative (potassium sorbate), acidity regulator (citric acid). 100 g of product contains 38 g of blackcurrant.), margarine (Vegetable fat (palm oil, coconut fat), rapeseed oil, water, salt, emulsifiers (E471 plant based, E472c, E322 sunflower lecithin), acidity regulators (E330, E500), flavouring, vitamin A, vitamin D2, colour (E160a).), onion (onion (Poland)), applesauce (apple (EU), antioxidant (E300), acid (E330)), curry madras (Coriander (34%), turmeric (31%), fenugreek, cayenne pepper, cumin, fennel, black pepper.), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), browning sauce (Colour (caramel E150c), water, salt (10 %).), sugar (sugar (Netherlands)). Hiilijalanjälki: 0.41 kg CO2e / annos",
+    "nutrition": "Energy 673kJ, energy 161kcal, fat 10g, of which saturated fat 1.7g, carbohydrate 11g, of which sugars 6.8g, protein 4.0g, salt 0.67g, fibre 3.9g, lactose <0.01g.",
+    "meta": {
+     "0": [
+      "G",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "oat",
+      "soybens"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": {
+      "student": "3.10",
+      "graduate": "6.35",
+      "contract": "7.30",
+      "normal": "9.80",
+      "student_hyy": "3.10",
+      "graduate_hyy": "6.35"
+     },
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Quorn with pesto sauce",
+    "ingredients": "Water, quorn (Mycoprotein (85%), Rapeseed Protein, Natural Flavouring, Pea Fibre, Gluten Free Roasted Barley Malt Extract, Mushroom Extract (Maltodextrin, Mushroom Extract).), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), butter beans (rehydrated dried lima beans (EU and non-EU), water, antioxidant (E223 SODIUM DISULFITE)), onion (onion (Poland)), vegetable mix (tomato (30%), zucchini (30%), onion (14%), yellow pepper (10%), red pepper (8%), green pepper (8%)), sun-dried tomato (sun-dried tomato (non-EU), sunflower oil, salt, garlic, wine vinegar, acidity regulator (E270)), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), tomato puree (tomato (100 %, Portugal)), cornstarch, lemon juice (lemon juice made from concentrate (non EU).), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), sugar (Sugar), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), turmeric (Turmeric), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper. Hiilijalanjälki: 0.35 kg CO2e / annos",
+    "nutrition": "Energy 422kJ, energy 101kcal, fat 6.0g, of which saturated fat 0.7g, carbohydrate 6.0g, of which sugars 2.0g, protein 4.7g, salt 0.72g, fibre 1.9g, lactose <0.01g.",
     "meta": {
      "0": [
       "G",
@@ -103,8 +140,8 @@
       "Ilmastovalinta"
      ],
      "1": [
+      "barley",
       "oat",
-      "peanuts",
       "sulfur dioxide and sulfits"
      ],
      "2": [
@@ -124,24 +161,19 @@
     }
    },
    {
-    "name": "Ratatouille Fruit de Mer",
-    "ingredients": "Water, ALASKA POLLOCK (ALASKA POLLOCK 100% (Theragra chalcogramma)), RAINBOW TROUT (RAINBOW TROUT (farmed Oncorynchus mykiss, Finland), water (max 5%).), BLUE MUSSEL (MUSSEL MEAT (Mytilus chilensis), farmed in Chile), tomato puree (tomato (100 %, Portugal)), aubergine, zucchini, tomato cubes (Tomato 100%.), onion (onion (Poland)), canola oil (rapeseed oil), leek (Leek (origin: FI/NL/FR/ES). May contain traces of other vegetables.), red sweet pepper cubes (Red capsicum), cornstarch (corn starch (EU)), FISH stock powder (Dried glucose syrup, salt, flavors (with FISH), FISHPOWDER 8%, palm fat, sugar, onion powder, acids (citric acid, lactic acid), spices (white pepper, turmeric).), lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), basil (basil), dill, sugar (sugar (Netherlands)), black pepper, thyme. Hiilijalanjälki: 0.49 kg CO2e / annos",
-    "nutrition": "Energy 310kJ, energy 74kcal, fat 3.7g, of which saturated fat 0.3g, carbohydrate 3.2g, of which sugars 1.7g, protein 6.6g, salt 0.56g, fibre 0.7g, lactose 0g.",
+    "name": "Baked sausage Mexican-style",
+    "ingredients": "Sausage (water, chicken, mechanically separated poultry meat (Finland), turkey, potato starch, poultry fat, salt (salt, iodine), potato fibre, potassium chloride, stabilizer E 450, dextrose, antioxidant E 301, flavour (incl. nutmeg, paprika), preservative sodium nitrite, smoked vinegar. Origin of chicken and turkey Finland), CREAM CHEESE (pasteurized CREAM (57%, Finland and Sweden), pasteurized skimmed MILK (38%, Sweden), skimmed MILK powder (Sweden), stabilizer (E412), salt, thickener (E440), lactase enzyme, preservative (E202), starter culture.), smetana (pasteurised CREAM, starter culture), onion (onion (Poland)), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), jalapeno slices (jalapeño (Mexico), water, vinegar, salt, firming agent (E509), garlic), chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), paprika powder (Paprika). Hiilijalanjälki: 1.17 kg CO2e / annos",
+    "nutrition": "Energy 889kJ, energy 214kcal, fat 17g, of which saturated fat 7.5g, carbohydrate 6.7g, of which sugars 1.4g, protein 8.4g, salt 1.4g, fibre 0.5g, lactose <0.01g.",
     "meta": {
      "0": [
       "G",
       "KELA",
-      "M",
-      "Ilmastovalinta"
+      "L"
      ],
      "1": [
-      "fish",
-      "molluscs",
-      "sulfur dioxide and sulfits"
+      "milk"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": {
@@ -156,47 +188,20 @@
     }
    },
    {
-    "name": "Gluten-free oats ",
-    "ingredients": "Water, OAT groat (gluten free OAT.), canola oil (rapeseed oil). Hiilijalanjälki: 0.04 kg CO2e / annos",
-    "nutrition": "Energy 681kJ, energy 163kcal, fat 8.0g, of which saturated fat 0.9g, carbohydrate 16g, of which sugars <0.5g, protein 4.1g, salt <0.01g, fibre 3.5g.",
+    "name": "Steamed rice",
+    "ingredients": "Water, rice (parboiled long-grain rice). Hiilijalanjälki: 0.27 kg CO2e / annos",
+    "nutrition": "Energy 497kJ, energy 117kcal, fat 0.6g, of which saturated fat 0.2g, carbohydrate 25g, of which sugars <0.5g, protein 2.5g, salt <0.01g, fibre 0.5g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "KELA",
       "Veg"
      ],
-     "1": [
-      "oat"
-     ],
+     "1": [],
      "2": []
     },
     "price": {
      "value": [],
      "name": "Lisäke"
-    }
-   },
-   {
-    "name": "Blueberry quark",
-    "ingredients": "QUARK (pasteurised skim MILK, starter culture.), whipping CREAM (CREAM, stabiliser (carrageenan)), bilberry (Bilberry), sugar (sugar (Netherlands)). Hiilijalanjälki: 0.30 kg CO2e / annos",
-    "nutrition": "Energy 649kJ, energy 155kcal, fat 8.1g, of which saturated fat 4.6g, carbohydrate 13g, of which sugars 12g, protein 7.1g, salt 0.08g, fibre 0.5g, lactose 0g.",
-    "meta": {
-     "0": [
-      "G",
-      "L",
-      "Ilmastovalinta"
-     ],
-     "1": [
-      "milk"
-     ],
-     "2": [
-      "Ilmastovalinta"
-     ]
-    },
-    "price": {
-     "value": {
-      "normal": "1.50"
-     },
-     "name": "Jälkiruoka"
     }
    }
   ]
