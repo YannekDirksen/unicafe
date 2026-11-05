@@ -7,7 +7,7 @@ Kaisa-talo  11:00-15:00
 
 Kaivopiha  11:00-19:45
 • Sweet 'n' spicy vegan kebab bowl
-• Vegetable jalapeno nuggets and roasted sesame sauce
+• Veggie balls with seeds, roasted sesame sauce
 • BeanIt currysauce
 • White rice
 • Chocolate mousse
@@ -21,11 +21,11 @@ Metsätalo  10:30-14:30
 Olivia  11:00-14:30
 • Juicy vegan strips in “butter” sauce
 • Beetroot falafel patties with horseradish and herb sauce
-• Chocolate mousse
 
 Olivia staff restaurant
 • Beetroot falafel patties with horseradish and herb sauce
 • Juicy vegan strips in “butter” sauce
+• Creamy potatoes
 
 Portaali  10:45-13:30
 • Wasabi pea and broccoli soup
@@ -40,4 +40,4 @@ Topelias  11:00-14:30
 • Korean Seitan bowl
 • Pureed white bean soup
 
-updated 08:00
+updated 10:00
