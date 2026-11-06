@@ -29,7 +29,7 @@
    },
    {
     "name": "Fried vendaces & remoulade sauce",
-    "ingredients": "VENDACE (VENDACE (Coregonus Albula, caught seine, trawl and trap fresh water lake Saimaa in Finland) 83 %, RYE flour, white peppar, salt, rapeseed oil, lactos free BUTTER), remoulade mayonnaise (water, rapeseed oil, pickled vegetables (18%) (cucumber, carrot, cauliflower, onion, sugar, acidity regulator E260, water, salt, preservative E202, flavourings), MUSTARD (water, MUSTARD SEEDS, sugar, acidity regulator E260, salt, preservative E202), sugar, EGG yolk, spirit vinegar, modified potato starch, iodized salt, thickener (E415), spices (garlic, cumin), preservatives (E202), acidity regulator (E575), flavour). Hiilijalanjälki: 0.37 kg CO2e / annos",
+    "ingredients": "VENDACE (VENDACE (Coregonus Albula, caught seine, trawl and trap fresh water lake Saimaa in Finland) 83 %, RYE flour, white peppar, salt, rapeseed oil, lactos free BUTTER), remoulade mayonnaise (water, rapeseed oil, pickled vegetables (18%) (cucumber, carrot, cauliflower, onion, sugar, acidity regulator E260, water, salt, preservative E202, flavourings), MUSTARD (water, MUSTARD SEEDS, sugar, acidity regulator E260, salt, preservative E202), sugar, EGG yolk, spirit vinegar, modified potato starch, iodized salt, thickener (E415), spices (garlic, cumin), preservatives (E202), acidity regulator (E575), flavour), lemon juice (Lemon Juice 99,9%, essential oil (extracted from lemon rind) Antioxidant: Potassium metabisulphite (E224)), chives (chives (EU)), dill (dill). Hiilijalanjälki: 0.37 kg CO2e / annos",
     "nutrition": "Energy 1247kJ, energy 298kcal, fat 25g, of which saturated fat 2.8g, carbohydrate 6.1g, of which sugars 3.1g, protein 14g, salt 1.7g, fibre 0.8g, lactose 0g.",
     "meta": {
      "0": [
@@ -42,7 +42,8 @@
       "fish",
       "milk",
       "mustard",
-      "rye"
+      "rye",
+      "sulfur dioxide and sulfits"
      ],
      "2": [
       "Ilmastovalinta"
@@ -76,7 +77,7 @@
    },
    {
     "name": "Herb potato wedges",
-    "ingredients": "Potato wedges (potato), canola oil (rapeseed oil), flat-leaf parsley (flatparsley), oregano, salt (Sea salt, anti-caking agent (E535 EU)). Hiilijalanjälki: 0.19 kg CO2e / annos",
+    "ingredients": "Potato wedges (potato), canola oil (rapeseed oil), flat-leaf parsley (flatparsley), oregano, salt (Sea salt, anti-caking agent (E535 EU)), rosemary, onion powder (Onion ground). Hiilijalanjälki: 0.19 kg CO2e / annos",
     "nutrition": "Energy 332kJ, energy 80kcal, fat 2.0g, of which saturated fat 0.2g, carbohydrate 13g, of which sugars <0.5g, protein 1.6g, salt 0.19g, fibre 0.8g, lactose 0g.",
     "meta": {
      "0": [
@@ -101,8 +102,8 @@
   "items": [
    {
     "name": "Broiler in bacon sauce",
-    "ingredients": "Chicken fillet (chicken fillet (91 %), water, iodised seasalt. Origin of chicken Finland), MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), bacon crumbles (pork, water, iodised salt, dextrose, stabilizer E 450, antioxidant E 301, preservative sodium nitrite. Origin of pork Finland.), onion (onion (Poland)), rocket (Rocket), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper. Hiilijalanjälki: 0.82 kg CO2e / annos",
-    "nutrition": "Energy 585kJ, energy 140kcal, fat 8.8g, of which saturated fat 4.0g, carbohydrate 2.1g, of which sugars 1.5g, protein 13g, salt 0.70g, fibre 0.1g, lactose <0.01g.",
+    "ingredients": "Chicken fillet (chicken fillet (91 %), water, iodised seasalt. Origin of chicken Finland), MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), bacon crumbles (pork, water, iodised salt, dextrose, stabilizer E 450, antioxidant E 301, preservative sodium nitrite. Origin of pork Finland.), onion (onion (Poland)), parsley (parsley (100%, EU)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper. Hiilijalanjälki: 0.82 kg CO2e / annos",
+    "nutrition": "Energy 586kJ, energy 140kcal, fat 8.8g, of which saturated fat 4.0g, carbohydrate 2.1g, of which sugars 1.5g, protein 13g, salt 0.70g, fibre 0.1g, lactose <0.01g.",
     "meta": {
      "0": [
       "G",
