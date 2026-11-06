@@ -4,7 +4,7 @@
   "items": [
    {
     "name": "Vegetable and coconut sauce with lemongrass",
-    "ingredients": "Water, vegetable mix (pineapple 20% (Costa Rica/Vietnam), carrot, red bell pepper, green bell pepper, bamboo sprout, CELERIAC), vegetable protein (Plant-based protein strips (pea protein, water, gluten-free whole grain OAT flour, gluten-free OAT groats), marinade (water, rapeseed oil, natural flavourings, sugar, herbs extract). Contains 23 % pea protein and 12 % OAT. May contain traces of soy.), coconut milk (coconut extract (75%), water, emulsifier (E471), stabiliser (E466).), onion (onion (100%)), green curry paste (Lemongrass, green chilli 15 %, water, onion, garlic, galangal, salt, coriander, makrut lime, turmeric.), white cabbage (100 % white cabbage), lemongrass paste (Lemongrass 47 %, water, vinegar, sugar, salt, thickener, (xanthan gum), acidity regulator (citric acid).), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), canola oil (rapeseed oil), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), syrup (Sugar syrup), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), coriander (Coriander 100%). Hiilijalanjälki: 0.22 kg CO2e / annos",
+    "ingredients": "Water, vegetable mix (pineapple 20% (Costa Rica/Vietnam), carrot, red bell pepper, green bell pepper, bamboo sprout, CELERIAC), vegetable protein (Plant-based protein strips (pea protein, water, gluten-free whole grain OAT flour, gluten-free OAT groats), marinade (water, rapeseed oil, natural flavourings, sugar, herbs extract). Contains 23 % pea protein and 12 % OAT. May contain traces of soy.), coconut milk (coconut extract (75%), water, emulsifier (E471), stabiliser (E466).), onion (onion (100%)), green curry paste (Lemongrass, green chilli 15 %, water, onion, garlic, galangal, salt, coriander, makrut lime, turmeric.), white cabbage (100 % white cabbage), lemongrass paste (Lemongrass 47 %, water, vinegar, sugar, salt, thickener, (xanthan gum), acidity regulator (citric acid).), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), canola oil (rapeseed oil), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), syrup (Sugar syrup), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), coriander (Coriander 100%). Hiilijalanjälki: 0.41 kg CO2e / annos",
     "nutrition": "Energy 447kJ, energy 107kcal, fat 7.0g, of which saturated fat 2.9g, carbohydrate 5.7g, of which sugars 3.5g, protein 4.4g, salt 0.68g, fibre 1.5g, lactose 0g.",
     "meta": {
      "0": [
@@ -29,12 +29,11 @@
    },
    {
     "name": "Fried vendaces & remoulade sauce",
-    "ingredients": "VENDACE (VENDACE (Coregonus Albula, caught seine, trawl and trap fresh water lake Saimaa in Finland) 83 %, RYE flour, white peppar, salt, rapeseed oil, lactos free BUTTER), remoulade mayonnaise (water, rapeseed oil, pickled vegetables (18%) (cucumber, carrot, cauliflower, onion, sugar, acidity regulator E260, water, salt, preservative E202, flavourings), MUSTARD (water, MUSTARD SEEDS, sugar, acidity regulator E260, salt, preservative E202), sugar, EGG yolk, spirit vinegar, modified potato starch, iodized salt, thickener (E415), spices (garlic, cumin), preservatives (E202), acidity regulator (E575), flavour), lemon juice (Lemon Juice 99,9%, essential oil (extracted from lemon rind) Antioxidant: Potassium metabisulphite (E224)), chives (chives (EU)), dill (dill). Hiilijalanjälki: 0.37 kg CO2e / annos",
+    "ingredients": "VENDACE (VENDACE (Coregonus Albula, caught seine, trawl and trap fresh water lake Saimaa in Finland) 83 %, RYE flour, white peppar, salt, rapeseed oil, lactos free BUTTER), remoulade mayonnaise (water, rapeseed oil, pickled vegetables (18%) (cucumber, carrot, cauliflower, onion, sugar, acidity regulator E260, water, salt, preservative E202, flavourings), MUSTARD (water, MUSTARD SEEDS, sugar, acidity regulator E260, salt, preservative E202), sugar, EGG yolk, spirit vinegar, modified potato starch, iodized salt, thickener (E415), spices (garlic, cumin), preservatives (E202), acidity regulator (E575), flavour), lemon juice (Lemon Juice 99,9%, essential oil (extracted from lemon rind) Antioxidant: Potassium metabisulphite (E224)), chives (chives (EU)), dill (dill). Hiilijalanjälki: 0.56 kg CO2e / annos",
     "nutrition": "Energy 1247kJ, energy 298kcal, fat 25g, of which saturated fat 2.8g, carbohydrate 6.1g, of which sugars 3.1g, protein 14g, salt 1.7g, fibre 0.8g, lactose 0g.",
     "meta": {
      "0": [
-      "L",
-      "Ilmastovalinta"
+      "L"
      ],
      "1": [
       "cereals containing gluten",
@@ -45,9 +44,7 @@
       "rye",
       "sulfur dioxide and sulfits"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
@@ -56,7 +53,7 @@
    },
    {
     "name": "Oven baked sausage & dijon dipp",
-    "ingredients": "Sausage (water, chicken, mechanically separated poultry meat (Finland), turkey, potato starch, poultry fat, salt (salt, iodine), potato fibre, potassium chloride, stabilizer E 450, dextrose, antioxidant E 301, flavour (incl. nutmeg, paprika), preservative sodium nitrite, smoked vinegar. Origin of chicken and turkey Finland), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), MUSTARD (water, MUSTARD SEEDS (EU and non-EU), spirit vinegar, salt, antioxidant (E224 potassium diSUFLITE), acidity regulator (E330)), MUSTARD (water, MUSTARD SEEDS (non-eu), sugar, salt, acidity regulator (E260), seasoning (garlic, onion, white pepper), colours (E150d, E160a, E101), preservatives (E211).), rotisseur mustard (water, spirit vinegar, MUSTARD SEEDS (EU and non-EU), MUSTARD SEED HULLS, salt, acidity regulator (E330), flavourings, antioxidant (potassium DISUPLHITE), turmeric), lemon juice (lemon juice made from concentrate (non EU).), salt (Salt (NaCl) min. 99.8%, potassium iodide (KI), anti-caking agent (E535). Iodine added as potassium iodide.), syrup (Sugar syrup), flat-leaf parsley (flatparsley). Hiilijalanjälki: 0.82 kg CO2e / annos",
+    "ingredients": "Sausage (water, chicken, mechanically separated poultry meat (Finland), turkey, potato starch, poultry fat, salt (salt, iodine), potato fibre, potassium chloride, stabilizer E 450, dextrose, antioxidant E 301, flavour (incl. nutmeg, paprika), preservative sodium nitrite, smoked vinegar. Origin of chicken and turkey Finland), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), MUSTARD (water, MUSTARD SEEDS (EU and non-EU), spirit vinegar, salt, antioxidant (E224 potassium diSUFLITE), acidity regulator (E330)), MUSTARD (water, MUSTARD SEEDS (non-eu), sugar, salt, acidity regulator (E260), seasoning (garlic, onion, white pepper), colours (E150d, E160a, E101), preservatives (E211).), rotisseur mustard (water, spirit vinegar, MUSTARD SEEDS (EU and non-EU), MUSTARD SEED HULLS, salt, acidity regulator (E330), flavourings, antioxidant (potassium DISUPLHITE), turmeric), lemon juice (lemon juice made from concentrate (non EU).), salt (Salt (NaCl) min. 99.8%, potassium iodide (KI), anti-caking agent (E535). Iodine added as potassium iodide.), syrup (Sugar syrup), flat-leaf parsley (flatparsley). Hiilijalanjälki: 1.01 kg CO2e / annos",
     "nutrition": "Energy 1232kJ, energy 297kcal, fat 26g, of which saturated fat 4.8g, carbohydrate 6.4g, of which sugars 1.1g, protein 10g, salt 1.9g, fibre 0.6g, lactose 0g.",
     "meta": {
      "0": [
@@ -77,18 +74,15 @@
    },
    {
     "name": "Herb potato wedges",
-    "ingredients": "Potato wedges (potato), canola oil (rapeseed oil), flat-leaf parsley (flatparsley), oregano, salt (Sea salt, anti-caking agent (E535 EU)), rosemary, onion powder (Onion ground). Hiilijalanjälki: 0.19 kg CO2e / annos",
+    "ingredients": "Potato wedges (potato), canola oil (rapeseed oil), flat-leaf parsley (flatparsley), oregano, salt (Sea salt, anti-caking agent (E535 EU)), rosemary, onion powder (Onion ground)",
     "nutrition": "Energy 332kJ, energy 80kcal, fat 2.0g, of which saturated fat 0.2g, carbohydrate 13g, of which sugars <0.5g, protein 1.6g, salt 0.19g, fibre 0.8g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
