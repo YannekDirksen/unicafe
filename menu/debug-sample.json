@@ -25,6 +25,27 @@
     }
    },
    {
+    "name": "Vegetable patties with orange remoulade",
+    "ingredients": "Vegetable finger (Pea, corn, carrot, potato, gluten free breadcrumbs (rice flour, chickpea flour, corn starch, salt, dextrose), rapeseed oil, potato protein, rice starch, citrus fiber, spices (onion, garlic, pepper, coriander, turmeric, ginger, cumin, cayenne pepper, black pepper), thickeners (E461, E407a), salt, sugar.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), tartar-relish (Carrot 26 %, cucumber 22 %, sugar, vinegar, cauliflower 11 %, silver skin onion 8 %, water, salt, preservative ( E202), natural aroma.), orange juice concentrate. Hiilijalanjälki: 0.25 kg CO2e / annos",
+    "nutrition": "Energy 972kJ, energy 236kcal, fat 17g, of which saturated fat 1.2g, carbohydrate 16g, of which sugars 4.3g, protein 4.0g, salt 0.92g, fibre 3.3g, lactose 0g.",
+    "meta": {
+     "0": [
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "mustard"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Vegaanilounas"
+    }
+   },
+   {
     "name": "Potato hash Peas of Heaven",
     "ingredients": "Pan potato (Potato (Finland), vegetable oil (rapeseed, rape)), vegetarian sausage (Water, rapeseed oil, pea protein (10,6%), starch pea- and potato starch), thickener (methylcellulose, processed euchema seaweed, konjac gum), black pepper, chili, garlic, paprika, white pepper, cayenne pepper, oregano, cumin, allspice, citrus fiber, salt, acidity regulator (tartaric acid), dextrose, aroma, stabilizer (E450), sugar.), onion (onion (Poland)), broad bean (Fermented broad bean, water, sea salt, E-150c), canola oil (rapeseed oil), paprika powder (Paprika), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.46 kg CO2e / annos",
     "nutrition": "Energy 704kJ, energy 169kcal, fat 8.5g, of which saturated fat 0.7g, carbohydrate 20g, of which sugars 1.2g, protein 2.8g, salt 0.42g, fibre 3.4g, lactose <0.01g.",
@@ -45,9 +66,9 @@
     }
    },
    {
-    "name": "Chili con Härkis",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, kidney bean (rehydrated dried kidney beans (non-EU), water, salt, antioxidant (E300)), härkis broad bean product (water, faba bean 24 % (flour, groats), pea protein, rapeseed oil, thickener (E461), pea fibre, iodised salt, colour (E150a), molasses, natural onion flavouring, modified starch, black pepper. May contain traces of gluten-free oats.), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), sugar (sugar (Netherlands)), chopped chili (100% chopped red chilli), cocoa powder (cocoa powder, acidity regulator (potassium hydroxide, potassium carbonates).), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), smoked paprika powder, crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), black pepper. Hiilijalanjälki: 0.42 kg CO2e / annos",
-    "nutrition": "Energy 403kJ, energy 97kcal, fat 4.2g, of which saturated fat 0.3g, carbohydrate 9.0g, of which sugars 3.6g, protein 4.5g, salt 0.83g, fibre 2.6g, lactose 0g.",
+    "name": "Unlimited bolognese",
+    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), vegan mince (Water, pea protein, rapeseed powder, salt, flavorings and spices (black and white pepper), beetroot juice concentrate, caramelized sugar, carrageenan. Partially defatted rapeseed powder may cause an allergic reaction in consumers who are allergic to mustard and mustard products.), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), soft brown sugar (Sugar and cane sugar syrup), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), basil (Basil.), thyme. Hiilijalanjälki: 0.44 kg CO2e / annos",
+    "nutrition": "Energy 298kJ, energy 71kcal, fat 3.3g, of which saturated fat 0.2g, carbohydrate 5.9g, of which sugars 3.8g, protein 3.9g, salt 0.55g, fibre 1.5g, lactose 0g.",
     "meta": {
      "0": [
       "G",
@@ -55,7 +76,10 @@
       "Veg",
       "Ilmastovalinta"
      ],
-     "1": [],
+     "1": [
+      "celery",
+      "sulfur dioxide and sulfits"
+     ],
      "2": [
       "Ilmastovalinta"
      ]
@@ -63,20 +87,6 @@
     "price": {
      "value": [],
      "name": "Vegaanilounas"
-    }
-   },
-   {
-    "name": "Baguette bar",
-    "ingredients": "",
-    "nutrition": "",
-    "meta": {
-     "0": [],
-     "1": [],
-     "2": []
-    },
-    "price": {
-     "value": [],
-     "name": "Lounas"
     }
    }
   ]
