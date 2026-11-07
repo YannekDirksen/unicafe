@@ -46,47 +46,38 @@
     }
    },
    {
-    "name": "Potato hash Peas of Heaven",
-    "ingredients": "Pan potato (Potato (Finland), vegetable oil (rapeseed, rape)), vegetarian sausage (Water, rapeseed oil, pea protein (10,6%), starch pea- and potato starch), thickener (methylcellulose, processed euchema seaweed, konjac gum), black pepper, chili, garlic, paprika, white pepper, cayenne pepper, oregano, cumin, allspice, citrus fiber, salt, acidity regulator (tartaric acid), dextrose, aroma, stabilizer (E450), sugar.), onion (onion (Poland)), broad bean (Fermented broad bean, water, sea salt, E-150c), canola oil (rapeseed oil), paprika powder (Paprika), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.46 kg CO2e / annos",
-    "nutrition": "Energy 704kJ, energy 169kcal, fat 8.5g, of which saturated fat 0.7g, carbohydrate 20g, of which sugars 1.2g, protein 2.8g, salt 0.42g, fibre 3.4g, lactose <0.01g.",
+    "name": "Baguette bar",
+    "ingredients": "",
+    "nutrition": "",
     "meta": {
-     "0": [
-      "G",
-      "Veg",
-      "Ilmastovalinta"
-     ],
+     "0": [],
      "1": [],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
-     "name": "Vegaanilounas"
+     "name": "Lounas"
     }
    },
    {
-    "name": "Unlimited bolognese",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), vegan mince (Water, pea protein, rapeseed powder, salt, flavorings and spices (black and white pepper), beetroot juice concentrate, caramelized sugar, carrageenan. Partially defatted rapeseed powder may cause an allergic reaction in consumers who are allergic to mustard and mustard products.), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), soft brown sugar (Sugar and cane sugar syrup), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), basil (Basil.), thyme. Hiilijalanjälki: 0.44 kg CO2e / annos",
-    "nutrition": "Energy 298kJ, energy 71kcal, fat 3.3g, of which saturated fat 0.2g, carbohydrate 5.9g, of which sugars 3.8g, protein 3.9g, salt 0.55g, fibre 1.5g, lactose 0g.",
+    "name": "Lemon fish with orange remoulade",
+    "ingredients": "Breaded FISH (Caught CODFISH (Gadus morhua) FAO 27, l and ll Northeast Atlantic,WHEAT flour, vegetable oil (sunflower and rapeseed, in varying proportions), salt, WHEAT fiber, coriander, natural lemon and lime flavours (corn).), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), tartar-relish (Carrot 26 %, cucumber 22 %, sugar, vinegar, cauliflower 11 %, silver skin onion 8 %, water, salt, preservative ( E202), natural aroma.), orange juice concentrate. Hiilijalanjälki: 0.82 kg CO2e / annos",
+    "nutrition": "Energy 1096kJ, energy 263kcal, fat 18g, of which saturated fat 1.6g, carbohydrate 17g, of which sugars 2.4g, protein 9.2g, salt 0.86g, fibre 1.0g, lactose 0g.",
     "meta": {
      "0": [
-      "G",
-      "KELA",
-      "Veg",
-      "Ilmastovalinta"
+      "M"
      ],
      "1": [
-      "celery",
-      "sulfur dioxide and sulfits"
+      "cereals containing gluten",
+      "fish",
+      "mustard",
+      "wheat"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
-     "name": "Vegaanilounas"
+     "name": "Lounas"
     }
    }
   ]
