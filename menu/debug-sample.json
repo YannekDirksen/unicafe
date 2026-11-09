@@ -71,8 +71,8 @@
    },
    {
     "name": "Roasted vegetables & spinach",
-    "ingredients": "Vegetable mix (Carrot (40 %), zucchini (20 %), onion (20 %), paprika (20 %).), black salsify (Black salsify 100%.), aubergine (aubergine (100 %)), canola oil (rapeseed oil), baby spinach (Baby spinach), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.03 kg CO2e / annos",
-    "nutrition": "Energy 343kJ, energy 84kcal, fat 5.3g, of which saturated fat 0.4g, carbohydrate 6.1g, of which sugars 4.9g, protein 0.9g, salt 0.29g, fibre 1.5g, lactose 0g.",
+    "ingredients": "Vegetable mix (Carrot (40 %), zucchini (20 %), onion (20 %), paprika (20 %).), cauliflower (Cauliflower (origin: FI/ES/NL/FR). May contain traces of other vegetables), canola oil (rapeseed oil), baby spinach (Baby spinach), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), casserole cabbage (cabbage). Hiilijalanjälki: 0.02 kg CO2e / annos",
+    "nutrition": "Energy 277kJ, energy 67kcal, fat 4.9g, of which saturated fat 0.4g, carbohydrate 3.2g, of which sugars 3.1g, protein 1.3g, salt 0.27g, fibre 1.9g, lactose 0g.",
     "meta": {
      "0": [
       "G",
@@ -94,34 +94,6 @@
  {
   "title": "Metsätalo",
   "items": [
-   {
-    "name": "Vegetable nuggets and sweet and sour mayonnaise",
-    "ingredients": "Vegetable nugget (Rehydrated WHEAT protein 38%, rapeseed oil, WHEAT flour, water, maize flour, bamboo fiber, stabilizer (methylcellulose), tapioca starch, salt, natural flavourings (WHEAT), garlic powder, white pepper, yeast, raising agents (ammonium carbonates) onion powder, red pepper powder, turmeric . May contain MILK, LEGUMES.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), sweet and hot bell pepper sauce (Bell pepper (50 %, eu and non-eu), sugar, water, spirit vinegar, modified corn starch, pickled jalapeno (3 %) (jalapeno pepper, water, vinegar, salt, stabilizer E509, garlic), salt, acidity regulator (E260, E270), preservative (E202).). Hiilijalanjälki: 0.63 kg CO2e / annos",
-    "nutrition": "Energy 1346kJ, energy 324kcal, fat 25g, of which saturated fat 1.8g, carbohydrate 17g, of which sugars 3.4g, protein 6.0g, salt 0.89g, fibre 3.3g, lactose 0g.",
-    "meta": {
-     "0": [
-      "Veg"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "mustard",
-      "oat",
-      "wheat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Vegaanilounas"
-    }
-   },
    {
     "name": "Limonello Quorn",
     "ingredients": "Water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), quorn (Mycoprotein (93%), Rapeseed Protein, Natural Flavouring, Potato Protein, Mushroom Extract (Maltodextrin, Mushroom Extract).), onion (onion (Poland)), lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), syrup (Sugar syrup), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), lemon peels (lemon peel 100%), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), turmeric (Turmeric), canola oil (rapeseed oil), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), leek, cornstarch, chili, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper. Hiilijalanjälki: 0.36 kg CO2e / annos",
@@ -201,6 +173,30 @@
     "price": {
      "value": [],
      "name": "Lisäke"
+    }
+   },
+   {
+    "name": "Strawberry curd",
+    "ingredients": "Whipping CREAM (CREAM, stabiliser (carrageenan)), QUARK (pasteurised skim MILK, starter culture.), strawberry (finnish strawberry), sugar (sugar (Netherlands)). Hiilijalanjälki: 0.29 kg CO2e / annos",
+    "nutrition": "Energy 787kJ, energy 189kcal, fat 13g, of which saturated fat 7.8g, carbohydrate 12g, of which sugars 12g, protein 4.7g, salt 0.06g, fibre 0.5g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "L",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "milk"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": {
+      "normal": "1.50"
+     },
+     "name": "Jälkiruoka"
     }
    }
   ]
