@@ -4,8 +4,8 @@
   "items": [
    {
     "name": "Harvest vegan moussaka",
-    "ingredients": "Potato slices (potato), aubergine, water, sweet pepper (yellow bell pepper (34%), red bell pepper (33%), green pepper (33%)), onion (onion (100%)), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), red lentils (Red lentils), diced carrot (carrot), vegan alternative for cheese (water, palm oil* (24%, non-eu), modified potato starch, potato starch, modified tapioca starch, salt, flavourings, coloring (E160a), acidity regulators (E330, E270). Vegan. *responsibly produced and certified palm oil), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), pea protein mince (peas), tomato puree (tomato (100 %, Portugal)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), canola oil (rapeseed oil), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), parsley, basil (Basil.), thyme, oregano (Oregano.), black pepper, MUSTARD SEED (Whole yellow MUSTARD SEED (EU and non-EU)), SOYA strips (SOYbean). Hiilijalanjälki: 0.44 kg CO2e / annos",
-    "nutrition": "Energy 395kJ, energy 94kcal, fat 2.8g, of which saturated fat 0.7g, carbohydrate 12g, of which sugars 3.0g, protein 4.1g, salt 0.55g, fibre 2.1g, lactose 0g.",
+    "ingredients": "Potato slices (potato), aubergine, water, sweet pepper (yellow bell pepper (34%), red bell pepper (33%), green pepper (33%)), onion (onion (100%)), seasoned vegan-protein strips (Water, rapeseed oil, SOY strips, tomato puree, sugar, vinegar, brown sugar, lime puree, mustard (MUSTARD SEED, spices), molasses, garlic, modified corn starch, CELERY SEED, SESAME oil, salt, color E150d, smoke flavour, black pepper.), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), red lentils (Red lentils), diced carrot (carrot), vegan alternative for cheese (water, palm oil* (24%, non-eu), modified potato starch, potato starch, modified tapioca starch, salt, flavourings, coloring (E160a), acidity regulators (E330, E270). Vegan. *responsibly produced and certified palm oil), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), pea protein mince (peas), tomato puree (tomato (100 %, Portugal)), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), canola oil (rapeseed oil), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), parsley, basil (Basil.), thyme, oregano (Oregano.), black pepper, SOYA strips (SOYbean). Hiilijalanjälki: 0.45 kg CO2e / annos",
+    "nutrition": "Energy 402kJ, energy 96kcal, fat 2.9g, of which saturated fat 0.7g, carbohydrate 11g, of which sugars 3.0g, protein 4.7g, salt 0.57g, fibre 2.0g, lactose 0g.",
     "meta": {
      "0": [
       "G",
@@ -14,8 +14,10 @@
       "Ilmastovalinta"
      ],
      "1": [
+      "celery",
       "mustard",
       "oat",
+      "sesame seeds",
       "soybens"
      ],
      "2": [
