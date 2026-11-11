@@ -27,23 +27,20 @@
    },
    {
     "name": "Creamy horseradish baltic herring",
-    "ingredients": "Baltic HERRING rolls, MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified maize and tapioca starch, emulsifier(E472e), flavouring, colour(beta-carotene)), horseradish paste (Grated horseradish 56 %, rapeseed oil, water, horseradish flavor, iodized salt, potato fiber, thickener (xanthan gum), antioxidant (SODIUM DISULPHITE, ascorbic acid).  May contain traces of MUSTARD.), FISH stock powder (Dried glucose syrup, salt, flavors (with FISH), FISHPOWDER 8%, palm fat, sugar, onion powder, acids (citric acid, lactic acid), spices (white pepper, turmeric).), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.46 kg CO2e / annos",
-    "nutrition": "Energy 648kJ, energy 156kcal, fat 11g, of which saturated fat 1.8g, carbohydrate 2.2g, of which sugars 0.8g, protein 11g, salt 0.68g, fibre <0.1g, lactose <0.01g.",
+    "ingredients": "Baltic HERRING rolls, MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), horseradish paste (Grated horseradish 56 %, rapeseed oil, water, horseradish flavor, iodized salt, potato fiber, thickener (xanthan gum), antioxidant (SODIUM DISULPHITE, ascorbic acid).  May contain traces of MUSTARD.), FISH stock powder (Dried glucose syrup, salt, flavors (with FISH), FISHPOWDER 8%, palm fat, sugar, onion powder, acids (citric acid, lactic acid), spices (white pepper, turmeric).), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), lemon juice (lemon juice made from concentrate (non EU).), dill (dill). Hiilijalanjälki: 0.66 kg CO2e / annos",
+    "nutrition": "Energy 664kJ, energy 159kcal, fat 12g, of which saturated fat 4.9g, carbohydrate 2.9g, of which sugars 1.9g, protein 10g, salt 0.71g, fibre <0.1g, lactose <0.01g.",
     "meta": {
      "0": [
       "G",
       "KELA",
-      "L",
-      "Ilmastovalinta"
+      "L"
      ],
      "1": [
       "fish",
       "milk",
       "sulfur dioxide and sulfits"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
@@ -52,7 +49,7 @@
    },
    {
     "name": "Pork in onion sauce",
-    "ingredients": "Pork neck (pork neck (89 %), water, iodised seasalt. Origin of pork Finland.), MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), onion (onion (100%)), BUTTER (pasteurised CREAM, salt), parsley, apple cider vinegar (apple cider vinegar), bay leaf (Bay leaf), paprika powder (Paprika ground), five pepper (Black pepper, coriander, rose pepper, white pepper, allspice, green pepper.), black pepper (Black pepper cracked), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), browning sauce (Colour (caramel E150c), water, salt, preservative (potassium sorbate).), rapeseed oil (rapeseed oil (seed: eu)), onion (onion (100 %)), syrup (Sugar syrup). Hiilijalanjälki: 0.66 kg CO2e / annos",
+    "ingredients": "Pork neck (pork neck (89 %), water, iodised seasalt. Origin of pork Finland.), MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), onion (onion (100%)), BUTTER (pasteurised CREAM, salt), parsley, apple cider vinegar (apple cider vinegar), bay leaf (Bay leaf), paprika powder (Paprika ground), five pepper (Black pepper, coriander, rose pepper, white pepper, allspice, green pepper.), black pepper (Black pepper cracked), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), browning sauce (Colour (caramel E150c), water, salt, preservative (potassium sorbate).), rapeseed oil (rapeseed oil (seed: eu)), onion (onion (100 %)), syrup (Sugar syrup). Hiilijalanjälki: 0.85 kg CO2e / annos",
     "nutrition": "Energy 727kJ, energy 174kcal, fat 14g, of which saturated fat 7.0g, carbohydrate 2.3g, of which sugars 1.8g, protein 10g, salt 0.58g, fibre 0.1g, lactose <0.01g.",
     "meta": {
      "0": [
@@ -71,18 +68,15 @@
    },
    {
     "name": "Baked vegtables",
-    "ingredients": "Root vegatable mix (Carrot 45 % (EU), swede 40 % (EU), parsnip 15 % (EU), salt, rapeseed oil, thyme and basil.), black salsify (Black salsify 100%.), broccoli (Broccoli (EU) (100%)), carrot (carbo-peeled carrot (100%)), flat-leaf parsley, salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), kale (Kale), black pepper (Black pepper cracked). Hiilijalanjälki: 0.33 kg CO2e / annos",
-    "nutrition": "Energy 180kJ, energy 43kcal, fat 0.5g, of which saturated fat 0.1g, carbohydrate 5.9g, of which sugars 4.5g, protein 1.5g, salt 0.18g, fibre 2.1g, lactose 0g.",
+    "ingredients": "Oven vegetable (carrot (40%), Finnish swede (30%), Finnish parsnip, red onion.), black salsify (Black salsify 100%.), carrot (carbo-peeled carrot (100%)), flat-leaf parsley, salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), kale (Kale), rapeseed oil (rapeseed oil (seed: eu)), black pepper (Black pepper cracked)",
+    "nutrition": "Energy 178kJ, energy 44kcal, fat <0.5g, of which saturated fat <0.1g, carbohydrate 7.1g, of which sugars 5.3g, protein 0.7g, salt 0.05g, fibre 2.1g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
@@ -127,18 +121,16 @@
     }
    },
    {
-    "name": "7563 Vegaaninen pyttipannu & paahdettua valkosipud",
-    "ingredients": "Root cubes mix (Carrot, swede, yellow carrot (20x20x20 mm)), pan potato (Potato (Finland), vegetable oil (rapeseed, rape)), fava bean chunks (Fermented fava bean: fava bean (Finland), water, salt.), undefined [sweet potato patty (Sweet potato (41 %), carrot, onion, rapeseed oil, SOY protein, potato flakes (potato, emulsifier E471, stabilizer E450i, acidity regulators (E331, E330), antioxidant E300)], sugar, thickeners (E461, E407a), iodized salt, black pepper.), SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), garlic (garlic), SESAME SEED (White SESAME seed), canola oil (rapeseed oil), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), sugar (sugar (Netherlands))], onion (onion (Poland)), canola oil (rapeseed oil), tomato puree (tomato (100 %, Portugal)), SOY sauce (Water, SOYBEAN PROTEIN HYDROLYZATE, salt.), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), smoked paprika powder, chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), black pepper. Hiilijalanjälki: 0.51 kg CO2e / annos",
-    "nutrition": "Energy 445kJ, energy 106kcal, fat 4.4g, of which saturated fat 0.4g, carbohydrate 12g, of which sugars 2.8g, protein 4.1g, salt 0.49g, fibre 3.2g, lactose 0g.",
+    "name": "Vegan hash with garlig mayonnaise",
+    "ingredients": "Root cubes mix (Carrot, swede, yellow carrot (20x20x20 mm)), pan potato (Potato (Finland), vegetable oil (rapeseed, rape)), härkis broad bean product (Fava bean 47 % (Finland), water, pea protein, rapeseed oil, thickening agent (E461), fiber (pea), iodized salt, colour (E150a), molasses, onion extract, modified starch. black pepper. May contain small amounts of gluten free oats.), undefined [mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), garlic (garlic), canola oil (rapeseed oil), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), sugar (sugar (Netherlands))], fava bean chunks (Fermented fava bean: fava bean (Finland), water, salt.), onion (onion (Poland)), canola oil (rapeseed oil), vegetable patty (Water, pea protein 15% (EU), rapeseed oil, colourings (beetroot powder, caramel colour), thickener (methylcellulose), potato starch, spices (e.g. smoked paprika, onion, black pepper, chili), dried glucose syrup, salt, preservative (potassium sorbate), flavours.), tomato puree (tomato (100 %, Portugal)), SOY sauce (Water, SOYBEAN PROTEIN HYDROLYZATE, salt.), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), smoked paprika powder, chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), black pepper. Hiilijalanjälki: 0.61 kg CO2e / annos",
+    "nutrition": "Energy 716kJ, energy 172kcal, fat 10g, of which saturated fat 0.7g, carbohydrate 14g, of which sugars 2.7g, protein 5.1g, salt 0.79g, fibre 3.4g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "KELA",
       "Veg"
      ],
      "1": [
       "mustard",
-      "sesame seeds",
       "soybens"
      ],
      "2": []
