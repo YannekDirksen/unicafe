@@ -4,22 +4,19 @@
   "items": [
    {
     "name": "Vegetable balls & warm roasted sesame sauce",
-    "ingredients": "Vegetable ball (Rehydrated pea protein (EU, Norway) 47 %, water, onion, rapeseed oil, fiber (pea), thickeners (E461, E407a), flavour, spices (garlic, coriander, black pepper), iodised salt, caramelized sugar, sunflower oil, potassium chloride), undefined [OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), SESAME SEED (White SESAME seed), canola oil (rapeseed oil), onion (onion (Poland)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), white balsamic vinegar (rapeseed oil (EU), white balsamic vinegar (19%)(Finland)(white wine vinegar, grape juice concentrate, natural flavouring, antioxidant E220 SULPHUR DIOXIDE), water, sugar, olive oil, salt, colour (E160a), preservatives (E211, E202), thickener (E415))]. Hiilijalanjälki: 0.36 kg CO2e / annos",
+    "ingredients": "Vegetable ball (Rehydrated pea protein (EU, Norway) 47 %, water, onion, rapeseed oil, fiber (pea), thickeners (E461, E407a), flavour, spices (garlic, coriander, black pepper), iodised salt, caramelized sugar, sunflower oil, potassium chloride), undefined [OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), SESAME SEED (White SESAME seed), canola oil (rapeseed oil), onion (onion (Poland)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), white balsamic vinegar (rapeseed oil (EU), white balsamic vinegar (19%)(Finland)(white wine vinegar, grape juice concentrate, natural flavouring, antioxidant E220 SULPHUR DIOXIDE), water, sugar, olive oil, salt, colour (E160a), preservatives (E211, E202), thickener (E415))]. Hiilijalanjälki: 0.55 kg CO2e / annos",
     "nutrition": "Energy 933kJ, energy 224kcal, fat 17g, of which saturated fat 1.4g, carbohydrate 6.5g, of which sugars 2.1g, protein 8.8g, salt 0.79g, fibre 2.5g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [
       "oat",
       "sesame seeds",
       "sulfur dioxide and sulfits"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
@@ -27,9 +24,9 @@
     }
    },
    {
-    "name": "Perch fish balls & dill-lemon sour cream sauce",
-    "ingredients": "Lake FISH ball (PERCH (Perca fluviatilis) caught from Finnish sea area 29 % FAO 27.3.d Baltic Sea, caught MSC certified SHAITHE (Pollachius virens FAO 27 Northeast Atlantic), parsnip, rapeseed oil, potato flakes, lactose free CREAM, lactose free BUTTER, onion, citrus fiber, thickeners (E461, E407a), dill, iodised salt, black pepper.), SOURCREAM (pasteurized CREAM(Finland), starter culture.), lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), sugar (sugar (Netherlands)), dill (dill (origin: India or EU)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper. Hiilijalanjälki: 0.48 kg CO2e / annos",
-    "nutrition": "Energy 736kJ, energy 176kcal, fat 13g, of which saturated fat 3.7g, carbohydrate 6.1g, of which sugars 2.4g, protein 9.2g, salt 0.83g, fibre 2.7g, lactose <0.01g.",
+    "name": "fish balls & dill-lemon sour cream sauce",
+    "ingredients": "SOURCREAM (pasteurized CREAM(Finland), starter culture.), lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), mayonnaise (water, canola oil (EU), modified potato starch, EGG, sugar, MUSTARD (water, MUSTARD SEED, sugar, vinegar, salt, spices), salt, vinegar, stabiliser (E412), preservative (E202), acidity regulators (E270, E330), colouring (E160a)), sugar (sugar (Netherlands)), dill (dill (origin: India or EU)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper, RAINBOW TROUT ball (Cultivated Norwegian RAINBOW TROUT (Oncorhynchus mykiss) 22 %, farmed Norwegian SALMON (Salmo salar) 19 %, caught MSC certified SAITHE (Polachius virens) FAO 27 Northeast Atlantic, potato, rapeseed oil, onion, water, lactose free cream fraiche (pasteurized CREAM, acidity regulator), potato flakes, SOY protein, thickeners (E461, E407a), tomato paste, iodised salt, lemon juice, black pepper, white pepper.). Hiilijalanjälki: 0.36 kg CO2e / annos",
+    "nutrition": "Energy 520kJ, energy 125kcal, fat 10g, of which saturated fat 5.4g, carbohydrate 5.1g, of which sugars 5.0g, protein 2.8g, salt 0.54g, fibre <0.1g, lactose <0.01g.",
     "meta": {
      "0": [
       "G",
@@ -38,8 +35,11 @@
       "Ilmastovalinta"
      ],
      "1": [
+      "eggs",
       "fish",
       "milk",
+      "mustard",
+      "soybens",
       "sulfur dioxide and sulfits"
      ],
      "2": [
@@ -53,7 +53,7 @@
    },
    {
     "name": "Chicken with Satay sauce",
-    "ingredients": "Chicken fillet (chicken fillet (91 %), water, iodised seasalt. Origin of chicken Finland), water, coconut milk (coconut extract (75%), water, emulsifier (E471), stabiliser (E466).), PEANUT butter (roasted PEANUT 100%. Contains naturally occuring sugars. May contain CASHEWNUTS, ALMONDS and HAZELNUTS.), lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), red currypaste (Water, canola oil, bell pepper, salt, spices (paprika, chili, ginger, coriander, lemongrass, kaffir lime leaf), onion, garlic, spirit vinegar, modified cornstarch, cane sugar, sugar, dextrin, cornstarch, preservatives (E211, E202).), cornstarch, salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), rapeseed oil (rapeseed oil (seed: eu)), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), syrup (Sugar syrup), chicken bouillon powder (Dried glucose syrup, salt, flavourings, chicken fat 3.8%, chicken skin and meat powder 1.8%, acid (citric acid, lactic acid), spices (white pepper, turmeric), lovage.), flat-leaf parsley (flatparsley), salted PEANUT (PEANUTS (98%), salt, rapeseed oil. May contain traces of nuts and sesame seeds.), red chili. Hiilijalanjälki: 0.51 kg CO2e / annos",
+    "ingredients": "Chicken fillet (chicken fillet (91 %), water, iodised seasalt. Origin of chicken Finland), water, coconut milk (coconut extract (75%), water, emulsifier (E471), stabiliser (E466).), PEANUT butter (roasted PEANUT 100%. Contains naturally occuring sugars. May contain CASHEWNUTS, ALMONDS and HAZELNUTS.), lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), red currypaste (Water, canola oil, bell pepper, salt, spices (paprika, chili, ginger, coriander, lemongrass, kaffir lime leaf), onion, garlic, spirit vinegar, modified cornstarch, cane sugar, sugar, dextrin, cornstarch, preservatives (E211, E202).), cornstarch, salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), rapeseed oil (rapeseed oil (seed: eu)), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), syrup (Sugar syrup), chicken bouillon powder (Dried glucose syrup, salt, flavourings, chicken fat 3.8%, chicken skin and meat powder 1.8%, acid (citric acid, lactic acid), spices (white pepper, turmeric), lovage.), flat-leaf parsley (flatparsley), salted PEANUT (PEANUTS (98%), salt, rapeseed oil. May contain traces of nuts and sesame seeds.), red chili. Hiilijalanjälki: 0.70 kg CO2e / annos",
     "nutrition": "Energy 490kJ, energy 117kcal, fat 5.9g, of which saturated fat 2.6g, carbohydrate 1.6g, of which sugars 0.7g, protein 14g, salt 0.65g, fibre 0.4g, lactose 0g.",
     "meta": {
      "0": [
@@ -73,18 +73,15 @@
    },
    {
     "name": "Steamed basmati rice",
-    "ingredients": "Water, basmati rice (basmati rice), black rice (Black rice* *=organic. Manufactured in a facility that processed NUTS, ALMONDS, SESAME SEEDS and MILK PROTEIN and GLUTEN-FREE OATS.), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), flat-leaf parsley (flatparsley). Hiilijalanjälki: 0.14 kg CO2e / annos",
+    "ingredients": "Water, basmati rice (basmati rice), black rice (Black rice* *=organic. Manufactured in a facility that processed NUTS, ALMONDS, SESAME SEEDS and MILK PROTEIN and GLUTEN-FREE OATS.), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), rapeseed oil (rapeseed oil (seed: eu)), flat-leaf parsley (flatparsley)",
     "nutrition": "Energy 503kJ, energy 119kcal, fat <0.5g, of which saturated fat <0.1g, carbohydrate 26g, of which sugars <0.5g, protein 2.8g, salt 0.04g, fibre 0.6g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
