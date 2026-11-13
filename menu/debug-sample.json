@@ -93,9 +93,9 @@
   "title": "Metsätalo",
   "items": [
    {
-    "name": "Quinoa balls & sweet-hot paprika mayonnaise",
-    "ingredients": "Carrot-quinoa balls (Carrot * 52 %, gluten free coating (rice flour, chickpea flour, corn starch, dextrose), rapeseed oil, cooked quinoa *** 6 % (water, quinoa), water, pea protein, leek, sunflower seeds, coconut oil, modified potato starch, ginger, thickenings (E461, E407a, E415), iodised salt, flavour, salt, black pepper.), undefined [mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), sweet and hot bell pepper sauce (Bell pepper (50 %, eu and non-eu), sugar, water, spirit vinegar, modified corn starch, pickled jalapeno (3 %) (jalapeno pepper, water, vinegar, salt, stabilizer E509, garlic), salt, acidity regulator (E260, E270), preservative (E202).)]. Hiilijalanjälki: 0.52 kg CO2e / annos",
-    "nutrition": "Energy 1147kJ, energy 276kcal, fat 23g, of which saturated fat 2.5g, carbohydrate 12g, of which sugars 5.4g, protein 3.8g, salt 0.86g, fibre 2.0g, lactose 0g.",
+    "name": "Quinoa balls with chimichurri sauce",
+    "ingredients": "Carrot-quinoa balls (Carrot * 52 %, gluten free coating (rice flour, chickpea flour, corn starch, dextrose), rapeseed oil, cooked quinoa *** 6 % (water, quinoa), water, pea protein, leek, sunflower seeds, coconut oil, modified potato starch, ginger, thickenings (E461, E407a, E415), iodised salt, flavour, salt, black pepper.), SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), green herb sauce (parsley (35%)(EU), rapeseed oil, water, onion, chilli, garlic, lemon juice concentrate, salt, preservatives (E260, E202, E224 potassium diSULFITE), acidity regulator (E330), lemon oil), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.51 kg CO2e / annos",
+    "nutrition": "Energy 964kJ, energy 232kcal, fat 18g, of which saturated fat 2.2g, carbohydrate 10g, of which sugars 3.5g, protein 4.8g, salt 0.87g, fibre 2.5g, lactose 0g.",
     "meta": {
      "0": [
       "G",
@@ -103,7 +103,8 @@
      ],
      "1": [
       "mustard",
-      "oat"
+      "soybens",
+      "sulfur dioxide and sulfits"
      ],
      "2": []
     },
@@ -151,21 +152,18 @@
    },
    {
     "name": "Chicken bolognese",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), chicken mince (chicken), water, carrot (carrot (100%)), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), cornstarch, canola oil (rapeseed oil), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), chicken bouillon powder (Dried glucose syrup, salt, flavourings, chicken fat 3.8%, chicken skin and meat powder 1.8%, acid (citric acid, lactic acid), spices (white pepper, turmeric), lovage.), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), sugar (sugar (Netherlands)), basil (Basil.), oregano (Oregano.), black pepper. Hiilijalanjälki: 0.38 kg CO2e / annos",
+    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), chicken mince (chicken), water, carrot (carrot (100%)), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), cornstarch, canola oil (rapeseed oil), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), chicken bouillon powder (Dried glucose syrup, salt, flavourings, chicken fat 3.8%, chicken skin and meat powder 1.8%, acid (citric acid, lactic acid), spices (white pepper, turmeric), lovage.), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), sugar (sugar (Netherlands)), basil (Basil.), oregano (Oregano.), black pepper. Hiilijalanjälki: 0.57 kg CO2e / annos",
     "nutrition": "Energy 390kJ, energy 93kcal, fat 4.8g, of which saturated fat 1.8g, carbohydrate 4.9g, of which sugars 3.4g, protein 7.3g, salt 0.45g, fibre 1.1g, lactose 0g.",
     "meta": {
      "0": [
       "G",
       "KELA",
-      "L",
-      "Ilmastovalinta"
+      "L"
      ],
      "1": [
       "milk"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": {
