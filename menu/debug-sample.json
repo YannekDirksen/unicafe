@@ -4,10 +4,11 @@
   "items": [
    {
     "name": "Pulled oats sauce",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), pulled OATS (water, OAT 20 % (gluten free whole grain OAT flour, gluten free OAT bran), pea protein, faba bean protein, rapeseed oil.), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), soft brown sugar (Sugar and cane sugar syrup), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), thyme, basil (Basil.). Hiilijalanjälki: 0.28 kg CO2e / annos",
+    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), pulled OATS (water, OAT 20 % (gluten free whole grain OAT flour, gluten free OAT bran), pea protein, faba bean protein, rapeseed oil.), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), soft brown sugar (Sugar and cane sugar syrup), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), thyme, basil (Basil.). Hiilijalanjälki: 0.47 kg CO2e / annos",
     "nutrition": "Energy 382kJ, energy 91kcal, fat 3.7g, of which saturated fat 0.3g, carbohydrate 7.8g, of which sugars 4.2g, protein 5.1g, salt 0.55g, fibre 2.5g, lactose 0g.",
     "meta": {
      "0": [
+      "G",
       "KELA",
       "Veg",
       "Ilmastovalinta"
@@ -28,8 +29,8 @@
    },
    {
     "name": "Salmon lasagne",
-    "ingredients": "Water, RAINBOW TROUT puree (RAINBOWTROUT (Oncorhyncus mykiss). Cultivated in Finland.), lasagna sheets (Italian durum WHEAT semolina 72%, fresh EGG 14,4%, water.), tomato puree (tomato (100 %, Portugal)), onion (onion (Poland)), cheese créme (cheese (MILK (origin Eu), salt, cheese culture), water, MILK fat (origin Finland), emulsifying salts (E452, E339, E331), preservative (E200).), leek (leek (100%)), MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified corn and tapioca starch, emulsifier (E472e), flavour, colour (beta-carotene).), WHEAT flour (WHEAT, flour improver (ascorbic acid)), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), canola oil (rapeseed oil), FISH stock powder (Dried glucose syrup, salt, flavors (with FISH), FISHPOWDER 8%, palm fat, sugar, onion powder, acids (citric acid, lactic acid), spices (white pepper, turmeric).), dill (dill (origin: India or EU)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper. Hiilijalanjälki: 0.71 kg CO2e / annos",
-    "nutrition": "Energy 532kJ, energy 127kcal, fat 6.6g, of which saturated fat 1.9g, carbohydrate 9.9g, of which sugars 2.5g, protein 6.7g, salt 0.61g, fibre 1.1g, lactose <0.01g.",
+    "ingredients": "Water, RAINBOW TROUT puree (RAINBOWTROUT (Oncorhyncus mykiss). Cultivated in Finland.), lasagna sheets (Italian durum WHEAT semolina 72%, fresh EGG 14,4%, water.), tomato puree (tomato (100 %, Portugal)), onion (onion (Poland)), cheese créme (cheese (MILK (origin Eu), salt, cheese culture), water, MILK fat (origin Finland), emulsifying salts (E452, E339, E331), preservative (E200).), leek (leek (100%)), hot smoked RAINBOW TROUT fillet (RAINBOW TROUT (Oncorhynchus mykiss, cultured Finland), salt), MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified corn and tapioca starch, emulsifier (E472e), flavour, colour (beta-carotene).), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), canola oil (rapeseed oil), FISH stock powder (Dried glucose syrup, salt, flavors (with FISH), FISHPOWDER 8%, palm fat, sugar, onion powder, acids (citric acid, lactic acid), spices (white pepper, turmeric).), dill (dill (origin: India or EU)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper, MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), baby spinach (Baby spinach), lemon juice (lemon juice made from concentrate (non EU).). Hiilijalanjälki: 0.96 kg CO2e / annos",
+    "nutrition": "Energy 520kJ, energy 125kcal, fat 7.1g, of which saturated fat 2.0g, carbohydrate 7.6g, of which sugars 2.4g, protein 7.3g, salt 0.68g, fibre 1.0g, lactose <0.01g.",
     "meta": {
      "0": [
       "KELA",
@@ -51,7 +52,7 @@
    },
    {
     "name": " Schnitzel and mango salsa",
-    "ingredients": "Schnitzel (pork sirloin (61 %), bread crumbs (WHEAT, water, salt, spices (paprika, turmeric), yeast, rapedees oil), water, rapeseed oil, modified corn starch, iodised salt, stabilizer E 451, dextrose, thickening agent xanthan gum. High salt content. Origin of pork Finland), lemon, undefined [mango (mango 100% (Vietnam)), mango mash (mango (100 %, non-EU)), agave syrup, lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), chopped chili (100% chopped red chilli), coriander (Coriander 100%), flat-leaf parsley (flatparsley)]. Hiilijalanjälki: 0.68 kg CO2e / annos",
+    "ingredients": "Schnitzel (pork sirloin (61 %), bread crumbs (WHEAT, water, salt, spices (paprika, turmeric), yeast, rapedees oil), water, rapeseed oil, modified corn starch, iodised salt, stabilizer E 451, dextrose, thickening agent xanthan gum. High salt content. Origin of pork Finland), lemon, undefined [mango (mango 100% (Vietnam)), mango mash (mango (100 %, non-EU)), agave syrup, lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), chopped chili (100% chopped red chilli), coriander (Coriander 100%), flat-leaf parsley (flatparsley)]. Hiilijalanjälki: 0.87 kg CO2e / annos",
     "nutrition": "Energy 817kJ, energy 194kcal, fat 8.4g, of which saturated fat 1.6g, carbohydrate 16g, of which sugars 2.0g, protein 13g, salt 1.2g, fibre 1.1g, lactose 0g.",
     "meta": {
      "0": [
@@ -70,19 +71,16 @@
     }
    },
    {
-    "name": "Grilled Corn with vegetables",
-    "ingredients": "Sweet corn, canola oil (rapeseed oil), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), broccoli (Broccoli (EU) (100%)), baby carrot (baby carrot), baby spinach (Baby spinach), cauliflower (Polish cauliflower (100%)). Hiilijalanjälki: 0.03 kg CO2e / annos",
-    "nutrition": "Energy 869kJ, energy 209kcal, fat 12g, of which saturated fat 0.9g, carbohydrate 22g, of which sugars 3.1g, protein 2.5g, salt 2.0g, fibre 3.2g, lactose 0g.",
+    "name": "Fried potato",
+    "ingredients": "Potato (potato), canola oil (rapeseed oil), salt (Sea salt, anti-caking agent (E535 EU)), thyme (Finnish thyme), paprika powder (paprika, E551(0,7%))",
+    "nutrition": "Energy 480kJ, energy 116kcal, fat 6.3g, of which saturated fat 0.5g, carbohydrate 12g, of which sugars <0.5g, protein 1.5g, salt 0.60g, fibre 0.7g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
