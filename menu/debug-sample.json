@@ -1,11 +1,33 @@
 [
  {
-  "title": "Olivia staff restaurant",
+  "title": "Kaivopiha",
   "items": [
    {
-    "name": "Pulled oats sauce",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), pulled OATS (water, OAT 20 % (gluten free whole grain OAT flour, gluten free OAT bran), pea protein, faba bean protein, rapeseed oil.), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), soft brown sugar (Sugar and cane sugar syrup), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), thyme, basil (Basil.). Hiilijalanjälki: 0.47 kg CO2e / annos",
-    "nutrition": "Energy 382kJ, energy 91kcal, fat 3.7g, of which saturated fat 0.3g, carbohydrate 7.8g, of which sugars 4.2g, protein 5.1g, salt 0.55g, fibre 2.5g, lactose 0g.",
+    "name": "Teriyaki pulled oat bowl",
+    "ingredients": "Undefined [water, OAT groat (gluten free OAT.)], iceberg salad (Iceberg lettuce), pulled OATS (water, OAT 20 % (gluten free whole grain OAT flour, gluten free OAT bran), pea protein, faba bean protein, rapeseed oil.), SOYA BEAN (SOY BEANS), pickled red cabbage (red cabbage (EU), water, vinegar, sugar, salt), orange wedges (Orange), hummus (Chickpea (Canada), water, SESAME SEED PASTE, rapeseed oil, green chili pepper, spinach, lemon juice, garlic, spices (i.a. black pepper), seasalt, sugar, preservative (citric acid, potassium sorbate)), spice sauce (SOYA SAUCE (Water, hydrolyzed SOY BEAN protein, salt), sugar, white wine vinegar, spices, thickener (E1414, E415), preservatives (E211).), undefined [SOY mince (SOYbean, colour: E150d), rapeseed oil (rapeseed oil (seed: eu)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]. Hiilijalanjälki: 0.57 kg CO2e / annos",
+    "nutrition": "Energy 520kJ, energy 124kcal, fat 3.5g, of which saturated fat 0.4g, carbohydrate 13g, of which sugars 4.7g, protein 8.1g, salt 0.34g, fibre 3.0g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg"
+     ],
+     "1": [
+      "oat",
+      "sesame seeds",
+      "soybens"
+     ],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Tofu in tomato-rosemary sauce",
+    "ingredients": "TOFU (organic SOYBEAN (67%), water.), water, crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), carrot slices (orange carrot (50%) (EU), yellow carrot (50%) (EU)), onion (onion (Poland)), canola oil (rapeseed oil), tomato puree (tomato (100 %, Portugal)), syrup (Sugar syrup), apple cider vinegar (Apple cider vinegar. Acetic acid content 6%. Contains sulphites.), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), parsley, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), rosemary (Rosemary.), black pepper. Hiilijalanjälki: 0.44 kg CO2e / annos",
+    "nutrition": "Energy 428kJ, energy 102kcal, fat 5.8g, of which saturated fat 0.7g, carbohydrate 4.8g, of which sugars 3.1g, protein 7.5g, salt 0.34g, fibre 0.8g, lactose 0g.",
     "meta": {
      "0": [
       "G",
@@ -14,8 +36,7 @@
       "Ilmastovalinta"
      ],
      "1": [
-      "celery",
-      "oat",
+      "soybens",
       "sulfur dioxide and sulfits"
      ],
      "2": [
@@ -24,177 +45,42 @@
     },
     "price": {
      "value": [],
-     "name": "Buffet"
+     "name": "Vegaanilounas"
     }
    },
    {
-    "name": "Salmon lasagne",
-    "ingredients": "Water, RAINBOW TROUT puree (RAINBOWTROUT (Oncorhyncus mykiss). Cultivated in Finland.), lasagna sheets (Italian durum WHEAT semolina 72%, fresh EGG 14,4%, water.), tomato puree (tomato (100 %, Portugal)), onion (onion (Poland)), cheese créme (cheese (MILK (origin Eu), salt, cheese culture), water, MILK fat (origin Finland), emulsifying salts (E452, E339, E331), preservative (E200).), leek (leek (100%)), hot smoked RAINBOW TROUT fillet (RAINBOW TROUT (Oncorhynchus mykiss, cultured Finland), salt), MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified corn and tapioca starch, emulsifier (E472e), flavour, colour (beta-carotene).), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), canola oil (rapeseed oil), FISH stock powder (Dried glucose syrup, salt, flavors (with FISH), FISHPOWDER 8%, palm fat, sugar, onion powder, acids (citric acid, lactic acid), spices (white pepper, turmeric).), dill (dill (origin: India or EU)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper, MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), baby spinach (Baby spinach), lemon juice (lemon juice made from concentrate (non EU).). Hiilijalanjälki: 0.96 kg CO2e / annos",
-    "nutrition": "Energy 520kJ, energy 125kcal, fat 7.1g, of which saturated fat 2.0g, carbohydrate 7.6g, of which sugars 2.4g, protein 7.3g, salt 0.68g, fibre 1.0g, lactose <0.01g.",
+    "name": "Vegetable nuggets and sweet and sour mayonnaise",
+    "ingredients": "Vegetable nugget (Rehydrated WHEAT protein 38%, rapeseed oil, WHEAT flour, water, maize flour, bamboo fiber, stabilizer (methylcellulose), tapioca starch, salt, natural flavourings (WHEAT), garlic powder, white pepper, yeast, raising agents (ammonium carbonates) onion powder, red pepper powder, turmeric . May contain MILK, LEGUMES.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), sweet and hot bell pepper sauce (Bell pepper (50 %, eu and non-eu), sugar, water, spirit vinegar, modified corn starch, pickled jalapeno (3 %) (jalapeno pepper, water, vinegar, salt, stabilizer E509, garlic), salt, acidity regulator (E260, E270), preservative (E202).). Hiilijalanjälki: 0.63 kg CO2e / annos",
+    "nutrition": "Energy 1346kJ, energy 324kcal, fat 25g, of which saturated fat 1.8g, carbohydrate 17g, of which sugars 3.4g, protein 6.0g, salt 0.89g, fibre 3.3g, lactose 0g.",
     "meta": {
      "0": [
-      "KELA",
-      "L"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "eggs",
-      "fish",
-      "milk",
-      "wheat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": [],
-     "name": "Buffet"
-    }
-   },
-   {
-    "name": " Schnitzel and mango salsa",
-    "ingredients": "Schnitzel (pork sirloin (61 %), bread crumbs (WHEAT, water, salt, spices (paprika, turmeric), yeast, rapedees oil), water, rapeseed oil, modified corn starch, iodised salt, stabilizer E 451, dextrose, thickening agent xanthan gum. High salt content. Origin of pork Finland), lemon, undefined [mango (mango 100% (Vietnam)), mango mash (mango (100 %, non-EU)), agave syrup, lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).), chopped chili (100% chopped red chilli), coriander (Coriander 100%), flat-leaf parsley (flatparsley)]. Hiilijalanjälki: 0.87 kg CO2e / annos",
-    "nutrition": "Energy 817kJ, energy 194kcal, fat 8.4g, of which saturated fat 1.6g, carbohydrate 16g, of which sugars 2.0g, protein 13g, salt 1.2g, fibre 1.1g, lactose 0g.",
-    "meta": {
-     "0": [
-      "M"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "sulfur dioxide and sulfits",
-      "wheat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": [],
-     "name": "Buffet"
-    }
-   },
-   {
-    "name": "Fried potato",
-    "ingredients": "Potato (potato), canola oil (rapeseed oil), salt (Sea salt, anti-caking agent (E535 EU)), thyme (Finnish thyme), paprika powder (paprika, E551(0,7%))",
-    "nutrition": "Energy 480kJ, energy 116kcal, fat 6.3g, of which saturated fat 0.5g, carbohydrate 12g, of which sugars <0.5g, protein 1.5g, salt 0.60g, fibre 0.7g, lactose 0g.",
-    "meta": {
-     "0": [
-      "G",
       "Veg"
      ],
+     "1": [
+      "cereals containing gluten",
+      "mustard",
+      "oat",
+      "wheat"
+     ],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Baguette bar",
+    "ingredients": "",
+    "nutrition": "",
+    "meta": {
+     "0": [],
      "1": [],
      "2": []
     },
     "price": {
      "value": [],
-     "name": "Buffet"
-    }
-   }
-  ]
- },
- {
-  "title": "Metsätalo",
-  "items": [
-   {
-    "name": "Quinoa balls with chimichurri sauce",
-    "ingredients": "Carrot-quinoa balls (Carrot * 52 %, gluten free coating (rice flour, chickpea flour, corn starch, dextrose), rapeseed oil, cooked quinoa *** 6 % (water, quinoa), water, pea protein, leek, sunflower seeds, coconut oil, modified potato starch, ginger, thickenings (E461, E407a, E415), iodised salt, flavour, salt, black pepper.), SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), green herb sauce (parsley (35%)(EU), rapeseed oil, water, onion, chilli, garlic, lemon juice concentrate, salt, preservatives (E260, E202, E224 potassium diSULFITE), acidity regulator (E330), lemon oil), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.51 kg CO2e / annos",
-    "nutrition": "Energy 964kJ, energy 232kcal, fat 18g, of which saturated fat 2.2g, carbohydrate 10g, of which sugars 3.5g, protein 4.8g, salt 0.87g, fibre 2.5g, lactose 0g.",
-    "meta": {
-     "0": [
-      "G",
-      "Veg"
-     ],
-     "1": [
-      "mustard",
-      "soybens",
-      "sulfur dioxide and sulfits"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Vegaanilounas"
-    }
-   },
-   {
-    "name": "Quorn bolognese",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, vegetable mix (carrot 40% (EU), zucchini 25% (EU), swede 25% (EU), leek 10% (EU)), quorn (Mycoprotein (85%), Rapeseed Protein, Natural Flavouring, Pea Fibre, Gluten Free Roasted Barley Malt Extract, Mushroom Extract (Maltodextrin, Mushroom Extract).), onion (onion (Poland)), vegan alternative for cheese (water, palm oil* (24%, non-eu), modified potato starch, potato starch, modified tapioca starch, salt, flavourings, coloring (E160a), acidity regulators (E330, E270). Vegan. *responsibly produced and certified palm oil), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), soft brown sugar (Sugar and cane sugar syrup), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), sugar (sugar), oregano (Oregano.), black pepper, thyme, basil (Basil.), parsley (parsley (100%, EU)). Hiilijalanjälki: 0.48 kg CO2e / annos",
-    "nutrition": "Energy 360kJ, energy 86kcal, fat 4.6g, of which saturated fat 1.1g, carbohydrate 6.9g, of which sugars 3.7g, protein 3.5g, salt 0.83g, fibre 1.8g, lactose 0g.",
-    "meta": {
-     "0": [
-      "G",
-      "KELA",
-      "Veg",
-      "Ilmastovalinta"
-     ],
-     "1": [
-      "barley"
-     ],
-     "2": [
-      "Ilmastovalinta"
-     ]
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Vegaanilounas"
-    }
-   },
-   {
-    "name": "Chicken bolognese",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), chicken mince (chicken), water, carrot (carrot (100%)), CHEESE (CHEESE (pasteurised MILK, salt, starter culture) and anticaking agent (E460).), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), cornstarch, canola oil (rapeseed oil), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), chicken bouillon powder (Dried glucose syrup, salt, flavourings, chicken fat 3.8%, chicken skin and meat powder 1.8%, acid (citric acid, lactic acid), spices (white pepper, turmeric), lovage.), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), sugar (sugar (Netherlands)), basil (Basil.), oregano (Oregano.), black pepper. Hiilijalanjälki: 0.57 kg CO2e / annos",
-    "nutrition": "Energy 390kJ, energy 93kcal, fat 4.8g, of which saturated fat 1.8g, carbohydrate 4.9g, of which sugars 3.4g, protein 7.3g, salt 0.45g, fibre 1.1g, lactose 0g.",
-    "meta": {
-     "0": [
-      "G",
-      "KELA",
-      "L"
-     ],
-     "1": [
-      "milk"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
      "name": "Lounas"
-    }
-   },
-   {
-    "name": "Gluten-free oats ",
-    "ingredients": "Water, OAT groat (gluten free OAT.), canola oil (rapeseed oil). Hiilijalanjälki: 0.04 kg CO2e / annos",
-    "nutrition": "Energy 681kJ, energy 163kcal, fat 8.0g, of which saturated fat 0.9g, carbohydrate 16g, of which sugars <0.5g, protein 4.1g, salt <0.01g, fibre 3.5g.",
-    "meta": {
-     "0": [
-      "G",
-      "KELA",
-      "Veg"
-     ],
-     "1": [
-      "oat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": [],
-     "name": "Lisäke"
     }
    }
   ]
