@@ -70,17 +70,26 @@
     }
    },
    {
-    "name": "Baguette bar",
-    "ingredients": "",
-    "nutrition": "",
+    "name": "Crispy vegetable patties, mayonaise dip with sweet paprika",
+    "ingredients": "Vegetable patty (Rehydrated pea protein (EU) 56 %, water, rapeseed oil, gluten-free breadcrumbs (rice flour, chickpea flour, corn starch, dextrose), flavour, thickeners (E461, E407a), fiber (pea), spices (onion, ginger, black pepper), iodised salt, potassium chloride), undefined [mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), sweet and hot bell pepper sauce (Bell pepper (50 %, eu and non-eu), sugar, water, spirit vinegar, modified corn starch, pickled jalapeno (3 %) (jalapeno pepper, water, vinegar, salt, stabilizer E509, garlic), salt, acidity regulator (E260, E270), preservative (E202).)]. Hiilijalanjälki: 0.48 kg CO2e / annos",
+    "nutrition": "Energy 955kJ, energy 228kcal, fat 13g, of which saturated fat 0.9g, carbohydrate 9.9g, of which sugars 0.5g, protein 16g, salt 1.2g, fibre 4.2g, lactose 0g.",
     "meta": {
-     "0": [],
-     "1": [],
-     "2": []
+     "0": [
+      "G",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "mustard",
+      "oat"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
     },
     "price": {
      "value": [],
-     "name": "Lounas"
+     "name": "Vegaanilounas"
     }
    }
   ]
