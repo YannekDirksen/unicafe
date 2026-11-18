@@ -123,34 +123,6 @@
     }
    },
    {
-    "name": "Limoncello chicken ",
-    "ingredients": "Chicken thigh cubes (chicken thigh meat (91 %), water, iodised salt, preservative E 262. Origin of meat Finland), MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified corn and tapioca starch, emulsifier (E472e), flavour, colour (beta-carotene).), YOGHURT (Pasteurized MILK (Finland) and starter culture (asidofilus-bifido)), water, onion (onion (Poland)), lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), honey (honey), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), lemon peels (lemon peel 100%), chicken bouillon powder (Dried glucose syrup, salt, flavourings, chicken fat 3.8%, chicken skin and meat powder 1.8%, acid (citric acid, lactic acid), spices (white pepper, turmeric), lovage.), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), turmeric (Turmeric), canola oil (rapeseed oil), cornstarch, chili, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper. Hiilijalanjälki: 0.73 kg CO2e / annos",
-    "nutrition": "Energy 463kJ, energy 111kcal, fat 6.6g, of which saturated fat 1.4g, carbohydrate 5.4g, of which sugars 3.3g, protein 6.9g, salt 0.80g, fibre 0.5g, lactose <0.01g.",
-    "meta": {
-     "0": [
-      "G",
-      "KELA",
-      "L"
-     ],
-     "1": [
-      "milk",
-      "sulfur dioxide and sulfits"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Lounas"
-    }
-   },
-   {
     "name": "Steamed rice",
     "ingredients": "Water, rice (parboiled long-grain rice). Hiilijalanjälki: 0.27 kg CO2e / annos",
     "nutrition": "Energy 497kJ, energy 117kcal, fat 0.6g, of which saturated fat 0.2g, carbohydrate 25g, of which sugars <0.5g, protein 2.5g, salt <0.01g, fibre 0.5g, lactose 0g.",
