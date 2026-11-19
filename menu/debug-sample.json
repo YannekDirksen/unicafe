@@ -116,7 +116,7 @@
    },
    {
     "name": "Vegetable lasagnette with pesto",
-    "ingredients": "Undefined [water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), margarine (Vegetable fat (palm oil, coconut fat), rapeseed oil, water, salt, emulsifiers (E471 plant based, E472c, E322 sunflower lecithin), acidity regulators (E330, E500), flavouring, vitamin A, vitamin D2, colour (E160a).), WHEAT flour (WHEAT, flour improver (ascorbic acid)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), white pepper (White pepper.)], zucchini, tomato cubes (Tomato 100%.), lasagnette (durum WHEAT), onion (onion (Poland)), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), spinach (Spinach 100%.), vegan alternative for cheese (water, palm oil* (24%, non-eu), modified potato starch, potato starch, modified tapioca starch, salt, flavourings, coloring (E160a), acidity regulators (E330, E270). Vegan. *responsibly produced and certified palm oil), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), canola oil (rapeseed oil), SOY mince (SOYbean, colour: E150d), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), basil (basil), black pepper. Hiilijalanjälki: 0.29 kg CO2e / annos",
+    "ingredients": "Undefined [water, OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), margarine (Vegetable fat (palm oil, coconut fat), rapeseed oil, water, salt, emulsifiers (E471 plant based, E472c, E322 sunflower lecithin), acidity regulators (E330, E500), flavouring, vitamin A, vitamin D2, colour (E160a).), WHEAT flour (WHEAT, flour improver (ascorbic acid)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), white pepper (White pepper.)], zucchini, tomato cubes (Tomato 100%.), lasagnette (durum WHEAT), onion (onion (Poland)), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), spinach (Spinach 100%.), vegan alternative for cheese (water, palm oil* (24%, non-eu), modified potato starch, potato starch, modified tapioca starch, salt, flavourings, coloring (E160a), acidity regulators (E330, E270). Vegan. *responsibly produced and certified palm oil), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), canola oil (rapeseed oil), SOY mince (SOYbean, colour: E150d), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), basil (basil), black pepper. Hiilijalanjälki: 0.45 kg CO2e / annos",
     "nutrition": "Energy 493kJ, energy 118kcal, fat 6.6g, of which saturated fat 1.7g, carbohydrate 12g, of which sugars 2.1g, protein 2.1g, salt 0.33g, fibre 0.7g, lactose <0.01g.",
     "meta": {
      "0": [
@@ -148,7 +148,7 @@
    },
    {
     "name": "Tofu ratatouille",
-    "ingredients": "TOFU (organic SOYBEAN (67%), water.), aubergine, zucchini (zucchini), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), red pepper cube (red pepper (100%, Poland)), tomato cubes (Tomato 100%.), water, onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), lemon, canola oil (rapeseed oil), parsley, white balsamic vinegar (white wine vinegar, grape juice concentrate, antioxidant (E228 potassium hydrogen SULPHITE)), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), thyme, black pepper. Hiilijalanjälki: 0.26 kg CO2e / annos",
+    "ingredients": "TOFU (organic SOYBEAN (67%), water.), aubergine, zucchini (zucchini), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), red pepper cube (red pepper (100%, Poland)), tomato cubes (Tomato 100%.), water, onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), lemon, canola oil (rapeseed oil), parsley, white balsamic vinegar (white wine vinegar, grape juice concentrate, antioxidant (E228 potassium hydrogen SULPHITE)), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), thyme, black pepper. Hiilijalanjälki: 0.45 kg CO2e / annos",
     "nutrition": "Energy 325kJ, energy 78kcal, fat 3.7g, of which saturated fat 0.5g, carbohydrate 4.7g, of which sugars 3.9g, protein 5.6g, salt 0.40g, fibre 1.2g, lactose 0g.",
     "meta": {
      "0": [
@@ -178,35 +178,23 @@
     }
    },
    {
-    "name": "Saithe fillet in a horseradish-cream sauce",
-    "ingredients": "ALASKA POLLOCK (Alaska POLLOCK (Theragra chalcogramma)), MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified maize and tapioca starch, emulsifier(E472e), flavouring, colour(beta-carotene)), horseradish paste (Grated horseradish 56 %, rapeseed oil, water, horseradish flavor, iodized salt, potato fiber, thickener (xanthan gum), antioxidant (SODIUM DISULPHITE, ascorbic acid).  May contain traces of MUSTARD.), FISH stock powder (Dried glucose syrup, salt, flavors (with FISH), FISHPOWDER 8%, palm fat, sugar, onion powder, acids (citric acid, lactic acid), spices (white pepper, turmeric).), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.). Hiilijalanjälki: 0.35 kg CO2e / annos",
-    "nutrition": "Energy 446kJ, energy 107kcal, fat 5.8g, of which saturated fat 0.6g, carbohydrate 2.0g, of which sugars 0.8g, protein 12g, salt 0.45g, fibre <0.1g, lactose <0.01g.",
+    "name": "Gluten-free oats ",
+    "ingredients": "Water, OAT groat (gluten free OAT.), canola oil (rapeseed oil). Hiilijalanjälki: 0.04 kg CO2e / annos",
+    "nutrition": "Energy 681kJ, energy 163kcal, fat 8.0g, of which saturated fat 0.9g, carbohydrate 16g, of which sugars <0.5g, protein 4.1g, salt <0.01g, fibre 3.5g.",
     "meta": {
      "0": [
       "G",
       "KELA",
-      "L",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [
-      "fish",
-      "milk",
-      "sulfur dioxide and sulfits"
+      "oat"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Lounas"
+     "value": [],
+     "name": "Lisäke"
     }
    }
   ]
