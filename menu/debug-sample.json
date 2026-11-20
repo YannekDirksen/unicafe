@@ -89,36 +89,6 @@
   "title": "Metsätalo",
   "items": [
    {
-    "name": "Chicken Kiev and garlic aioli",
-    "ingredients": "Chicken Kiev (Broiler meat 56%, herb BUTTER [18%, lactose-free BUTTER (CREAM, salt), crust flour (WHEAT flour, yeast), parsley, garlic, lemon juice [water, lemon juice concentrate, preservative (E224)]], water, crust flour (WHEAT flour, yeast), salt, rapeseed and canola oil.), undefined [vegetable mix (tomato (30%), zucchini (30%), onion (14%), yellow pepper (10%), red pepper (8%), green pepper (8%)), canola oil (rapeseed oil), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)], undefined [mayonnaise (water, canola oil (EU), modified potato starch, EGG, sugar, MUSTARD (water, MUSTARD SEED, sugar, vinegar, salt, spices), salt, vinegar, stabiliser (E412), preservative (E202), acidity regulators (E270, E330), colouring (E160a)), lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]. Hiilijalanjälki: 0.80 kg CO2e / annos",
-    "nutrition": "Energy 813kJ, energy 194kcal, fat 14g, of which saturated fat 4.9g, carbohydrate 4.6g, of which sugars 1.1g, protein 9.3g, salt 1.0g, fibre 0.8g, lactose <0.01g.",
-    "meta": {
-     "0": [
-      "L"
-     ],
-     "1": [
-      "cereals containing gluten",
-      "eggs",
-      "milk",
-      "mustard",
-      "sulfur dioxide and sulfits",
-      "wheat"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "5.30",
-      "graduate": "8.75",
-      "contract": "8.90",
-      "normal": "11.50",
-      "student_hyy": "5.30",
-      "graduate_hyy": "8.75"
-     },
-     "name": "Päivän erikoinen"
-    }
-   },
-   {
     "name": "Pulled oats bolognese",
     "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), water, root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), pulled OATS (water, OAT 20 % (gluten free whole grain OAT flour, gluten free OAT bran), pea protein, faba bean protein, rapeseed oil.), onion (onion (Poland)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), soft brown sugar (Sugar and cane sugar syrup), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), thyme, basil (Basil.). Hiilijalanjälki: 0.47 kg CO2e / annos",
     "nutrition": "Energy 382kJ, energy 91kcal, fat 3.7g, of which saturated fat 0.3g, carbohydrate 7.8g, of which sugars 4.2g, protein 5.1g, salt 0.55g, fibre 2.5g, lactose 0g.",
@@ -189,6 +159,25 @@
      ],
      "1": [
       "oat"
+     ],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Lisäke"
+    }
+   },
+   {
+    "name": "Pasta",
+    "ingredients": "Pasta (DURUM WHEAT semolina pasta (DURUM WHEAT semolina, water)33.3%, DURUM WHEAT semolina pasta with tomato (DURUM WHEAT semolina, tomato semi-concentrate (8%*), water) 33.3%, DURUM WHEAT semolina pasta with spinach (DURUM WHEAT semolina, water, dehydratedspinach (0.6%*)) 33.3%. * % expressed on the finished product. May contain traces of SOY AND MUSTARD.), water. Hiilijalanjälki: 0.13 kg CO2e / annos",
+    "nutrition": "Energy 761kJ, energy 180kcal, fat 1.0g, of which saturated fat 0.3g, carbohydrate 36g, of which sugars 1.8g, protein 6.3g, salt 0.01g, fibre 1.5g, lactose 0g.",
+    "meta": {
+     "0": [
+      "Veg"
+     ],
+     "1": [
+      "cereals containing gluten",
+      "wheat"
      ],
      "2": []
     },
