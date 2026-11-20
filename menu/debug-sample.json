@@ -4,22 +4,19 @@
   "items": [
    {
     "name": "Spicy tacos",
-    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), vegan mince (Water, pea protein, rapeseed powder, salt, flavorings and spices (black and white pepper), beetroot juice concentrate, caramelized sugar, carrageenan. Partially defatted rapeseed powder may cause an allergic reaction in consumers who are allergic to mustard and mustard products.), taco shell (Corn flour (77%), sunflower oil, salt. May contain traces of soya.), tomato cubes (Tomato 100%.), SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), black bean (rehydrated dried black beans (non-EU), water, salt), sweet corn kernels (corn grain (Hungary)), onion (onion (100%)), jalapeno slices (jalapeño (Mexico), water, vinegar, salt, firming agent (E509), garlic), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil), sugar (sugar (Netherlands)), coriander (Coriander 100%), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), apple cider vinegar (Apple cider vinegar. Acetic acid content 6%. Contains sulphites.), cumin (Cumin.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), chili paste (Red chilli 84 %, rice vinegar, sugar, salt.), paprika powder (Paprika), chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), black pepper. Hiilijalanjälki: 0.42 kg CO2e / annos",
-    "nutrition": "Energy 513kJ, energy 122kcal, fat 4.5g, of which saturated fat 0.4g, carbohydrate 14g, of which sugars 4.3g, protein 5.2g, salt 0.86g, fibre 2.2g, lactose 0g.",
+    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), vegan mince (Water, pea protein, rapeseed powder, salt, flavorings and spices (black and white pepper), beetroot juice concentrate, caramelized sugar, carrageenan. Partially defatted rapeseed powder may cause an allergic reaction in consumers who are allergic to mustard and mustard products.), taco shell (Corn flour (77%), sunflower oil, salt. May contain traces of soya.), SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), black bean (rehydrated dried black beans (non-EU), water, salt), sweet corn kernels (corn grain (Hungary)), onion (onion (100%)), jalapeno slices (jalapeño (Mexico), water, vinegar, salt, firming agent (E509), garlic), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil), sugar (sugar (Netherlands)), coriander (Coriander 100%), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), cumin (Cumin.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), chili paste (Red chilli 84 %, rice vinegar, sugar, salt.), paprika powder (Paprika), chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), black pepper, fava bean mince (Water, pea protein, fava bean (8,6 %, Finland), rapeseed oil. May contain small amounts of gluten-free oats.), tomato cubes (Tomato 100%.), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), white wine vinegar (white wine vinegar, antioxidant (potassium hydrogen SULPHITE)). Hiilijalanjälki: 0.52 kg CO2e / annos",
+    "nutrition": "Energy 554kJ, energy 132kcal, fat 4.9g, of which saturated fat 0.4g, carbohydrate 15g, of which sugars 4.4g, protein 5.7g, salt 0.80g, fibre 2.5g, lactose 0g.",
     "meta": {
      "0": [
       "G",
       "KELA",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [
       "soybens",
       "sulfur dioxide and sulfits"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
