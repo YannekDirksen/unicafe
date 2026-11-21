@@ -67,22 +67,15 @@
     }
    },
    {
-    "name": "Falafelpatties, tzatziki",
-    "ingredients": "Vegetable patty (Chickpeas 56%, carrot 34 %, rice flour, onion, spices (coriander, cumin, fennel, lemon peel), salt, raising agent (E500ii), rapeseed oil.), undefined [SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), cucumber (Cucumber), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]. Hiilijalanjälki: 0.41 kg CO2e / annos",
-    "nutrition": "Energy 589kJ, energy 141kcal, fat 2.7g, of which saturated fat 0.1g, carbohydrate 21g, of which sugars 2.7g, protein 6.9g, salt 1.0g, fibre 4.3g, lactose 0g.",
+    "name": "Vegetable croquette, soy yogurt tzatziki,",
+    "ingredients": "Vegetable-bean croquet (Carrot, parsnip, faba bean (Finland), rapeseed oil, onion, kidneybean * 6 %, green bean ** 6 %, sunflower seed, leek, pea protein, thickeners (E461, E407a), iodized salt, garlic, black pepper.), undefined [SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), cucumber (Cucumber), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]. Hiilijalanjälki: 0.98 kg CO2e / annos",
+    "nutrition": "Energy 459kJ, energy 109kcal, fat 6.7g, of which saturated fat 0.5g, carbohydrate 5.9g, of which sugars 1.0g, protein 5.0g, salt 0.66g, fibre 3.1g, lactose 0g.",
     "meta": {
-     "0": [
-      "G",
-      "KELA",
-      "Veg",
-      "Ilmastovalinta"
-     ],
+     "0": [],
      "1": [
       "soybens"
      ],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": {
@@ -97,9 +90,9 @@
     }
    },
    {
-    "name": "Falafelpatties, tzatziki",
-    "ingredients": "Vegetable patty (Chickpeas 56%, carrot 34 %, rice flour, onion, spices (coriander, cumin, fennel, lemon peel), salt, raising agent (E500ii), rapeseed oil.), undefined [SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), cucumber (Cucumber), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.)]. Hiilijalanjälki: 0.41 kg CO2e / annos",
-    "nutrition": "Energy 589kJ, energy 141kcal, fat 2.7g, of which saturated fat 0.1g, carbohydrate 21g, of which sugars 2.7g, protein 6.9g, salt 1.0g, fibre 4.3g, lactose 0g.",
+    "name": "Limonello organic tofu sauce",
+    "ingredients": "OAT product (Oat base (water, gluten free OATS 10%), rapeseed oil, modified starch, emulsifier (E472e), acidity regulator (trisodium citrate, citric acid), stabilizer (guar gum).), tofu dices (Tofu* (SOYbeans* and water), gluten free SOY sauce* (SOYbeans*, WHEAT* and salt), water, flavor extract mixture (garlic*, lemon*, coriander*, ginger* and chili*), rapeseed oil*, paprika powder* and turmeric powder*. *organic ingredient), water, onion (onion (100%)), plantbased cream cheese (water, coconut oil (29%), starch, bamboo fiber, modified starch, lentil protein, sea salt, dextrose, thickener: locust bean gum, acidity regulator: lactic acid, flavorings, color: beta-carotene, olive extract, vitamin B12.), lemon juice, white syrup (Sugar syrup, starch syrup), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), sugar (Sugar), lemon peels (lemon peel 100%), ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), canola oil (rapeseed oil), vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), cornstarch, turmeric (Turmeric), chili, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), black pepper. Hiilijalanjälki: 0.33 kg CO2e / annos",
+    "nutrition": "Energy 601kJ, energy 144kcal, fat 9.4g, of which saturated fat 2.1g, carbohydrate 9.8g, of which sugars 6.2g, protein 4.7g, salt 0.48g, fibre 0.6g, lactose 0g.",
     "meta": {
      "0": [
       "G",
@@ -108,7 +101,9 @@
       "Ilmastovalinta"
      ],
      "1": [
-      "soybens"
+      "oat",
+      "soybens",
+      "wheat"
      ],
      "2": [
       "Ilmastovalinta"
