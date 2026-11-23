@@ -1,1 +1,216 @@
-[]
+[
+ {
+  "title": "Olivia staff restaurant",
+  "items": [
+   {
+    "name": "Ratatouille with Asian tofu & harissa",
+    "ingredients": "Tofu dices (Tofu* (SOYbeans* and water), gluten free SOY sauce* (SOYbeans*, WHEAT* and salt), water, flavor extract mixture (garlic*, lemon*, coriander*, ginger* and chili*), rapeseed oil*, paprika powder* and turmeric powder*. *organic ingredient), red pepper cube (red pepper (100%, Poland)), zucchini (Zucchini), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), chick pea (rehydrated dried chickpeas (EU and non-EU), water, antioxidant (E223 sodium DISULPHITE)), tomato cubes (Tomato 100%.), water, aubergine, onion (onion (100%)), tomato puree (tomato (100 %, Portugal)), lemon, canola oil (rapeseed oil), parsley, white balsamic vinegar (white wine vinegar, grape juice concentrate, antioxidant (E228 potassium hydrogen SULPHITE)), harissa paste (Red chili pepper (86%), salt, garlic, coriander, caraway, acidity regulator (citric acid).), sugar (sugar (Netherlands)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), thyme, black pepper. Hiilijalanjälki: 0.24 kg CO2e / annos",
+    "nutrition": "Energy 355kJ, energy 85kcal, fat 4.2g, of which saturated fat 0.5g, carbohydrate 5.9g, of which sugars 3.7g, protein 5.1g, salt 0.51g, fibre 1.5g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "soybens",
+      "sulfur dioxide and sulfits",
+      "wheat"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Buffet"
+    }
+   },
+   {
+    "name": "Butter fish",
+    "ingredients": "Crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), ALASKA POLLOCK (ALASKA POLLOCK 100% (Theragra chalcogramma)), onion (onion (Poland)), red sweet pepper cubes (Red capsicum), MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified corn and tapioca starch, emulsifier (E472e), flavour, colour (beta-carotene).), BUTTER (pasteurised CREAM, salt), tomato puree (tomato (100 %, Portugal)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), chili powder (Chilli pepper, anti-caking agent (silicon dioxide).), cloves (Cloves.), cardamom (Cardamom crushed), coriander (Coriander.). Hiilijalanjälki: 0.39 kg CO2e / annos",
+    "nutrition": "Energy 358kJ, energy 86kcal, fat 5.1g, of which saturated fat 2.2g, carbohydrate 4.8g, of which sugars 3.8g, protein 5.0g, salt 0.23g, fibre 1.1g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "L",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "fish",
+      "milk"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Buffet"
+    }
+   },
+   {
+    "name": "Garlic stuffed chicken schnitzel with aioli",
+    "ingredients": "Chicken Kiev (Broiler meat 56%, herb BUTTER [18%, lactose-free BUTTER (CREAM, salt), crust flour (WHEAT flour, yeast), parsley, garlic, lemon juice [water, lemon juice concentrate, preservative (E224)]], water, crust flour (WHEAT flour, yeast), salt, rapeseed and canola oil.), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), lemon juice (lemon juice made from concentrate (non EU).), sugar (sugar), flat-leaf parsley (flatparsley). Hiilijalanjälki: 0.60 kg CO2e / annos",
+    "nutrition": "Energy 1166kJ, energy 280kcal, fat 21g, of which saturated fat 6.8g, carbohydrate 5.3g, of which sugars 1.0g, protein 12g, salt 1.4g, fibre 0.5g, lactose <0.01g.",
+    "meta": {
+     "0": [
+      "L"
+     ],
+     "1": [
+      "cereals containing gluten",
+      "milk",
+      "mustard",
+      "wheat"
+     ],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Buffet"
+    }
+   },
+   {
+    "name": "Roasted carrot ",
+    "ingredients": "Carrot piece (carrot (100%)), broccoli (Broccoli (EU) (100%)), canola oil (rapeseed oil), salt (Sea salt, anti-caking agent (E535 EU)), soft brown sugar (Sugar and cane sugar syrup), apple cider vinegar (Apple cider vinegar. Acetic acid content 6%. Contains sulphites.), rosemary, thyme. Hiilijalanjälki: 0.17 kg CO2e / annos",
+    "nutrition": "Energy 237kJ, energy 57kcal, fat 2.4g, of which saturated fat 0.3g, carbohydrate 4.9g, of which sugars 4.7g, protein 2.4g, salt 1.4g, fibre 2.6g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "sulfur dioxide and sulfits"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": [],
+     "name": "Buffet"
+    }
+   }
+  ]
+ },
+ {
+  "title": "Metsätalo",
+  "items": [
+   {
+    "name": "Beetroot falafel patties with horseradish and herb sauce",
+    "ingredients": "Beetroot patty (Chickpeas 50%, beetroot 28%, rapeseed oil, rice flour, onion, parsley, coriander, salt, garlic, cumin, raising agent (baking soda/E500ii).), mayonnaise (rapeseed oil (Sweden), water, sugar, lemon juice concentrate, modified potato starch, vinegar, salt, MUSTARD aroma, preservative (E202), stabilizer (E415), colour (E160a)), SOY snack (water, hulled SOY beans 11 %, polydextrose (fibre), dextrose, modified starch, sugar, vitamins (D2, riboflavin (B2), B12, folic acid), calcium, stabiliser (pectins), salt, starter culture.), chives, flat-leaf parsley, horseradish paste (Grated horseradish 56 %, rapeseed oil, water, horseradish flavor, iodized salt, potato fiber, thickener (xanthan gum), antioxidant (SODIUM DISULPHITE, ascorbic acid).  May contain traces of MUSTARD.), apple cider vinegar (Apple cider vinegar. Acetic acid content 6%. Contains sulphites.), dill, sugar (sugar (Netherlands)), salt, low sodium (Sodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), white pepper (White pepper.). Hiilijalanjälki: 0.24 kg CO2e / annos",
+    "nutrition": "Energy 1191kJ, energy 286kcal, fat 22g, of which saturated fat 1.4g, carbohydrate 15g, of which sugars 3.4g, protein 4.9g, salt 1.1g, fibre 3.1g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "mustard",
+      "soybens",
+      "sulfur dioxide and sulfits"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": {
+      "student": "3.10",
+      "graduate": "6.35",
+      "contract": "7.30",
+      "normal": "9.80",
+      "student_hyy": "3.10",
+      "graduate_hyy": "6.35"
+     },
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Chow Mein vegetable sauce (Chinese twist)",
+    "ingredients": "Water, vegetable protein (Plant-based protein strips (pea protein, water, gluten-free whole grain OAT flour, gluten-free OAT groats), marinade (water, rapeseed oil, natural flavourings, sugar, herbs extract). Contains 23 % pea protein and 12 % OAT. May contain traces of soy.), sweet pepper (yellow bell pepper (34%), red bell pepper (33%), green pepper (33%)), carrot (carrot (100%)), onion (onion (Poland)), SOY sauce (Water, SOYBEAN PROTEIN HYDROLYZATE, salt.), sugar (sugar (Netherlands)), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), chilli sauce, cornstarch, ginger paste (Ginger 86 %, vinegar, sugar, salt, acidity regulator (citric acid, ascorbic acid).), canola oil (rapeseed oil), browning sauce (Colour (caramel E150c), water, salt, preservative (potassium sorbate).), black pepper, soft brown sugar (Sugar and cane sugar syrup), lime juice (lime juice from concentrate (non-EU), preservative (E224 POTASSIUM METABISULPHITE).). Hiilijalanjälki: 0.24 kg CO2e / annos",
+    "nutrition": "Energy 353kJ, energy 84kcal, fat 3.4g, of which saturated fat 0.4g, carbohydrate 7.1g, of which sugars 4.1g, protein 5.3g, salt 0.79g, fibre 1.5g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "Veg",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "oat",
+      "soybens",
+      "sulfur dioxide and sulfits"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": {
+      "student": "3.10",
+      "graduate": "6.35",
+      "contract": "7.30",
+      "normal": "9.80",
+      "student_hyy": "3.10",
+      "graduate_hyy": "6.35"
+     },
+     "name": "Vegaanilounas"
+    }
+   },
+   {
+    "name": "Chicken in pesto sauce",
+    "ingredients": "Water, chicken roast strips (chicken thigh, rapeseed oil. Origin of chicken Finland. 118 g of meat have been used for 100 g of product), MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified maize and tapioca starch, emulsifier(E472e), flavouring, colour(beta-carotene)), sun-dried tomato (sun-dried tomato (non-EU), sunflower oil, salt, garlic, wine vinegar, acidity regulator (E270)), onion (onion (Poland)), zucchini (zucchini), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), tomato puree (tomato (100 %, Portugal)), cornstarch, lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), chicken bouillon powder (Dried glucose syrup, salt, flavourings, chicken fat 3.8%, chicken skin and meat powder 1.8%, acid (citric acid, lactic acid), spices (white pepper, turmeric), lovage.), sugar (Sugar), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), turmeric (Turmeric), black pepper. Hiilijalanjälki: 0.24 kg CO2e / annos",
+    "nutrition": "Energy 568kJ, energy 136kcal, fat 10g, of which saturated fat 1.8g, carbohydrate 3.5g, of which sugars 1.6g, protein 6.9g, salt 0.69g, fibre 0.5g, lactose <0.01g.",
+    "meta": {
+     "0": [
+      "G",
+      "KELA",
+      "L",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "milk",
+      "sulfur dioxide and sulfits"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": {
+      "student": "3.10",
+      "graduate": "6.35",
+      "contract": "7.30",
+      "normal": "9.80",
+      "student_hyy": "3.10",
+      "graduate_hyy": "6.35"
+     },
+     "name": "Lounas"
+    }
+   },
+   {
+    "name": "Steamed rice",
+    "ingredients": "Water, rice (parboiled long-grain rice). Hiilijalanjälki: 0.27 kg CO2e / annos",
+    "nutrition": "Energy 497kJ, energy 117kcal, fat 0.6g, of which saturated fat 0.2g, carbohydrate 25g, of which sugars <0.5g, protein 2.5g, salt <0.01g, fibre 0.5g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "Veg"
+     ],
+     "1": [],
+     "2": []
+    },
+    "price": {
+     "value": [],
+     "name": "Lisäke"
+    }
+   }
+  ]
+ }
+]
