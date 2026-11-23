@@ -155,34 +155,6 @@
     }
    },
    {
-    "name": "Chicken in pesto sauce",
-    "ingredients": "Water, chicken roast strips (chicken thigh, rapeseed oil. Origin of chicken Finland. 118 g of meat have been used for 100 g of product), MILK based vegetable fat mix/cooking CREAM (Skimmed MILK (Finland), water, rapeseed oil, modified maize and tapioca starch, emulsifier(E472e), flavouring, colour(beta-carotene)), sun-dried tomato (sun-dried tomato (non-EU), sunflower oil, salt, garlic, wine vinegar, acidity regulator (E270)), onion (onion (Poland)), zucchini (zucchini), pesto (sunflower oil (65%, EU and non-EU), concentrated basil (30%, Italy), salt, corn starch, garlic, wine vinegar, fructose, acidity regulators (E270, E330).), tomato puree (tomato (100 %, Portugal)), cornstarch, lemon juice (lemon juice from concentrate (Italy), preservative (E224 POTASSIUM METABISULPHITE)), chicken bouillon powder (Dried glucose syrup, salt, flavourings, chicken fat 3.8%, chicken skin and meat powder 1.8%, acid (citric acid, lactic acid), spices (white pepper, turmeric), lovage.), sugar (Sugar), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), turmeric (Turmeric), black pepper. Hiilijalanjälki: 0.54 kg CO2e / annos",
-    "nutrition": "Energy 568kJ, energy 136kcal, fat 10g, of which saturated fat 1.8g, carbohydrate 3.5g, of which sugars 1.6g, protein 6.9g, salt 0.69g, fibre 0.5g, lactose <0.01g.",
-    "meta": {
-     "0": [
-      "G",
-      "KELA",
-      "L"
-     ],
-     "1": [
-      "milk",
-      "sulfur dioxide and sulfits"
-     ],
-     "2": []
-    },
-    "price": {
-     "value": {
-      "student": "3.10",
-      "graduate": "6.35",
-      "contract": "7.30",
-      "normal": "9.80",
-      "student_hyy": "3.10",
-      "graduate_hyy": "6.35"
-     },
-     "name": "Lounas"
-    }
-   },
-   {
     "name": "Steamed rice",
     "ingredients": "Water, rice (parboiled long-grain rice). Hiilijalanjälki: 0.27 kg CO2e / annos",
     "nutrition": "Energy 497kJ, energy 117kcal, fat 0.6g, of which saturated fat 0.2g, carbohydrate 25g, of which sugars <0.5g, protein 2.5g, salt <0.01g, fibre 0.5g, lactose 0g.",
@@ -197,6 +169,30 @@
     "price": {
      "value": [],
      "name": "Lisäke"
+    }
+   },
+   {
+    "name": "Strawberry curd",
+    "ingredients": "Whipping CREAM (CREAM, stabiliser (carrageenan)), QUARK (pasteurised skim MILK, starter culture.), strawberry (finnish strawberry), sugar (sugar (Netherlands)), vanillin sugar (sugar (EU and non-EU), vanillin). Hiilijalanjälki: 0.29 kg CO2e / annos",
+    "nutrition": "Energy 787kJ, energy 189kcal, fat 13g, of which saturated fat 7.8g, carbohydrate 12g, of which sugars 12g, protein 4.7g, salt 0.06g, fibre 0.5g, lactose 0g.",
+    "meta": {
+     "0": [
+      "G",
+      "L",
+      "Ilmastovalinta"
+     ],
+     "1": [
+      "milk"
+     ],
+     "2": [
+      "Ilmastovalinta"
+     ]
+    },
+    "price": {
+     "value": {
+      "normal": "1.50"
+     },
+     "name": "Jälkiruoka"
     }
    }
   ]
