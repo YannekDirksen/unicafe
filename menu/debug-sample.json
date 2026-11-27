@@ -3,8 +3,8 @@
   "title": "Olivia staff restaurant",
   "items": [
    {
-    "name": "Unlimited bolognese",
-    "ingredients": "Water, root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), vegan mince (Water, pea protein, rapeseed powder, salt, flavorings and spices (black and white pepper), beetroot juice concentrate, caramelized sugar, carrageenan. Partially defatted rapeseed powder may cause an allergic reaction in consumers who are allergic to mustard and mustard products.), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), cherry tomato (cherry tomatoes, tomato juice, salt, acidity regulator: citric acid), onion (onion (100%)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), soft brown sugar (Sugar and cane sugar syrup), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), thyme, basil (Basil.). Hiilijalanjälki: 0.25 kg CO2e / annos",
+    "name": "Unlimited sauce",
+    "ingredients": "Water, root vegetable strips (carrot 46% (EU), CELERY 20% (EU), leek 18% (EU), parsnip 16% (EU)), vegan mince (Water, pea protein, rapeseed powder, salt, flavorings and spices (black and white pepper), beetroot juice concentrate, caramelized sugar, carrageenan. Partially defatted rapeseed powder may cause an allergic reaction in consumers who are allergic to mustard and mustard products.), crushed tomatoes (tomato (Italy), tomato juice (Italy), acidity regulator (E330)), cherry tomato (cherry tomatoes, tomato juice, salt, acidity regulator: citric acid), onion (onion (100%)), tomato puree (tomato (100 %, Portugal)), canola oil (rapeseed oil), cornstarch, vegetable bouillon powder (Salt, dried glucose syrup, flavourings, onion powder 5,8%, modified starch, maltodextrin, rapeseed oil, vegetable concentrate 3,4% ( carrot, leek, mushroom, broccoli, red bell pepper), spices (turmeric, white pepper, coriander seeds), sugar, sprite vinegar powder.), crushed garlic (garlic (80%, Eu), water, sugar, white wine vinegar, acidity regulator (E330), preservative (E211)), soft brown sugar (Sugar and cane sugar syrup), red wine vinegar (red wine vinegar, preservative (potassium hydrogen SULPHITE)), black pepper, salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), oregano (Oregano.), thyme, basil (Basil.). Hiilijalanjälki: 0.44 kg CO2e / annos",
     "nutrition": "Energy 296kJ, energy 71kcal, fat 3.3g, of which saturated fat 0.2g, carbohydrate 5.6g, of which sugars 3.8g, protein 4.0g, salt 0.57g, fibre 1.5g, lactose 0g.",
     "meta": {
      "0": [
@@ -27,18 +27,21 @@
     }
    },
    {
-    "name": "Salmon loaf patties with sour cream sauce",
-    "ingredients": "SALMON mince patty (Farmed Norwegian SALMON (Salmo salar) 54 %, caught MSC certified SHAITHE (Pollachius virens) 29 % FAO 27 Northeast Atlantic, gluten free OAT bran, potatoflake, onion, gluten free OAT fiber, lemon juice, dill, salt, white pepper.), SOURCREAM (pasteurized CREAM(Finland), starter culture.), lemon juice (lemon juice made from concentrate (non EU).), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), sugar (sugar), dill. Hiilijalanjälki: 0.59 kg CO2e / annos",
-    "nutrition": "Energy 712kJ, energy 169kcal, fat 11g, of which saturated fat 3.2g, carbohydrate 5.8g, of which sugars 1.3g, protein 13g, salt 0.62g, fibre 2.2g, lactose <0.01g.",
+    "name": "Fried vendaces & remoulade sauce",
+    "ingredients": "VENDACE (VENDACE (Coregonus Albula, caught seine, trawl and trap fresh water lake Saimaa in Finland) 83 %, RYE flour, white peppar, salt, rapeseed oil, lactos free BUTTER), remoulade mayonnaise (water, rapeseed oil, pickled vegetables (18%) (cucumber, carrot, cauliflower, onion, sugar, acidity regulator E260, water, salt, preservative E202, flavourings), MUSTARD (water, MUSTARD SEEDS, sugar, acidity regulator E260, salt, preservative E202), sugar, EGG yolk, spirit vinegar, modified potato starch, iodized salt, thickener (E415), spices (garlic, cumin), preservatives (E202), acidity regulator (E575), flavour), lemon juice (Lemon Juice 99,9%, essential oil (extracted from lemon rind) Antioxidant: Potassium metabisulphite (E224)), chives (chives (EU)), dill (dill). Hiilijalanjälki: 0.56 kg CO2e / annos",
+    "nutrition": "Energy 1247kJ, energy 298kcal, fat 25g, of which saturated fat 2.8g, carbohydrate 6.1g, of which sugars 3.1g, protein 14g, salt 1.7g, fibre 0.8g, lactose 0g.",
     "meta": {
      "0": [
-      "KELA",
       "L"
      ],
      "1": [
+      "cereals containing gluten",
+      "eggs",
       "fish",
       "milk",
-      "oat"
+      "mustard",
+      "rye",
+      "sulfur dioxide and sulfits"
      ],
      "2": []
     },
@@ -49,7 +52,7 @@
    },
    {
     "name": "Broiler in bacon sauce",
-    "ingredients": "Chicken fillet (chicken fillet (91 %), water, iodised seasalt. Origin of chicken Finland), MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), bacon crumbles (pork, water, iodised salt, dextrose, stabilizer E 450, antioxidant E 301, preservative sodium nitrite. Origin of pork Finland.), onion (onion (Poland)), flat-leaf parsley (flatparsley), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), white balsamic vinegar (white wine vinegar, grape juice concentrate, antioxidant (E228 potassium hydrogen SULPHITE)), black pepper, non alcoholic white wine (De-alcoholised Chardonnay wine, rectified concentrated grape must, flavouring, carbon dioxide, preservatives, SULPHUR DIOXIDE, E242.), bay leaf (Bay leaf), thyme (Finnish thyme), pimento (Allspice Whole). Hiilijalanjälki: 0.82 kg CO2e / annos",
+    "ingredients": "Chicken fillet (chicken fillet (91 %), water, iodised seasalt. Origin of chicken Finland), MILK based vegetable fat mix/cooking CREAM (CREAM (Finland), modified starches (potato, tapioca), acidity regulator (E331).), bacon crumbles (pork, water, iodised salt, dextrose, stabilizer E 450, antioxidant E 301, preservative sodium nitrite. Origin of pork Finland.), onion (onion (Poland)), flat-leaf parsley (flatparsley), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), white balsamic vinegar (white wine vinegar, grape juice concentrate, antioxidant (E228 potassium hydrogen SULPHITE)), black pepper, seasoning, syrup (Sugar syrup), non alcoholic white wine (De-alcoholised Chardonnay wine, rectified concentrated grape must, flavouring, carbon dioxide, preservatives, SULPHUR DIOXIDE, E242.), bay leaf (Bay leaf), thyme (Finnish thyme), pimento (Allspice Whole), lemon juice (lemon juice made from concentrate (non EU).). Hiilijalanjälki: 1.01 kg CO2e / annos",
     "nutrition": "Energy 585kJ, energy 140kcal, fat 8.8g, of which saturated fat 4.0g, carbohydrate 2.1g, of which sugars 1.5g, protein 13g, salt 0.70g, fibre 0.2g, lactose <0.01g.",
     "meta": {
      "0": [
@@ -69,19 +72,16 @@
     }
    },
    {
-    "name": "Steamed basmati rice",
-    "ingredients": "Water, basmati rice (basmati rice), salt (Salt, iodine (2.5 mg/100g), anti-caking agent (E535)), flat-leaf parsley (flatparsley). Hiilijalanjälki: 0.14 kg CO2e / annos",
-    "nutrition": "Energy 503kJ, energy 119kcal, fat <0.5g, of which saturated fat <0.1g, carbohydrate 26g, of which sugars <0.5g, protein 2.8g, salt 0.04g, fibre 0.6g, lactose 0g.",
+    "name": "Roasted vegetables",
+    "ingredients": "Vegetable mix (Paprika red, zucchini, red onion), canola oil (rapeseed oil), salt, low sodium (englantiSodium chloride, potassium chloride, magnesium sulfate, lysine hydrochloride, anti-caking agent (silica), potassium iodide.), carrot slices (Carrot (origin: FI). May contain traces of other vegetables.), leek (Leek (origin: FI/NL/FR/ES). May contain traces of other vegetables.), vegetable mix (Zucchini (30 %), carrot (20 %), broccoli (15 %), onion, red capsicum, yellow capsicum, green capsicum.), olive oil (extra virgin olive oil), thyme (Thyme), basil (Basil), flat-leaf parsley (flatparsley)",
+    "nutrition": "Energy 431kJ, energy 104kcal, fat 9.7g, of which saturated fat 0.7g, carbohydrate 3.5g, of which sugars 3.1g, protein 0.9g, salt 0.55g, fibre 1.3g, lactose 0g.",
     "meta": {
      "0": [
       "G",
-      "Veg",
-      "Ilmastovalinta"
+      "Veg"
      ],
      "1": [],
-     "2": [
-      "Ilmastovalinta"
-     ]
+     "2": []
     },
     "price": {
      "value": [],
